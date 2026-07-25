@@ -1,0 +1,19 @@
+{
+  "name": "solace-theme",
+  "version": "0.1.2",
+  "src": {
+    "url": "https://github.com/bhavya-dang/Solace",
+    "rev": "b081bab974de9d24516d63f3fdf5b2db6d6c9ca4",
+    "date": "2026-06-26T14:50:38+05:30",
+    "path": "/nix/store/x4wb8g91n6bwf92b3r9yv4l8f4s9y93g-Solace-b081bab",
+    "sha256": "0w7h6pn4i6qn68vfffbvgfpfiap9qwjabpx5wy9zalr26n9wky4f",
+    "hash": "sha256-jvjJkzUiU/WT56XfpSTH6arornt7Oec2MhabSOw18HA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "lucent-blur-theme",
+  "version": "0.3.0",
+  "src": {
+    "url": "https://github.com/callqh/lucent-blur",
+    "rev": "d8fc724eb27bcedc20c2a4c035c7283871be7ff5",
+    "date": "2026-07-24T11:24:04+08:00",
+    "path": "/nix/store/3gvln43d3d054ckpk5xdvrhdil5wyrj1-lucent-blur-d8fc724",
+    "sha256": "0i7swcyc3nsn0v3lnvgjrqm8qi75yrnqf5fc2haayydyspw5zm5q",
+    "hash": "sha256-uNRf+NW+ea8UFMwVh2325USMKs7ybUvHBlbbwTzj+kQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
