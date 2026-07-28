@@ -1,13 +1,13 @@
 {
   "name": "phpcs",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "src": {
     "url": "https://github.com/mike-bronner/zed-phpcs-lsp",
-    "rev": "eb38f1f8cbaf500cb507ec464ce8893e447aa7dd",
-    "date": "2026-06-12T20:16:55Z",
-    "path": "/nix/store/a852w1g72dycdj5nsvgq488crbz40r3x-zed-phpcs-lsp-eb38f1f",
-    "sha256": "1npdns7y9jb8gkwkvvr0vr4hqddd356cx1jam7p5f5lr8abqnkiw",
-    "hash": "sha256-PE6Ll0KZFlfuqUqGzkwZrTUMSd4g7z35fGjJ5I+27do=",
+    "rev": "10c40a7861b388cafc8fc5e2908ac7e4734b3ea3",
+    "date": "2026-07-23T07:42:14-07:00",
+    "path": "/nix/store/6hfj46vxhll4h1b4js13dyvzsxiha2qg-zed-phpcs-lsp-10c40a7",
+    "sha256": "0rsljcilh0qbdr8hkhs1703cm9g46vz5sqi7lgpkmg8xjbwi4bw4",
+    "hash": "sha256-hC8S+ZIdvTrvoydiXf425KXKBjhBwwlRbgsDSCOTVGc=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-APRcW6v4FsoDk9DKrSx7vKzIPECkaObdI3hkS50nZCs="
+  "cargoHash": "sha256-TL5ynZ+K5fwXcJlT1IL4xbX6A/v7VpXjRssJSQhwsPc="
 }

@@ -1,0 +1,21 @@
+{
+  "name": "livetennis-mcp",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/livetennisapi/zed-livetennis-mcp",
+    "rev": "59ab15ecda37405f4385ca059bcbce282b033f16",
+    "date": "2026-07-22T19:13:16+03:00",
+    "path": "/nix/store/vjxqvbk3dn16nbrj7hw114v5rj1xnrgn-zed-livetennis-mcp-59ab15e",
+    "sha256": "1ynhn8fg6n5fikcqzms1fy7zzd2jqzfw88pl62yz3jsldm5aky86",
+    "hash": "sha256-BvmpSm1Uy/G9MPQixN3HUrT/j3dB14/ZjK5Y8xyy0Po=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-Az3p4EeCj1tijviAFsr/DYjx0U3vc/lUw2rAONHUCzg="
+}

@@ -1,13 +1,13 @@
 {
   "name": "odin",
-  "version": "0.3.13",
+  "version": "0.3.15",
   "src": {
     "url": "https://github.com/zed-extensions/odin",
-    "rev": "7daacb0fe9cda674a4124e84d5a081b42895a340",
-    "date": "2026-07-20T18:50:48+02:00",
-    "path": "/nix/store/1chnvvxbwdnaf4k3hz3r4ilv3db0knq4-odin-7daacb0",
-    "sha256": "1l9y1v9m1sj7r0g57g57p13sg8xd5h4dhz16cw5p2ca11mvk2nk1",
-    "hash": "sha256-YVoxdw1BMXELZyZ82AgsraOnR7invFMeyEfqUNMOPtE=",
+    "rev": "267a7208cba89b678de223ff7011a5d4a33c4972",
+    "date": "2026-07-27T17:27:48+02:00",
+    "path": "/nix/store/w2nrdl7dhplrravbg0ipfja2qnj8akwz-odin-267a720",
+    "sha256": "1ij99ham24sxg7bc51yl7131yjcg5y5h8sq434y95nb1ryrj45v1",
+    "hash": "sha256-YRcis89h2ZI8GQRrBIsvj0kfRjjUh8LWeV0TURVMScY=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-98Ak6zrMCvUuwcCVc2imN/7BJmbCCbhispyPgfsku50="
+  "cargoHash": "sha256-a8NY+DENzoto7pzjL6lNTCrR0wmAPuuWVxqUzROOMRM="
 }

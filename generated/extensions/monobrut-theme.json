@@ -1,0 +1,19 @@
+{
+  "name": "monobrut-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/akullpp/monobrut-theme",
+    "rev": "da9db1bc1fac9da538b0b5a2c3251ccfcb5fcfa7",
+    "date": "2026-07-27T10:29:11+02:00",
+    "path": "/nix/store/2cfbb8c67fz4vi68si2c9dsflsnlm9v3-monobrut-theme-da9db1b",
+    "sha256": "16qmk5m7p9rpi9vk5gnxp0nfm4k7k4fmrxfwjp7mqgn973ca79ya",
+    "hash": "sha256-yqej2DjJPlzPldz1XB2ZZ5LqLLjdvjJ3ijene2qZFZs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

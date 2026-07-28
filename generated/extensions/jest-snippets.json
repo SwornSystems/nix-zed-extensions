@@ -1,0 +1,19 @@
+{
+  "name": "jest-snippets",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/tmsbkn/jest-snippets",
+    "rev": "bc7e2f2507163a6a4b7ff45590f12ba3baa2a436",
+    "date": "2026-07-24T18:25:43-04:00",
+    "path": "/nix/store/6m11p9splygzqiam7h4m62rr8xjhhmlv-jest-snippets-bc7e2f2",
+    "sha256": "0x9kznf0c2y07dsp6b50j0pfdnf1l78j8g94nvigva32445848pn",
+    "hash": "sha256-9iKCCiFiqP3itiQ9JNGhwdnmLpCgLHN1O8ALBpz9M3U=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

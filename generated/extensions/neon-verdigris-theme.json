@@ -1,0 +1,19 @@
+{
+  "name": "neon-verdigris-theme",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/slaps-keyboard/zed-theme-neon-verdigris",
+    "rev": "ab50ad0ef8aa3158702335448725888a52f019b0",
+    "date": "2026-07-24T23:09:45-02:30",
+    "path": "/nix/store/6x6w5ggwkizwm7n1y00cp0gh66gszh3w-zed-theme-neon-verdigris-ab50ad0",
+    "sha256": "1h1nfhs1p71alc223fncqi86plbw4s8z3zv292flp8d7r1zi734y",
+    "hash": "sha256-nowTf8inoUudSGL/8ZEmfNFrUMTMuiEEoyqcGzR0NsA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

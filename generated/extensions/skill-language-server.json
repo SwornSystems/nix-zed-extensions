@@ -1,0 +1,25 @@
+{
+  "name": "skill-language-server",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/CyrusNuevoDia/skill-language-server",
+    "rev": "af695378657ec2987799395ca3e58f0e34318300",
+    "date": "2026-07-27T05:34:45Z",
+    "path": "/nix/store/54iphw3wh785x4n0k6giibfaqv45996c-skill-language-server-af69537",
+    "sha256": "0vspr9byabsf4a0sg8hxcrgccs287zqqwjd0rxb7kp3g9wjlxr50",
+    "hash": "sha256-oOROJU9v3HlWz6BJjvE/SGjGXmYdoqeBIk4v5VfKV28=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "ext/zed",
+  "cargoHash": "sha256-5poq/j5HPQbghP6I5wqSSJcCETu2BihRtX+HyEHLrTQ=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/skill-language-server.lock",
+    "outputHashes": {}
+  }
+}
