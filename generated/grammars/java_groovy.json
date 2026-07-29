@@ -1,0 +1,18 @@
+{
+  "id": "java_groovy",
+  "name": "groovy",
+  "version": "deb0dcf8c4544f07564060f6e9b9f6e4b0bfc27d",
+  "src": {
+    "url": "https://github.com/murtaza64/tree-sitter-groovy",
+    "rev": "deb0dcf8c4544f07564060f6e9b9f6e4b0bfc27d",
+    "date": "2026-04-11T10:42:44+02:00",
+    "path": "/nix/store/4ik33sbczgv739nwyjvxmxnq8pvc9n72-tree-sitter-groovy-deb0dcf",
+    "sha256": "05q6q713c1yp4y7dcmq1z957n01fp1s3c2mdhxpcg0idhv0xmcy7",
+    "hash": "sha256-x7PawYYtgsduh60KNnS4LgB7SvoBV9aOJ9cHNsLBBhc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

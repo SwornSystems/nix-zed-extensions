@@ -1,0 +1,18 @@
+{
+  "id": "java_kotlin",
+  "name": "kotlin",
+  "version": "4e909d6cc9ac96b4eaecb3fb538eaca48e9e9ee9",
+  "src": {
+    "url": "https://github.com/fwcd/tree-sitter-kotlin",
+    "rev": "4e909d6cc9ac96b4eaecb3fb538eaca48e9e9ee9",
+    "date": "2024-02-14T15:59:01Z",
+    "path": "/nix/store/630pp36y38mhxk92q6cmcy3052n27vq8-tree-sitter-kotlin-4e909d6",
+    "sha256": "068dnqr8nnkayig1m94rarkwwrki1a8bcn5jby6p9zg1xqdvjsj6",
+    "hash": "sha256-Rmq5G+7h/XSNX7JYtpAKcWbOZ1aZpBpe9GpaizK2DRk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,13 +1,13 @@
 {
   "name": "java",
-  "version": "6.8.21",
+  "version": "6.8.24",
   "src": {
     "url": "https://github.com/zed-extensions/java",
-    "rev": "55db3031c3020425b5d889a5ea3d320e6c300782",
-    "date": "2026-06-29T14:55:18+02:00",
-    "path": "/nix/store/jnidg26w2gmrc9rj9m3jlfwh6986d48m-java-55db303",
-    "sha256": "00zfx9xr9qv1b7hw64ggixc8p2q5h7ijll0lvjvbijqjxz0qjh0v",
-    "hash": "sha256-G0CJwe8Sy7i23BRQKuOBBYuLWI/vEcPhWWHjlHvq7gM=",
+    "rev": "b0c19d21aac2b3d1606128ff493450c3c17f4083",
+    "date": "2026-07-28T22:43:00+02:00",
+    "path": "/nix/store/h6cawsp7j0a4jcf6i5pbcp8alp7nrww4-java-b0c19d2",
+    "sha256": "0xxcqkclmhc76zj18wg2yykbhrzc497h9rwzz32igx10294800zh",
+    "hash": "sha256-8AOASBIg9BfF+J/nBE8i7Ge4pvficRTkN4fBStnErHc=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -15,10 +15,12 @@
   },
   "extensionRoot": null,
   "grammars": [
+    "java_groovy",
     "java_java",
+    "java_kotlin",
     "java_properties"
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-df9FNxLRLjczCpU2t6AMB5hgZpXQGjHOae9Y6wQnMk4="
+  "cargoHash": "sha256-9JuCOilnqtcdLVSO4BLKG0bmSLTW1q2cN0JvZCZdndw="
 }
