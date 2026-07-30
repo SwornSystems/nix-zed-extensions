@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-kubernetes",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ferra-io/zed-mcp-server-kubernetes",
+    "rev": "345316be0df382d909c704541e13bf622d6a9461",
+    "date": "2026-02-02T15:57:54+01:00",
+    "path": "/nix/store/gjqyqi420ywx05d22r7wq1dpxv1bysmg-zed-mcp-server-kubernetes-345316b",
+    "sha256": "0v8fd1ms0c4n8pp0hgqlnzdhbgssp8gl7hf4s4k4b1dlhlhh07nf",
+    "hash": "sha256-zh4AIYW0hUUm0cTBQx+6Wr8F27cUPwjuRZYwoGtoDm0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-guIlj4Lh+yYy6oHa6HZ/aCamwBYXvGr2MJEWl6qPhEM="
+}

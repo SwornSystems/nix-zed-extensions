@@ -1,13 +1,13 @@
 {
   "name": "angular",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "src": {
     "url": "https://github.com/nathansbradshaw/zed-angular",
-    "rev": "b74d08646e098e9009dc73422e5c8a938cbecc88",
-    "date": "2026-03-18T10:23:00-04:00",
-    "path": "/nix/store/w33g28b2yyaizjhhh1j00hq4vi41liky-zed-angular-b74d086",
-    "sha256": "1n4s19c7x1bpql6g3adwpv9vk5bdc4213zhiap89vgxrqc8zpg58",
-    "hash": "sha256-qLz7EcO5v53QVRH+EQRhbZW50768qfEMxXeFflgKmtg=",
+    "rev": "063a6bb55ee4606429f53621d6d5b431f3221752",
+    "date": "2026-07-28T23:55:34+07:00",
+    "path": "/nix/store/b8p1f95vkwjffncbmxwmbqdxz77jj6w1-zed-angular-063a6bb",
+    "sha256": "034cd55qh69cg6qa74kypzfbz7cl8mzikgg5wmdibx8zl4yn72rc",
+    "hash": "sha256-LItjPaEf9RVb5eW9GX9FlJ2/3L9+kqOweSwZiEtpjAw=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-i41dgii7uR7HLzdd06uJKlAejk86n30rAABtpwJGWuA="
+  "cargoHash": "sha256-a36+aWvpbTQ0DuSrsmEClXfTpu5LCtz4s50mHpaS8As="
 }

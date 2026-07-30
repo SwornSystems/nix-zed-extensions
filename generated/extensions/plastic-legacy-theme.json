@@ -1,0 +1,19 @@
+{
+  "name": "plastic-legacy-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/justbipin/zed-plastic-legacy-theme",
+    "rev": "1837983163a74e803ece0154635db27ec0760670",
+    "date": "2026-07-11T02:25:17+05:45",
+    "path": "/nix/store/mm6j55zwa5n5mhw0lpn6qjgg370xyklh-zed-plastic-legacy-theme-1837983",
+    "sha256": "1vqv7wfagyqf3dh1k4j2yr2nh3ck3hbcpwmk1vzfsdz8j7wcf3sf",
+    "hash": "sha256-Tg/H+JHoN+3+DrPyyxYckw1oRfZCkhlgGw77pxw/G+8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
