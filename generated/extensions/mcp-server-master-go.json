@@ -1,13 +1,13 @@
 {
   "name": "mcp-server-master-go",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "src": {
     "url": "https://github.com/aizigao/zed-mcp-server-master-go",
-    "rev": "3f3c30cff8c3a41fcc84a0e629050d5bb255fb54",
-    "date": "2025-10-18T00:11:44+08:00",
-    "path": "/nix/store/nn04lgh4q45whnv87a5kpgnp82m3bl0j-zed-mcp-server-master-go-3f3c30c",
-    "sha256": "1vv6sfwqns38wmn9a6zxlcjzdhs5kkglzpf7zvi8ms4ndh19769v",
-    "hash": "sha256-O5mTAmyW6Iri/sfdT9+cRcP2JaP9G5Vs5Whoi7nTZu8=",
+    "rev": "799f9a988172dd394f6b3364c6db559e9991a9fd",
+    "date": "2026-07-30T17:56:38+08:00",
+    "path": "/nix/store/6hmcn7aydip2xxsfr6c0r9jy22mg7qgk-zed-mcp-server-master-go-799f9a9",
+    "sha256": "1ing9xcqsghlmjyizk5ma0js0l03ni5d8a0v4x7q65s3m0kp9x4w",
+    "hash": "sha256-nPR0J6hDF4NPJxso1Eq0A1CgJVC1zB+9rBQ+jVlPz8Y=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-IJA3lv/7QfNepXaI4Oh7pznOlqKKMMFXkvrApOdJCg0="
+  "cargoHash": "sha256-5xax6Jfee0RK4XrCbms3wSWuXluNQQQ0q8/E4hHHQPk="
 }

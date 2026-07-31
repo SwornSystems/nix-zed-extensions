@@ -1,0 +1,21 @@
+{
+  "name": "laravel-official",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/laravel/zed-extension",
+    "rev": "00fec8ca60630accafea75392268334ece565de9",
+    "date": "2026-07-30T22:46:10+03:00",
+    "path": "/nix/store/nn7anhqg4zjyxyb2259gggxpa7f9jfgp-zed-extension-00fec8c",
+    "sha256": "1y5dg86rhibgxmfnp5zapzpnb9zh2mqjrdjygsa60nlsdsq5vqjb",
+    "hash": "sha256-S+JdsG6aWmCUfl62LHEV8Kdl77/ql2td7W9FmA16rfg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-Upvrm1ujZkow11LdYroeNObEdv8tY5VJoZq9/izKsPs="
+}
