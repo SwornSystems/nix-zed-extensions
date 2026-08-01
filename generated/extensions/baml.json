@@ -1,13 +1,13 @@
 {
   "name": "baml",
-  "version": "0.223.0",
+  "version": "0.224.0",
   "src": {
     "url": "https://github.com/BoundaryML/zed-baml",
-    "rev": "cca3bb9719337a57e122b9a0e2c53adab9d53991",
-    "date": "2026-06-23T22:49:52Z",
-    "path": "/nix/store/8n5xrpfml6cpsn3chp0y38x5k9k14jcd-zed-baml-cca3bb9",
-    "sha256": "1pyjdj9il6bl265ciihp5agz3nbz40qi6fdm64dfg00nddcp379b",
-    "hash": "sha256-K51xWWsWgOcaMbU5EzEgf9nxnyoXxsiKEXQZGpNs0t8=",
+    "rev": "c9a570f75e5487b42d9f7a243a748e72032b8611",
+    "date": "2026-07-31T00:13:26Z",
+    "path": "/nix/store/v3nif3696m0yzal8ykcbkxm11i87f9zr-zed-baml-c9a570f",
+    "sha256": "1czk4l2591dvvny3zw0fy6swh69j2slrbj47mwzp7mks5gnvd7fs",
+    "hash": "sha256-2p227St61nM/r4fIlakWMhnItfEO8D+83buFVAQl87M=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-hIlAo8uVZtUEyW1o7cTI3ilUgJpGYdSie5oNQssr4wg="
+  "cargoHash": "sha256-4MEUMoJWJWGnIjwHMPOvwQwjxURKijux4Egm1THQWS8="
 }

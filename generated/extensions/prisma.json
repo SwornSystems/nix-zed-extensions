@@ -1,13 +1,13 @@
 {
   "name": "prisma",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "src": {
     "url": "https://github.com/zed-extensions/prisma",
-    "rev": "80d3ab68381a50caccbf4b6b4eb776e33a0ba7c1",
-    "date": "2025-12-18T21:21:51Z",
-    "path": "/nix/store/43prahmb25l1q78fx0pvgrxzynpl969d-prisma-80d3ab6",
-    "sha256": "142mp63qm9f69y0ali1nll6w17p7p8rwx4k11dnfqrnrkknskyv0",
-    "hash": "sha256-YPup7ZzZZuxsC2GSzjO6557ADaU2RKqAT8alioe5VZA=",
+    "rev": "153761b02be4eae40eb7fe8414f3e8421a41653f",
+    "date": "2026-07-31T20:12:04+02:00",
+    "path": "/nix/store/9fffqrn679mh6c41vfjk6yc1jkq22css-prisma-153761b",
+    "sha256": "1a7kcp6rqc3yz44sjkp767k359jc39xd4y7jmbzv7w1lvvc5cx47",
+    "hash": "sha256-h3RW2N408LP/qvJ40noaTKYy5jHnTqkJ+X4wnM1l86g=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-+Tp1IVS1qVGvYjVFLItvgayyQJlmPUzm4EEOaiWImdM="
+  "cargoHash": "sha256-0DnkoPP+6J73kmm+CwIDcsuQ79p9GG5ddIP7fgNZqO4="
 }

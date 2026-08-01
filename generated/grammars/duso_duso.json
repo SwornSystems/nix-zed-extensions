@@ -1,0 +1,18 @@
+{
+  "id": "duso_duso",
+  "name": "duso",
+  "version": "8daca19ca785ec23edb83e7ca209ce55143ea9d4",
+  "src": {
+    "url": "https://github.com/duso-org/duso-tree-sitter",
+    "rev": "8daca19ca785ec23edb83e7ca209ce55143ea9d4",
+    "date": "2026-06-11T12:46:02-07:00",
+    "path": "/nix/store/b4n0pgafyvfya6gkrs938chlb9pjcd5y-duso-tree-sitter-8daca19",
+    "sha256": "1p95f12v2dvkwri9l8scl238bp7mvxnxkxbx2gky43sd2l3pk1rd",
+    "hash": "sha256-LYd5BxVND+LnE3312W3f9dyFhqBMI5pi5nM3sUVwJd0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

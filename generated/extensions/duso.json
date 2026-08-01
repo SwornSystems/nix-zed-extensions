@@ -1,0 +1,27 @@
+{
+  "name": "duso",
+  "version": "1.6.21",
+  "src": {
+    "url": "https://github.com/duso-org/duso-zed",
+    "rev": "625e8c521672cc4ba4371358c987d8abc51bb942",
+    "date": "2026-07-25T17:15:39-07:00",
+    "path": "/nix/store/78570m8y0ji113jmwxacip8ksh8qwx7g-duso-zed-625e8c5",
+    "sha256": "0dcf24ssxi97rg1r5l0hrw2gnzzrggzfxbj39zqwppgrdvdkslpr",
+    "hash": "sha256-+VI922753cvxT0Ou7v57+X/7BM8Q0JLDyyfFrjURjjU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "duso_duso"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-PeOSDYKQ0I/qr32O45KzgnoFX7tWGdu2xCjLT3qErZs=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/duso.lock",
+    "outputHashes": {}
+  }
+}

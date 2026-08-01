@@ -1,0 +1,18 @@
+{
+  "id": "xquery_xquery",
+  "name": "xquery",
+  "version": "85f15e8f6388981678838407c25f9222a7abe14b",
+  "src": {
+    "url": "https://github.com/grantmacken/tree-sitter-xquery",
+    "rev": "85f15e8f6388981678838407c25f9222a7abe14b",
+    "date": "2023-06-06T11:05:54+12:00",
+    "path": "/nix/store/daywz849mc88gi4hfxkz24r0375x7ajs-tree-sitter-xquery-85f15e8",
+    "sha256": "18y1wvlx84rz36cbhqpzmd51bdqyppjj2wgvkj56srgcqn16bq6m",
+    "hash": "sha256-1eBlgsXsZW2KnPtxIeW9HrcVSqv/YriYGT8T1OnmwaM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

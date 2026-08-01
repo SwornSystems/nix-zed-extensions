@@ -1,0 +1,21 @@
+{
+  "name": "xquery",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/lorcroce/zed-xquery",
+    "rev": "4e628ba3018d9c0f9c8d9da4e332f6af15a27296",
+    "date": "2026-04-16T11:47:57+02:00",
+    "path": "/nix/store/dz4lkg5xf2xyqflc9k2krzimq6hjw5r1-zed-xquery-4e628ba",
+    "sha256": "0swpcl9mx0jxsbwpdg6166pqp2cp7m6icgxj2qffhrck3zc2y4b3",
+    "hash": "sha256-YxEv2B+TZegcFrI/Fk09l4mLrzHBvHb50l2CXhNll2s=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "xquery_xquery"
+  ],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "rajzik-theme",
+  "version": "1.0.3",
+  "src": {
+    "url": "https://github.com/rajzik/vs-code-theme",
+    "rev": "723f0463fd20d1ff27dd759c0047fc06ccd04bd5",
+    "date": "2026-07-28T11:31:56+02:00",
+    "path": "/nix/store/fgcby8xf8q7w1i16ihj4ywhp6kfjzi8z-vs-code-theme-723f046",
+    "sha256": "0ks784aap0gizvmw6js43wackrgywwk40q7l5fysgy25mmayhc8c",
+    "hash": "sha256-DDHoVa1F+Ke9K/RgQCbn/uXJFB9ES8Pr/vGBqxRBR08=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "packages/zed-theme",
+  "grammars": [],
+  "kind": "plain"
+}
