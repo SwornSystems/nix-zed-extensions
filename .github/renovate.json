@@ -1,0 +1,30 @@
+// https://docs.renovatebot.com/configuration-options
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+
+  "dependencyDashboard": true,
+  "enabledManagers": ["cargo", "github-actions", "nix"],
+
+  // https://docs.renovatebot.com/modules/manager/cargo
+  "cargo": {
+    "enabled": true
+  },
+
+  // https://docs.renovatebot.com/modules/manager/github-actions
+  "github-actions": {
+    "enabled": true
+  },
+
+  // https://docs.renovatebot.com/modules/manager/nix
+  "nix": {
+    "enabled": true
+  },
+
+  "lockFileMaintenance": {
+    "enabled": true
+  },
+
+  "vulnerabilityAlerts": {
+    "enabled": false
+  }
+}
