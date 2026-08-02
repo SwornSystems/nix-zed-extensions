@@ -10,14 +10,13 @@ rustPlatform.buildRustPackage {
   name = "nix-zed-extensions";
   version = "0.0.0";
 
-  src = lib.cleanSourceWith {
-    src = ../../.;
-    filter =
-      name: type:
-      let
-        baseName = baseNameOf (toString name);
-      in
-      (type == "directory" || baseName == "Cargo.toml" || baseName == "Cargo.lock" || lib.hasSuffix ".rs" baseName);
+  src = lib.fileset.toSource {
+    root = ../../.;
+    fileset = lib.fileset.unions [
+      ../../Cargo.toml
+      ../../Cargo.lock
+      ../../src
+    ];
   };
 
   nativeBuildInputs = [
@@ -46,7 +45,7 @@ rustPlatform.buildRustPackage {
   '';
 
   meta = {
-    homepage = "https://github.com/DuskSystems/nix-zed-extensions";
+    homepage = "https://github.com/SwornSystems/nix-zed-extensions";
     license = lib.licenses.gpl3Plus;
     platforms = lib.platforms.all;
     mainProgram = "nix-zed-extensions";

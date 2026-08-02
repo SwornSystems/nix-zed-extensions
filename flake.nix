@@ -3,11 +3,15 @@
 
   inputs = {
     nixpkgs = {
-      url = "github:NixOS/nixpkgs/nixos-26.05";
+      url = "github:NixOS/nixpkgs/nixpkgs-unstable";
     };
 
     rust-overlay = {
       url = "github:oxalica/rust-overlay";
+
+      inputs = {
+        nixpkgs.follows = "nixpkgs";
+      };
     };
   };
 
@@ -31,6 +35,16 @@
 
           overlays = [
             self.overlays.default
+            (final: _prev: {
+              vale-styles = final.symlinkJoin {
+                name = "vale-styles";
+                paths = with final.valeStyles; [
+                  proselint
+                  write-good
+                  redhat
+                ];
+              };
+            })
           ];
         }
       );
@@ -68,6 +82,9 @@
             # Nix
             NIX_PATH = "nixpkgs=${nixpkgs.outPath}";
 
+            # Vale
+            VALE_STYLES_PATH = "${pkgs.vale-styles}/share/vale/styles";
+
             # Rust
             RUST_SRC_PATH = "${pkgs.rustPlatform.rustLibSrc}";
           };
@@ -79,8 +96,9 @@
             clippy
             rustfmt
             rust-analyzer
-            tombi
+            cargo-deny
             cargo-outdated
+            cargo-shear
 
             # WASM
             wasm-tools
@@ -92,18 +110,87 @@
             # CLI
             tree
 
+            # Git
+            committed
+
+            # GitHub
+            pinact
+            zizmor
+
             # Spellchecking
             typos
             typos-lsp
 
-            # GitHub
-            zizmor
+            # Markdown
+            lychee
+            vale
+            vale-ls
+
+            # TOML
+            tombi
+
+            # Nushell
+            nushell
+            nufmt
+            nu-lint
 
             # Nix
             nix-update
+            deadnix
             nixfmt
             nixd
             nil
+          ];
+        };
+
+        # nix develop .#ci
+        ci = pkgs.mkShell {
+          name = "nix-zed-extensions-ci-shell";
+
+          env = {
+            # Vale
+            VALE_STYLES_PATH = "${pkgs.vale-styles}/share/vale/styles";
+          };
+
+          buildInputs = with pkgs; [
+            # Rust
+            rustc
+            cargo
+            clippy
+            rustfmt
+            cargo-deny
+            cargo-shear
+
+            # WASM
+            wasm-tools
+
+            # CLI
+            tree
+
+            # Git
+            committed
+
+            # GitHub
+            zizmor
+
+            # Spellchecking
+            typos
+
+            # Markdown
+            lychee
+            vale
+
+            # TOML
+            tombi
+
+            # Nushell
+            nushell
+            nufmt
+            nu-lint
+
+            # Nix
+            deadnix
+            nixfmt
           ];
         };
       });

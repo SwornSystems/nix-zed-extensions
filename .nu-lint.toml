@@ -1,0 +1,28 @@
+# https://codeberg.org/wvhulle/nu-lint
+
+[groups]
+dead-code = "error"
+documentation = "error"
+effects = "error"
+external = "error"
+filesystem = "error"
+filtering = "error"
+formatting = "error"
+idioms = "error"
+iteration = "error"
+naming = "error"
+parsing = "error"
+performance = "error"
+posix = "error"
+runtime-errors = "error"
+type-safety = "error"
+upstream = "error"
+
+[rules]
+add_hat_external_commands = "off"
+catch_builtin_error_try = "off"
+error_make_for_non_fatal = "off"
+exit_only_in_main = "off"
+merge_multiline_print = "off"
+try_instead_of_do = "off"
+unhandled_external_error = "off"
