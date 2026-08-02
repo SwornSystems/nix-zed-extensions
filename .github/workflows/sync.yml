@@ -22,19 +22,12 @@ jobs:
       contents: write # push
     steps:
       - name: Checkout
-        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           persist-credentials: true
 
-      - name: Install Nix
-        uses: nixbuild/nix-quick-install-action@9f63be77f412a248c9d9a65a4c82cf066cdf8f0c # v35
-
-      - name: Cache Nix
-        uses: DuskSystems/nix-cache-action@dfb0f60031b8762e2211da4c65f3da96e5a8727e # v1.4.1
-        with:
-          key: nix-${{ runner.os }}-${{ runner.arch }}-${{ hashFiles('**/flake.lock', '**/*.nix') }}
-          restore-keys: |
-            nix-${{ runner.os }}-${{ runner.arch }}-
+      - name: Setup
+        uses: ./.github/actions/setup
 
       - name: Sync extensions
         run: nix run .#nix-zed-extensions -- sync
@@ -46,14 +39,14 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if [[ -n "$(git status --porcelain)" ]]; then
             git add .
-            git commit -m "$(date --utc --rfc-email)"
+            git commit -m "chore: Sync extensions ($(date --utc --iso-8601=seconds))"
             git push
             echo "pushed=true" >> $GITHUB_OUTPUT
           else
             echo "pushed=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Trigger test workflow
+      - name: Trigger CI workflow
         if: steps.push.outputs.pushed == 'true'
         uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3 # v9.0.0
         with:
@@ -62,6 +55,6 @@ jobs:
             await github.rest.actions.createWorkflowDispatch({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              workflow_id: 'test.yml',
+              workflow_id: 'ci.yml',
               ref: 'main'
             });

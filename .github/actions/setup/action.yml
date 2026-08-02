@@ -1,0 +1,26 @@
+name: Setup
+description: Common setup steps
+
+runs:
+  using: composite
+  steps:
+    - name: Host info
+      shell: bash
+      run: uname -a
+
+    - name: Install Nix
+      uses: nixbuild/nix-quick-install-action@9f63be77f412a248c9d9a65a4c82cf066cdf8f0c # v35
+
+    - name: Cache Nix
+      uses: SwornSystems/nix-cache-action@d55ba40f70dcccfb4597274644e4363b9fbd3d63 # v1.5.0
+      with:
+        key: nix-${{ runner.os }}-${{ runner.arch }}-${{ hashFiles('**/flake.lock', '**/*.nix') }}
+        restore-keys: |
+          nix-${{ runner.os }}-${{ runner.arch }}-
+
+    - name: Build shells
+      shell: bash
+      run: |
+        for shell in $(nix flake show --json | jq -r '.devShells | to_entries[0].value | keys[] | select(startswith("ci"))'); do
+          nix develop ".#${shell}" --command true
+        done

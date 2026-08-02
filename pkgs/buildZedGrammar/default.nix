@@ -16,7 +16,7 @@ lib.extendMkDerivation {
   ];
 
   extendDrvArgs =
-    finalAttrs:
+    _finalAttrs:
 
     {
       name,

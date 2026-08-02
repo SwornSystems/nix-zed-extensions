@@ -2,10 +2,7 @@
   "remove_trailing_whitespace_on_save": true,
   "ensure_final_newline_on_save": true,
 
-  "file_scan_exclusions": [
-    "**/.direnv",
-    "**/.git"
-  ],
+  "file_scan_exclusions": ["**/.direnv", "**/.git"],
 
   "languages": {
     "Rust": {
@@ -14,14 +11,30 @@
       "formatter": "language_server"
     },
 
-    "Nix": {
-      "language_servers": ["nixd", "nil"],
-      "format_on_save": "on",
-      "formatter": "language_server"
+    "Markdown": {
+      "language_servers": ["vale", "typos"],
+      "soft_wrap": "none"
     },
 
     "TOML": {
       "language_servers": ["tombi"],
+      "format_on_save": "on",
+      "formatter": "language_server"
+    },
+
+    "Nu": {
+      "language_servers": ["nu", "nu-lint"],
+      "format_on_save": "on",
+      "formatter": {
+        "external": {
+          "command": "nufmt",
+          "arguments": ["--stdin"]
+        }
+      }
+    },
+
+    "Nix": {
+      "language_servers": ["nixd", "nil"],
       "format_on_save": "on",
       "formatter": "language_server"
     }
@@ -53,6 +66,39 @@
       }
     },
 
+    "typos": {
+      "binary": {
+        "path": "typos-lsp"
+      }
+    },
+
+    "vale": {
+      "binary": {
+        "path": "vale-ls"
+      }
+    },
+
+    "tombi": {
+      "binary": {
+        "path": "tombi",
+        "arguments": ["lsp"]
+      }
+    },
+
+    "nu": {
+      "binary": {
+        "path": "nu",
+        "arguments": ["--lsp"]
+      }
+    },
+
+    "nu-lint": {
+      "binary": {
+        "path": "nu-lint",
+        "arguments": ["--lsp", "--config", ".nu-lint.toml"]
+      }
+    },
+
     "nixd": {
       "binary": {
         "path": "nixd"
@@ -68,19 +114,6 @@
     "nil": {
       "binary": {
         "path": "nil"
-      }
-    },
-
-    "tombi": {
-      "binary": {
-        "path": "tombi",
-        "arguments": ["lsp"]
-      }
-    },
-
-    "typos": {
-      "binary": {
-        "path": "typos-lsp"
       }
     }
   }

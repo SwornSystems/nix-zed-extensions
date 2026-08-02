@@ -1,5 +1,5 @@
-[![sync](https://github.com/DuskSystems/nix-zed-extensions/actions/workflows/sync.yml/badge.svg)](https://github.com/DuskSystems/nix-zed-extensions/actions/workflows/sync.yml)
-[![test](https://github.com/DuskSystems/nix-zed-extensions/actions/workflows/test.yml/badge.svg)](https://github.com/DuskSystems/nix-zed-extensions/actions/workflows/test.yml)
+[![sync](https://github.com/SwornSystems/nix-zed-extensions/actions/workflows/sync.yml/badge.svg)](https://github.com/SwornSystems/nix-zed-extensions/actions/workflows/sync.yml)
+[![ci](https://github.com/SwornSystems/nix-zed-extensions/actions/workflows/ci.yml/badge.svg)](https://github.com/SwornSystems/nix-zed-extensions/actions/workflows/ci.yml)
 
 # `nix-zed-extensions`
 
@@ -14,7 +14,7 @@ Nix expressions for Zed extensions.
 {
   inputs = {
     zed-extensions = {
-      url = "github:DuskSystems/nix-zed-extensions";
+      url = "github:SwornSystems/nix-zed-extensions";
     };
   };
 }
@@ -22,7 +22,7 @@ Nix expressions for Zed extensions.
 
 ### Overlay
 
-This will register all extensions and grammars as packages under `pkgs.zed-extensions` and `pkgs.zed-grammars` respectively.
+This registers every extension under `pkgs.zed-extensions`, and every grammar under `pkgs.zed-grammars`.
 
 ```nix
 nixpkgs.overlays = [
@@ -30,7 +30,7 @@ nixpkgs.overlays = [
 ];
 ```
 
-Extensions are named like: `<extension_id>`.
+Each extension takes the name `<extension_id>`.
 
 ```bash
 > nix eval --json .#zed-extensions
@@ -42,7 +42,7 @@ Extensions are named like: `<extension_id>`.
 }
 ```
 
-Grammars are named like: `<extension_id>_<grammar_id>`.
+Each grammar takes the name `<extension_id>_<grammar_id>`.
 
 ```bash
 > nix eval --json .#zed-grammars
@@ -56,7 +56,7 @@ Grammars are named like: `<extension_id>_<grammar_id>`.
 
 ### Home Manager Module
 
-A `home-manager` module that allows you to install extensions.
+A `home-manager` module for installing extensions.
 
 Use it alongside your existing `zed-editor` config.
 
@@ -209,4 +209,6 @@ result
 
 ## License
 
-This project is licensed under the terms of the [GNU GPL v3.0](LICENSE), as it contains a re-implementation of [Zed's extension builder](https://github.com/zed-industries/zed/tree/main/crates/extension), which itself is licensed under the GNU GPL v3.0.
+Licensed under the terms of the [GNU General Public License (Version 3.0)](LICENSE).
+
+This project has a re-implementation of [Zed's extension builder](https://github.com/zed-industries/zed/tree/main/crates/extension), which carries the same license.

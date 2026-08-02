@@ -1,0 +1,107 @@
+# https://embarkstudios.github.io/cargo-deny
+
+[graph]
+all-features = true
+exclude-dev = true
+
+# https://embarkstudios.github.io/cargo-deny/checks/advisories/cfg.html
+[advisories]
+db-path = "~/.cargo/advisory-db"
+db-urls = ["https://github.com/rustsec/advisory-db"]
+unmaintained = "all"
+yanked = "deny"
+
+# https://embarkstudios.github.io/cargo-deny/checks/licenses/cfg.html
+[licenses]
+confidence-threshold = 0.9
+include-dev = true
+unused-allowed-license = "deny"
+allow = [
+  "Apache-2.0",
+  "GPL-3.0-or-later",
+  "MIT",
+  "Unicode-3.0",
+]
+
+# https://embarkstudios.github.io/cargo-deny/checks/bans/cfg.html
+[bans]
+allow-wildcard-paths = true
+multiple-versions = "deny"
+wildcards = "deny"
+deny = []
+skip = [
+  { crate = "syn@2" },
+  { crate = "syn@3" },
+]
+
+# https://embarkstudios.github.io/cargo-deny/checks/bans/cfg.html#the-workspace-dependencies-field-optional
+[bans.workspace-dependencies]
+include-path-dependencies = true
+duplicates = "deny"
+unused = "allow" # Prefer `cargo-shear`
+
+# https://embarkstudios.github.io/cargo-deny/checks/bans/cfg.html#the-build-field-optional
+[bans.build]
+executables = "deny"
+interpreted = "deny"
+allow-build-scripts = []
+
+[[bans.build.bypass]]
+crate = "anyhow"
+build-script = "89d1baedcff59822ed692d3a33f131c211a213bdec33c83f68b54110d9c64223"
+
+[[bans.build.bypass]]
+crate = "async-io"
+build-script = "114f314a71b008f860a7f6564971c914206e7a1e2252e9fe7ff675d2f75220b3"
+
+[[bans.build.bypass]]
+crate = "crossbeam-utils"
+build-script = "7a7f9e56ea7fb4f78c4e532b84b9d27be719d600e85eaeb3a2f4b79a4f0b419c"
+
+[[bans.build.bypass]]
+crate = "icu_normalizer_data"
+build-script = "c2d446772e3d766a804963dbf36e51729f910920f91f4b68c0c199fe6ca0853e"
+
+[[bans.build.bypass]]
+crate = "icu_properties_data"
+build-script = "c2d446772e3d766a804963dbf36e51729f910920f91f4b68c0c199fe6ca0853e"
+
+[[bans.build.bypass]]
+crate = "libc"
+build-script = "e47f4a6762799b6e69cefc7acdb3291df828010e4de20609f7378f9c94ea29e6"
+
+[[bans.build.bypass]]
+crate = "proc-macro2"
+build-script = "baeb20b52f6b536be8657a566591a507bb2e34a45cf8baa42b135510a0c3c729"
+
+[[bans.build.bypass]]
+crate = "quote"
+build-script = "cd6808c02e476b09a520105e2c6f6d325cccb1ecd542cbbcc836a0ae6f6fb0f1"
+
+[[bans.build.bypass]]
+crate = "rustix"
+build-script = "74cb32e64aa6fe99c2496a425b016e22f4e43c438a8237966b8acae04a98eaf9"
+
+[[bans.build.bypass]]
+crate = "serde"
+build-script = "e2ea6a7a82f5404c3e28cb055883c737ee7903367a10206fbb47b75c009f0eb3"
+
+[[bans.build.bypass]]
+crate = "serde_core"
+build-script = "7bc6b1eec8913ff4cd8e4b9b92cd04a82a4f38beb30a0b73a64c1e6e49f07b5f"
+
+[[bans.build.bypass]]
+crate = "serde_json"
+build-script = "a681e754be844c7dbef957f5d2d00b01f37c5dca160ef1055a8d8f975697a881"
+
+[[bans.build.bypass]]
+crate = "zmij"
+build-script = "ad320bc635887879bdbbf1b9322da4a157ec2c5a4243bd7c2cf9b6884a3b2a41"
+
+# https://embarkstudios.github.io/cargo-deny/checks/sources/cfg.html
+[sources]
+allow-registry = ["https://github.com/rust-lang/crates.io-index"]
+unknown-registry = "deny"
+unknown-git = "deny"
+unused-allowed-source = "deny"
+allow-git = []
