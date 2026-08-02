@@ -55,8 +55,6 @@
 
         zed-grammars = pkgs.zed-grammars;
         zed-extensions = pkgs.zed-extensions;
-
-        wasi-sdk = pkgs.wasi-sdk;
       });
 
       devShells = perSystemPkgs (pkgs: {

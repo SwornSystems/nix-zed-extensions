@@ -5,8 +5,6 @@ final: prev: {
 
   nix-zed-extensions = prev.callPackage ../pkgs/nix-zed-extensions { };
 
-  wasi-sdk = prev.callPackage ../pkgs/wasi-sdk { };
-
   # Allow pre-fetching cargoHash.
   # https://github.com/NixOS/nixpkgs/blob/master/pkgs/build-support/rust/fetch-cargo-vendor.nix
   # Prefer 'v2' script if exists.
