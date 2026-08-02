@@ -23,6 +23,7 @@ jobs:
     permissions:
       contents: read
       issues: write # renovate
+      pull-requests: read # renovate
     steps:
       - name: Checkout
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
