@@ -33,6 +33,7 @@ def main []: nothing -> nothing {
     nu-lint --config .nu-lint.toml ...$scripts
 
     # Nix
+    nix flake check
     nixfmt --check --width=120 ...$nix
     deadnix --fail .
 

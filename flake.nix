@@ -66,11 +66,12 @@
       # nix build .#<name>
       packages = perSystemPkgs (pkgs: {
         nix-zed-extensions = pkgs.nix-zed-extensions;
+        wasi-sdk = pkgs.wasi-sdk;
+      });
 
+      legacyPackages = perSystemPkgs (pkgs: {
         zed-grammars = pkgs.zed-grammars;
         zed-extensions = pkgs.zed-extensions;
-
-        wasi-sdk = pkgs.wasi-sdk;
       });
 
       devShells = perSystemPkgs (pkgs: {
