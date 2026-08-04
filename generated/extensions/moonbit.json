@@ -1,13 +1,13 @@
 {
   "name": "moonbit",
-  "version": "0.1.7",
+  "version": "0.2.0",
   "src": {
     "url": "https://github.com/quirk-lab/zed-moonbit",
-    "rev": "4d2e9cb40c16adbfa4c16f6c5fabc1c975e3419a",
-    "date": "2026-06-27T19:46:47+02:00",
-    "path": "/nix/store/25xb8gwdb2xqcx8l9f772ymcjv0a2ad0-zed-moonbit-4d2e9cb",
-    "sha256": "1hp7lpm5y4pm073px57164zf2g1xli0ivq4jqc2znr6xawvkq013",
-    "hash": "sha256-IwA8N1fdZPsFw5LgHUGkPTzhPjHhlH7HAfUSX+ql58I=",
+    "rev": "ac13c8e171e6e1b99af26d321f6f32ca47d02ff6",
+    "date": "2026-07-31T19:52:27+02:00",
+    "path": "/nix/store/dkfbjkqdcy3279h0x81gqn3qy6baa52f-zed-moonbit-ac13c8e",
+    "sha256": "1p7fl0smr2rlyggif09q6pll3a2xn22krja4kx5hzkgq1vccpn47",
+    "hash": "sha256-h9jL2A74zQ9Ln0TJPIWwXahB6TU4ARff8zSLXDWg7tw=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-xEjXoHiGugmZ85mTL6b02vMsD2kkxwKWLfn7JW/zWaM=",
+  "cargoHash": "sha256-d2D+E3DLSR/CQp43/9NA9E68jLR2XF/zoLBN91P8F1Q=",
   "cargoLock": {
     "lockFile": "/generated/extensions/moonbit.lock",
     "outputHashes": {}
