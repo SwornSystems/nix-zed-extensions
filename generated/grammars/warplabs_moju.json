@@ -1,0 +1,18 @@
+{
+  "id": "warplabs_moju",
+  "name": "moju",
+  "version": "b46f327842bbe21523b9a8f778511fa8a870556b",
+  "src": {
+    "url": "https://github.com/dayu-sec/tree-sitter-moju.git",
+    "rev": "b46f327842bbe21523b9a8f778511fa8a870556b",
+    "date": "2026-05-22T08:49:23+08:00",
+    "path": "/nix/store/41jz4wbs7qljxs5ipqmqm1s0gk18rk3v-tree-sitter-moju-b46f327",
+    "sha256": "121jwlmb2qp3kvi37k2n8h1bvkw2g4h21zhjninixyy3fh6rq549",
+    "hash": "sha256-iRScDXTD+x5ttBL+ICB5gs+9AkRWzDPinuNisSrlMog=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

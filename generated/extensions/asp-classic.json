@@ -1,0 +1,21 @@
+{
+  "name": "asp-classic",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/hendrymudarkt/zed-asp-classic",
+    "rev": "7456ed4eef635c40d3ad674a78f8e17889483aef",
+    "date": "2026-07-08T16:31:06+07:00",
+    "path": "/nix/store/nkxhhl8p87zpcp123djkwsljg3d98hym-zed-asp-classic-7456ed4",
+    "sha256": "149bkq4qfkns69vxwmy6d4an2lxxhn3f0fcscjn3id28dz9xz8a9",
+    "hash": "sha256-SaHf029ItDisZJo54IaFvVNhFWnGV953MtpOhwmeK5E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "asp-classic_asp_classic"
+  ],
+  "kind": "plain"
+}

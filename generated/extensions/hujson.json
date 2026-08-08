@@ -1,0 +1,21 @@
+{
+  "name": "hujson",
+  "version": "1.1.0",
+  "src": {
+    "url": "https://github.com/ggfevans/zed-hujson",
+    "rev": "6e06b0ac0d705bc46c9363cd80fa9e293bfa12cb",
+    "date": "2026-06-14T06:10:10-07:00",
+    "path": "/nix/store/mmwfax4rx82v5sd29vh21psxk25bn0kl-zed-hujson-6e06b0a",
+    "sha256": "1h928vn0apyvdd382lj4dn6sn649p2r9r6p9ffg28rdiyh4svy8s",
+    "hash": "sha256-GvmtCfSxZSSec+manLK4iRirjW1EUoFGa9tfBexGIsE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "hujson_hujson"
+  ],
+  "kind": "plain"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "skript",
+  "version": "0.2.5",
+  "src": {
+    "url": "https://github.com/DaisyCatTs/SkriptZed",
+    "rev": "c580169f1b0ba9b9c5f3205599364fb6b479f4e2",
+    "date": "2026-08-07T19:26:59+01:00",
+    "path": "/nix/store/cb3msmdc7psbnc6dpmld14kgsykfqmks-SkriptZed-c580169",
+    "sha256": "0hkiajswgb7z4ql1n63x9fyyrwbzghk84d4avc2km3ks7c5zjiq4",
+    "hash": "sha256-BEf5Czt6jjoF24o0giZ8f/HsvUt9GBsoJv+sx7VUcUI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "skript_skript"
+  ],
+  "kind": "rust",
+  "cargoRoot": "extension",
+  "cargoHash": "sha256-PEtRMYjof++taTmYDw0ljET3uKsz+AO+ssmmgtvFp80="
+}

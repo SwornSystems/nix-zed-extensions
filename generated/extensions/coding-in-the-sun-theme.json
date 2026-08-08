@@ -1,0 +1,19 @@
+{
+  "name": "coding-in-the-sun-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/tgrecojs/coding-in-the-sun",
+    "rev": "467ebe5d2f0a4dce85a102fde61d976a1265ac55",
+    "date": "2026-08-05T11:30:08-04:00",
+    "path": "/nix/store/xarmw9a98farlnqnp5b0r4lwkj7i5jwm-coding-in-the-sun-467ebe5",
+    "sha256": "04yhdrmx0sxh1x93rfanfzr078z8vrwlas1622h3q4s61724msn4",
+    "hash": "sha256-xOpKxAlGEzygECZoRXne6KMD8ndWuTxSD7Br0Gtu0BM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

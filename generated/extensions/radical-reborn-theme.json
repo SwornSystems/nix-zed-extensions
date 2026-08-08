@@ -1,0 +1,19 @@
+{
+  "name": "radical-reborn-theme",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/AquaOctet/radical-reborn",
+    "rev": "b8a32312da819fd714d7c1130273f6a37cc0569c",
+    "date": "2026-08-05T14:29:54-04:00",
+    "path": "/nix/store/f8cpv2p0hl6y44hmxq8hww5sv2l4xhyy-radical-reborn-b8a3231",
+    "sha256": "0z2bz7hyhqm1ga8hrx9hkmrfsk7q0spqszs49fzpa89gikvrsliq",
+    "hash": "sha256-OFKd94wvIXW/S0R/ja8G+Eztcp0w9QyReqFi6OH5S3w=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

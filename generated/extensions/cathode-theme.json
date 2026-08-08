@@ -1,0 +1,19 @@
+{
+  "name": "cathode-theme",
+  "version": "1.0.1",
+  "src": {
+    "url": "https://github.com/devidb/cathode-zed-theme",
+    "rev": "cf606b35e27f982c4209575af18a838dbf60c5a7",
+    "date": "2026-08-07T16:39:01+02:00",
+    "path": "/nix/store/gv20vq0b2slzl6zmf67lvs6cvk7pl04b-cathode-zed-theme-cf606b3",
+    "sha256": "0ybvjpmh4vla90cxgfwx59gfiw5ss3lry82an1mfg8hp5y6gjb7v",
+    "hash": "sha256-+yz5jC8XoudqsEogn+nQuvDoXiqdu9cZSIpuAuuVe3k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

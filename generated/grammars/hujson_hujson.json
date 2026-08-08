@@ -1,0 +1,18 @@
+{
+  "id": "hujson_hujson",
+  "name": "hujson",
+  "version": "54fb9effbd10fd999ef6e8fecf24b9eae84df53c",
+  "src": {
+    "url": "https://github.com/ggfevans/tree-sitter-hujson",
+    "rev": "54fb9effbd10fd999ef6e8fecf24b9eae84df53c",
+    "date": "2026-06-14T05:06:17Z",
+    "path": "/nix/store/w68jy2371jchj3lpjs7zzyjm0vmx9lls-tree-sitter-hujson-54fb9ef",
+    "sha256": "0lfc2hm0y0dzyd0spsjfibjjla6bbfpvmbs48m8gxsp4cg3i4kjc",
+    "hash": "sha256-TE4Sx2Pk6v5QRUSvuq9byygq5YpO6qtB878BDyoUzFE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

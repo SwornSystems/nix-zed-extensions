@@ -1,13 +1,13 @@
 {
   "name": "warplabs",
-  "version": "0.14.0",
+  "version": "0.17.0",
   "src": {
     "url": "https://github.com/wp-labs/zed-warplabs",
-    "rev": "a43cf62e2265451d227ec692cecb22fd5c90e6a2",
-    "date": "2026-02-25T14:12:04+08:00",
-    "path": "/nix/store/xs58zimxw3d74fszvgqx1q6h6m5vwkbk-zed-warplabs-a43cf62",
-    "sha256": "18881fm054rm3fmfd003gk33rk4kjcl5l5d1d5fb1dsg46zmpmbh",
-    "hash": "sha256-cNVbvyFPt7BcaaEVWiiTk8w8xnwDgOaqGzWTAqoLCKE=",
+    "rev": "a0d678a9fd2506da1c013acbd29352bed38c6eb6",
+    "date": "2026-06-26T00:06:46+08:00",
+    "path": "/nix/store/np74n2rxfv9c0i2nxrr0g648yxmswnv0-zed-warplabs-a0d678a",
+    "sha256": "17sk4m9zdaplpr2yafbsrz18v9midnz7fbwdnc1qm1zqa3g0xpmj",
+    "hash": "sha256-st4O3lD4h4oDs40vd75tsaaNws96OeVFvvSq9lMlU58=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -16,13 +16,13 @@
   "extensionRoot": null,
   "grammars": [
     "warplabs_gxl",
+    "warplabs_moju",
     "warplabs_oml",
-    "warplabs_wfg",
     "warplabs_wfl",
     "warplabs_wfs",
     "warplabs_wpl"
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-b8mx/nJPwH2HmV6+MqjfNNMPXhxKQMEOtrtePPEvLGA="
+  "cargoHash": "sha256-dEujk5+g7bjIWbiuPCizZ78I1TXE0gXdcqDHIVCifdc="
 }

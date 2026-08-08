@@ -1,0 +1,23 @@
+{
+  "name": "open-dylan",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/ganderzz/zed-dylan",
+    "rev": "eb2c6ada43bf9c415b4d1d8681068061dc5f80f5",
+    "date": "2026-06-21T10:34:05-07:00",
+    "path": "/nix/store/kxzi788qpw678wp0mk9c6lck6z2l89rq-zed-dylan-eb2c6ad",
+    "sha256": "04isz2xj0qkyssmqzj1nzfv65cj3vhyqb43d9vydb6v31sf8r8av",
+    "hash": "sha256-W6GMnA5jm9X8Tm2QhT3cQ7Jitvs2yI+r1n5iILv4OhI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "open-dylan_dylan"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-nUO/LiQnH2RryoSrLyuMbw1wFEqXGGU2CIG6q8muplY="
+}

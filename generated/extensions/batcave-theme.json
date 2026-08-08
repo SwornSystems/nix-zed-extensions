@@ -1,0 +1,19 @@
+{
+  "name": "batcave-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/mertdeveci5/batcave-theme",
+    "rev": "5f7ae67b4d453bd2b233e2db06787c81e63f81b0",
+    "date": "2026-08-05T21:41:31+01:00",
+    "path": "/nix/store/sw47ggjhgfbmb1mbp1yadnvs6w5laj5c-batcave-theme-5f7ae67",
+    "sha256": "1qj06aclwqynjvnjl9yvqjvd28lr23amk5dczq3xqa7f7cacjgkl",
+    "hash": "sha256-dD7JFDvuKNwH/qyVWdUQmSLRtsTbJyrtltZjTpkyQOI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "stix-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/GhostVox/Stix",
+    "rev": "185804b70cab72d6f92ae060b1037b557c22c3e6",
+    "date": "2026-07-19T16:24:12-04:00",
+    "path": "/nix/store/j4isd0fk9pl1ivxy0g9s02kx89diyz5w-Stix-185804b",
+    "sha256": "0n5rmkf295288waxfvkkza08r2czi3rps2bqg7rhi1ci75iqmn3a",
+    "hash": "sha256-atiKYzmRhQjzeXgJffOIn4mMgPpzbtcVR0iUJNysuVg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

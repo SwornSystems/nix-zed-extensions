@@ -1,0 +1,18 @@
+{
+  "id": "modelfile_modelfile",
+  "name": "modelfile",
+  "version": "495aa4f4c27c853af8f5981adb74fb0a3daeaf42",
+  "src": {
+    "url": "https://github.com/jackwsmth/tree-sitter-modelfile",
+    "rev": "495aa4f4c27c853af8f5981adb74fb0a3daeaf42",
+    "date": "2026-05-06T18:42:24+01:00",
+    "path": "/nix/store/bh88rj119j1p1kiq28p60w96papnyik1-tree-sitter-modelfile-495aa4f",
+    "sha256": "1gdscfi4s6qy75ncxl8hpxpz0fnh5gw2y7vm5l8hc3jwm4r4pjr6",
+    "hash": "sha256-JstLMqlcDgYRLXUfL/gr0Drwb78Q0c5sOR4bTaJjur0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,19 @@
+{
+  "name": "one-dark-vibrant-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/julian-graf/zed-one-dark-vibrant",
+    "rev": "56835ba82a0ec42d23cc5a0342744a4c4c1bb961",
+    "date": "2026-07-24T17:10:09+02:00",
+    "path": "/nix/store/p00lk9a5k3f1q68ryrr2fwhihj2vsiis-zed-one-dark-vibrant-56835ba",
+    "sha256": "0qkj0zp9m117w56rd199ksl8zdqp77w9q6sza4cx9w6sgvalv1mr",
+    "hash": "sha256-uYZN1X7a8NQZUV8bnPg5F7ePqJ4phZZN4SeEmu4HcmI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

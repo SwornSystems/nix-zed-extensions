@@ -1,0 +1,18 @@
+{
+  "id": "open-dylan_dylan",
+  "name": "dylan",
+  "version": "acaca0932e456c2707880a14dae15747750746e9",
+  "src": {
+    "url": "https://github.com/ganderzz/tree-sitter-dylan",
+    "rev": "acaca0932e456c2707880a14dae15747750746e9",
+    "date": "2026-06-20T21:23:39-07:00",
+    "path": "/nix/store/m7sxfdk21s91jlamxq3x0kg32l2f5n0k-tree-sitter-dylan-acaca09",
+    "sha256": "0d7mz4i29zymyml831j6rjzgkjp75j0ps2knzzm1h3abxsnvzlqv",
+    "hash": "sha256-G9O/re5LDRjq/3YKfYEs58r5vsxGhoFo9dX/JCL59TQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

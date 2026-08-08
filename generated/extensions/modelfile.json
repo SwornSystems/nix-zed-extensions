@@ -1,0 +1,21 @@
+{
+  "name": "modelfile",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/jackwsmth/modelfile-zed",
+    "rev": "14cac8102d4f6b5a7515206b098906bcb6a77cc9",
+    "date": "2026-05-07T13:06:16+01:00",
+    "path": "/nix/store/sh3yyvyyc0dv57v6vygaa5i7crfm5w0y-modelfile-zed-14cac81",
+    "sha256": "1i1xhhdvlalrbm6l003718n8p0zba79w33v4s5ajz9xywhzdfpi8",
+    "hash": "sha256-KF7XPuS+py9V0WSPwdNR64OLLApnAEBNXZkquhuEPcQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "modelfile_modelfile"
+  ],
+  "kind": "plain"
+}

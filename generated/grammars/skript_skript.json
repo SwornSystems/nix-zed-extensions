@@ -1,0 +1,18 @@
+{
+  "id": "skript_skript",
+  "name": "skript",
+  "version": "e69b6ef39eb7b148f16f83d6f6bcee13b50f60b3",
+  "src": {
+    "url": "https://github.com/DaisyCatTs/SkriptZed",
+    "rev": "e69b6ef39eb7b148f16f83d6f6bcee13b50f60b3",
+    "date": "2026-08-07T03:11:53+01:00",
+    "path": "/nix/store/lc0yaz4svmwdvdfbph1nkbmqr9j41i4m-SkriptZed-e69b6ef",
+    "sha256": "0ijv8lawxlgcaxdsfsvqgw79m5dvmsqfrqybq05w0nxbg94idz2v",
+    "hash": "sha256-W/wWSXqrW8ALwMvj7LCuu5WaDn94a6dbV+zRzhVFW0Y=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "tree-sitter-skript"
+}

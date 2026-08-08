@@ -1,0 +1,19 @@
+{
+  "name": "orng-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/aefly/orng",
+    "rev": "dbf228ebd886324676bef85235deeebd61354588",
+    "date": "2026-07-02T04:37:13+02:00",
+    "path": "/nix/store/4adlh18qwqxs6526jkj4m511h1wy42w9-orng-dbf228e",
+    "sha256": "18xli9k5dc2l51hvwd123clbd49kkfg548rshpsgk4m7q0r5s7pq",
+    "hash": "sha256-+B5dMsCnkvn0hTojUp6bM5G2KBsiNL5hKFSwVmaKtKM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

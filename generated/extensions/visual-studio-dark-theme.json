@@ -1,0 +1,19 @@
+{
+  "name": "visual-studio-dark-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ralnss/zed-visual-studio-dark",
+    "rev": "5377f45fe6c0d0c326cd33e7126deef5f1b28da8",
+    "date": "2026-07-21T20:52:03+02:00",
+    "path": "/nix/store/lfh3bcfm75ly2h10bkbprnvh2aqvnri5-zed-visual-studio-dark-5377f45",
+    "sha256": "1yr7363vfjl113l9a31zvvc66yfqzgafriaqh24hhiarvyqlf1f5",
+    "hash": "sha256-xQVHsd9ZRQiJgFjF7NT72Hlj2N4/DJXoCIFKt4cZJ/s=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

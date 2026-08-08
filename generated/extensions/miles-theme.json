@@ -1,0 +1,19 @@
+{
+  "name": "miles-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/imkarmona/miles-theme",
+    "rev": "535d0f8490700df84c863090afc9950fda729b90",
+    "date": "2026-08-07T15:45:48-03:00",
+    "path": "/nix/store/57a6ihfk9fk2rqsfwfiwwd6m9z9i6add-miles-theme-535d0f8",
+    "sha256": "0c4h6lx5lls57x2fdbxy3qwqkdqxd6gvlaxqjkkflqyhizsn6bjw",
+    "hash": "sha256-XC5j9Y/QY+rmlLgrup9pHbeJOR6+r+ZEP0VTWjo1kDA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ifc",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/Finradon/zed-ifc",
+    "rev": "b9f603cd5248be71f35189651cba72345e761788",
+    "date": "2026-04-24T10:01:49+02:00",
+    "path": "/nix/store/vd9m3qisq1nhglsndn7k5f5qcl74ih17-zed-ifc-b9f603c",
+    "sha256": "0di6lzg03gkmbhw28mkvnnc0pyjgins05ar85dx76ii1vdk5z7cq",
+    "hash": "sha256-mJ1fZtshRnN6KyirArSNT/oLmLV7ViQ4XHW+Ad6nJjY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "ifc_ifc"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-8830mCPXx/MYOr36NhATUqBqgGyIN0MCX9iOIuBtsjU="
+}

@@ -1,0 +1,19 @@
+{
+  "name": "edgerunners-2-theme",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/Nicktriez/edgerunners-2-zed-editor-themes",
+    "rev": "e906f65ffde8eb6c80f065b0a961f447f9ec55cd",
+    "date": "2026-07-18T16:16:31+02:00",
+    "path": "/nix/store/7g51g1qx2nqxk9a3qjrz1pl2k7iynawb-edgerunners-2-zed-editor-themes-e906f65",
+    "sha256": "0dcbn85f8ikc74112a3gz2d7xp768rfq3iz7n30naya6ng2zjw0w",
+    "hash": "sha256-HHD5xbNGeWXBsOfHgV1G5tx+mvhvKBECOWxG5AqyizU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

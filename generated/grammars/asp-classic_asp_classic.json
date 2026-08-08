@@ -1,0 +1,18 @@
+{
+  "id": "asp-classic_asp_classic",
+  "name": "asp_classic",
+  "version": "29c82455a082ee7b8c7e84b03db88e3b00af45cb",
+  "src": {
+    "url": "https://github.com/hendrymudarkt/tree-sitter-asp-classic",
+    "rev": "29c82455a082ee7b8c7e84b03db88e3b00af45cb",
+    "date": "2026-07-08T16:19:49+07:00",
+    "path": "/nix/store/lzvnwb3yjaas4rhqd4wbn7sbsaxyfvp0-tree-sitter-asp-classic-29c8245",
+    "sha256": "06hjvcs8hmdra726qw8y2nqxgra21p6vs0rw5ri1lvg148c709x8",
+    "hash": "sha256-qCdwGCLhbRpiLjwDvc0NQuXXsRUecWzEUblViDTbEho=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

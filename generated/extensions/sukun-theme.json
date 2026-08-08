@@ -1,0 +1,19 @@
+{
+  "name": "sukun-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ahmedash95/sukun",
+    "rev": "eeac552be8e23291789e636297c44359bf43be96",
+    "date": "2026-07-23T18:46:42+02:00",
+    "path": "/nix/store/pxxaa386qmc4w6gn4pi8cijxhsj0kcxn-sukun-eeac552",
+    "sha256": "1jggwl5fsacq1v7h2854j7byvrf25zwykkjn6v9sanxzvh5a9305",
+    "hash": "sha256-BYykCty/W6XTNlbO6fkvwuXt15GkIAHPDpgp7Qrl78k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

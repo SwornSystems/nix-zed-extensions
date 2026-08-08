@@ -1,0 +1,18 @@
+{
+  "id": "ifc_ifc",
+  "name": "ifc",
+  "version": "bd5039f5d7929a9a8e1c138cd449ec385f17789e",
+  "src": {
+    "url": "https://github.com/NepomukWolf/tree-sitter-ifc",
+    "rev": "bd5039f5d7929a9a8e1c138cd449ec385f17789e",
+    "date": "2026-03-24T13:28:46+01:00",
+    "path": "/nix/store/n9h9nrrf3qjnbjm5zd2ksrrb54a15mya-tree-sitter-ifc-bd5039f",
+    "sha256": "1qxpi3h8mnz31cwf3518y2z3rnvx0apd9gqgk0r1fmbdxbnlbs29",
+    "hash": "sha256-SehF7eptVRcymA+/1K4Cfds8vvAolOE4C+PbiuCIt+M=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}
