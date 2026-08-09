@@ -1,0 +1,18 @@
+{
+  "id": "robots-txt_robots_txt",
+  "name": "robots_txt",
+  "version": "0c066107e3548de79316a6a4ec771e2f7cf7c468",
+  "src": {
+    "url": "https://github.com/opa-oz/tree-sitter-robots-txt",
+    "rev": "0c066107e3548de79316a6a4ec771e2f7cf7c468",
+    "date": "2026-01-02T11:47:55+09:00",
+    "path": "/nix/store/jk70kzks6cn24ylwa1g8xpvmn2iqhjbg-tree-sitter-robots-txt-0c06610",
+    "sha256": "0bv0cj8b5i6zsv4za4cip78ijghhn78wjh22qhb7pi3z09mbj2kx",
+    "hash": "sha256-fQq5agJ/xHsWxEJAydGxED4Z0bmREfXJ1t/EspBkYC8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

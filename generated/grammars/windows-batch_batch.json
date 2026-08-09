@@ -1,0 +1,18 @@
+{
+  "id": "windows-batch_batch",
+  "name": "batch",
+  "version": "b5ebbfd167ee4bf8b8ff39d883f9db031a6898f4",
+  "src": {
+    "url": "https://github.com/wharflab/tree-sitter-batch",
+    "rev": "b5ebbfd167ee4bf8b8ff39d883f9db031a6898f4",
+    "date": "2026-04-21T13:36:15+02:00",
+    "path": "/nix/store/h4sfgp0nl8175f7zwgdjf7sqnnwngj9m-tree-sitter-batch-b5ebbfd",
+    "sha256": "07l371gv6i8ha7vmph0zl2ir9mj0rfgrbzlhxjpb3g95glql7lfh",
+    "hash": "sha256-0NFDMX0lvbGu7JD+lZ/LQNaUo6AfwFv3URBFs184gx4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

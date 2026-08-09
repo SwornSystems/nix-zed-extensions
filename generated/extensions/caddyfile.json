@@ -1,13 +1,13 @@
 {
   "name": "caddyfile",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "src": {
     "url": "https://github.com/nusnewob/caddyfile-zed",
-    "rev": "37a819d563b3385f0f601f4fb81627318acbdf1c",
-    "date": "2026-03-08T15:39:48Z",
-    "path": "/nix/store/zb3cwjwws9igp7s3vixrr1936x66fl01-caddyfile-zed-37a819d",
-    "sha256": "19f8sf12wy905wwbr43r814xipcblag83gj52xdlfzrf959vhsaf",
-    "hash": "sha256-Tmm4U0kuf0dbF0W+gZ6ii93YSUB5kLw4LyB5LoLTyKU=",
+    "rev": "6631b10fe3c1b6c92173ce3d80a48f739d57cd89",
+    "date": "2026-07-27T22:21:34+01:00",
+    "path": "/nix/store/h6iyibik8dc08hg90k68m6av9wfcpwz6-caddyfile-zed-6631b10",
+    "sha256": "0mfhjqzriyqnsi03gj3vmn4vdifj5ixk7z7cah26mcqk8x6vf8js",
+    "hash": "sha256-WiK3TUcTs2oEVOz8M3ss0sW2ia17yDdA1Bb7mD+W0FU=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-WGWuo5IJzv0MrXomt8IxdmLS33SEFfRQJuSt7y5GDo0=",
+  "cargoHash": "sha256-GR71itEB6mss8bJze1gGByS0Lf2i9nNIAgetPuG53hs=",
   "cargoLock": {
     "lockFile": "/generated/extensions/caddyfile.lock",
     "outputHashes": {}

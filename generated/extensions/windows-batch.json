@@ -1,0 +1,23 @@
+{
+  "name": "windows-batch",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/pleahmacaka/zed-batch",
+    "rev": "a9b8eee1b32b17f4becaad99274ce3acc646c08d",
+    "date": "2026-08-04T15:14:18+09:00",
+    "path": "/nix/store/bjmj5cb0w4mjqf98axl7sd45v7jzcvgw-zed-batch-a9b8eee",
+    "sha256": "0ha3lm3ixln5y0g0axa91xryfqwyi84l4iqyf18f7kralw4qsj2r",
+    "hash": "sha256-WUiNCacqz+NQcB5HQgmKnmPncw9JdQUe8MXSHkelQ0E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "windows-batch_batch"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-n7TnF0MhPy+asPKgjezJ+mi6HAS8V0EsmQYdwHy3G7s="
+}

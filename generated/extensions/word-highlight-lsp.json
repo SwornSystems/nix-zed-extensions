@@ -1,0 +1,21 @@
+{
+  "name": "word-highlight-lsp",
+  "version": "0.1.4",
+  "src": {
+    "url": "https://github.com/0xdea/zed-highlight",
+    "rev": "eb73c905f6040a0619d436699ce8424f0b70720d",
+    "date": "2026-08-08T18:12:34+02:00",
+    "path": "/nix/store/fj1018rhn02dg9vvc83njdw6gh5lbyfc-zed-highlight-eb73c90",
+    "sha256": "1k4xc4vxhk45f4ma4ds2gzm00f89pgkwn2bm5npvswgnllv7nr1l",
+    "hash": "sha256-NGR7NqX2cb2vLXUJy+e7CTkA6n9CN6IqcYVM2Ddhncw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-yhZlHDzZH9VUHA74ZGOiAjG7OkwFng0hemCBubPt540="
+}

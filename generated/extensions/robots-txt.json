@@ -1,0 +1,21 @@
+{
+  "name": "robots-txt",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/pleahmacaka/zed-robots-txt",
+    "rev": "ed7ea82c71967219ce65213a679cd54d394cf9aa",
+    "date": "2026-08-04T16:52:46+09:00",
+    "path": "/nix/store/lb5wggix4vgxy889wf60dm31f5b5wrxj-zed-robots-txt-ed7ea82",
+    "sha256": "1yznyxinaywbs5ar0crmrhvszh2ymjrcn4qdaf0hy5xhk79ln15k",
+    "hash": "sha256-swRL05mwFw+BUw0Ty7KsXsCvN8w1M5BV0Yt7ZWP39vs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "robots-txt_robots_txt"
+  ],
+  "kind": "plain"
+}

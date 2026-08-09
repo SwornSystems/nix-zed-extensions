@@ -1,13 +1,13 @@
 {
   "name": "sagemath",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "src": {
     "url": "https://github.com/rot256/zed-sagemath",
-    "rev": "cb4c4110fe28b312120de42731d409f21ba5a3a5",
-    "date": "2024-12-11T10:29:27+01:00",
-    "path": "/nix/store/s8qjj5r5zlbz8b1p88g75q8v4357a51j-zed-sagemath-cb4c411",
-    "sha256": "05ymz4f9arw4myh2hwbajk3niw0vjhrv3zmrpab59nzcni9iwr27",
-    "hash": "sha256-R2QeU7Ts21SWurn+sTOUG/Box5RqcSigr4RnlRz51Rc=",
+    "rev": "e2046cbe5c19bdf800bec954a05a09b5a4e5e928",
+    "date": "2026-08-08T17:54:20+02:00",
+    "path": "/nix/store/di4cnaqj7xab4ibva8baby5db5q9i5gn-zed-sagemath-e2046cb",
+    "sha256": "1zv47v10lccmv2jnr3xmgkxly1dlpvfrpxqfc7hff0qyzgxvkr4i",
+    "hash": "sha256-keS5+/seA+fgYQ73m92+tAVP+3y1j2yl2JUxCsI+ZP8=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,7 @@
   "grammars": [
     "sagemath_sage"
   ],
-  "kind": "plain"
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-G6WDpD/eQhOc/FG3UvEB7fSBmlbFpM3dTIZf/+haueg="
 }

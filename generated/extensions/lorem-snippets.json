@@ -1,0 +1,19 @@
+{
+  "name": "lorem-snippets",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ertugruldasgin/lorem-snippets",
+    "rev": "3fb4a41c97842b92bf519732317a94507933a5d8",
+    "date": "2026-06-19T12:51:33+03:00",
+    "path": "/nix/store/fbjmmwp97fgnxnqs9h9ls4hg39b80ymh-lorem-snippets-3fb4a41",
+    "sha256": "1lixw0nw5i7n6m1al1dxf47329qbg63glvj2v990kzw742nnq0jk",
+    "hash": "sha256-UwJsrSCH/wlS2kJu+oZ5CycxDnG9BapCNfbEwi3gPdI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

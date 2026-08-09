@@ -1,0 +1,19 @@
+{
+  "name": "zeraphim-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/Zeraphim/zed-theme",
+    "rev": "d3f79f5f31169bd3d1bd54713502551898ae6c49",
+    "date": "2026-08-08T07:12:25+08:00",
+    "path": "/nix/store/x2pmiryajykmmypwyq5b0b03scic9fgi-zed-theme-d3f79f5",
+    "sha256": "0p4lgnswwqjf487clqixka2k46f76n8yj4a1pg95mi58w35prkiy",
+    "hash": "sha256-Ps58y+CoxFrSu0ER6ZE1xxkyhZo9YsoOIk5izrV9lFw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

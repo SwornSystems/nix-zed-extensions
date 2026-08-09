@@ -1,0 +1,19 @@
+{
+  "name": "idx-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/kr-aman-sharma/idx-theme",
+    "rev": "4c8bbe0313dae567509ff1d568669497586d79ec",
+    "date": "2026-08-08T14:56:37+05:30",
+    "path": "/nix/store/sm5p9l8z1n79vvwqvfmx8lljhdxvi2df-idx-theme-4c8bbe0",
+    "sha256": "03dmnij7krb6rqkmpp99b4bic6nrri427j22zq04295lmhaibfp6",
+    "hash": "sha256-5roVFay0JEEA/kLII0jM2RoWF1kp3VsnzmbleWS0tQ0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
