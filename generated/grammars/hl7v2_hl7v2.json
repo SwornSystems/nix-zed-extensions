@@ -1,0 +1,18 @@
+{
+  "id": "hl7v2_hl7v2",
+  "name": "hl7v2",
+  "version": "5f57c064a75b505a17d68e58aeafc65a307f47f3",
+  "src": {
+    "url": "https://github.com/Yes25/tree-sitter-hl7v2",
+    "rev": "5f57c064a75b505a17d68e58aeafc65a307f47f3",
+    "date": "2026-04-16T11:16:02+02:00",
+    "path": "/nix/store/y6lyyrxzjf3zzrc82jzhpnv6yi6c594h-tree-sitter-hl7v2-5f57c06",
+    "sha256": "0z9ccw2shll7rz9qz2nmcm6wf5n65li5p5k9f520lmk9sgdkapr5",
+    "hash": "sha256-JV8129NpVgpEcWmWWyItxhbHTWXVio/Tz4dSqAVnLH0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

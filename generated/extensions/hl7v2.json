@@ -1,0 +1,23 @@
+{
+  "name": "hl7v2",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Yes25/zed-hl7v2-extension",
+    "rev": "38c232ce29fd86440a2c57be33a969fba5281d8d",
+    "date": "2026-07-05T13:21:38+02:00",
+    "path": "/nix/store/l955lya5h4m1h028avwj1ww67rfr8y7x-zed-hl7v2-extension-38c232c",
+    "sha256": "1i4ws2wc407rhwh49b36nsv4s3p3p3i0fy7x48rsxbivy1wyimv1",
+    "hash": "sha256-YdfoefA7rq4zIv14B+K44w5NtrZmrEQgh/kAwrjQnMQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "hl7v2_hl7v2"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-RbsZnJD9SHYR8AywPXyT/XVxZYn9+ThBGqJ1TPD8/fU="
+}

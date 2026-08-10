@@ -1,0 +1,21 @@
+{
+  "name": "corn",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/corn-config/corn-zed",
+    "rev": "ec675879ed0387282ecbea6b614b74efa67efac8",
+    "date": "2026-05-10T15:13:03+01:00",
+    "path": "/nix/store/wggipgcphb0wkpn8w4vfk1vvjndc86zp-corn-zed-ec67587",
+    "sha256": "1xxsw2pkmd7hhqfbb4m95lylnj5sv57hqq6kwfb61y7y3ldnm4sw",
+    "hash": "sha256-XJNqGx3++GCW49NgDE/ZukhLPS2pkrUchvC0Oq/guvc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "corn_corn"
+  ],
+  "kind": "plain"
+}

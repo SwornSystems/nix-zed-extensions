@@ -1,0 +1,19 @@
+{
+  "name": "qwark-theme",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/biancofla/qwark",
+    "rev": "e70aa903ca03435773d392f6d4e0bbf3fde02f1e",
+    "date": "2026-08-09T14:18:28+02:00",
+    "path": "/nix/store/9q73m1l72hcqkg8c9g9ysqdw8asnxglv-qwark-e70aa90",
+    "sha256": "127x51v4k5jf9qang03cb85ky9fddrq53wm697ss32asvrifk0kp",
+    "hash": "sha256-d4LpYt5aiaH1SabyUXBuzSU/C1psgGcVTk6WSXYo/Yg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

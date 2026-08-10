@@ -1,0 +1,19 @@
+{
+  "name": "forest-mint-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/lauragarden/zed-forest-mint",
+    "rev": "1d9aa3686a504d8d712b70f4022c6c252a486192",
+    "date": "2026-07-14T21:48:21+02:00",
+    "path": "/nix/store/54hk9sbpnca9y3zb95av2ms9lpqjpmnr-zed-forest-mint-1d9aa36",
+    "sha256": "1555bz23psdwxp63sgif5gad6786pg95d59v4d4zmh1cd75az2ya",
+    "hash": "sha256-youvymkswPpJIzuVVtK7Bh3T1CsuPj3M7bzpO8RfpZQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "fhir-shorthand",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/spilikin/zed-fhir-shorthand",
+    "rev": "98bd55baaaeafa2d6fa1432542c3efbefc0b0a82",
+    "date": "2026-05-26T09:17:34+02:00",
+    "path": "/nix/store/2ayq4kcakrv49ar4xkjp3801kz433hny-zed-fhir-shorthand-98bd55b",
+    "sha256": "0lbgq2h0hg295a16c8d8nbndbdzaj22i1sglq2gi7ayhl1y8b9fs",
+    "hash": "sha256-2qWFfKDQqxOfwPTpEIWQ6rfV7LKoIWaCKkk8CKDAb1E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "fhir-shorthand_fsh"
+  ],
+  "kind": "plain"
+}

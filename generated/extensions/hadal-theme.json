@@ -1,0 +1,19 @@
+{
+  "name": "hadal-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/maikel-479/hadal",
+    "rev": "639404ed22b95375c28147d342270a4515eba740",
+    "date": "2026-08-08T21:05:56+01:00",
+    "path": "/nix/store/vk95g0iz48icpkpcx0d4n55nxh7pg4h2-hadal-639404e",
+    "sha256": "1dmgdqhl9bjkwxrhgln2w97kvg8d6pj5qmiv78sysnwzxss8wdxw",
+    "hash": "sha256-vDeOtO6fW+01OjtWXOQ1Db09T+LC0gdz51OuRCFur7Y=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "quint_quint",
+  "name": "quint",
+  "version": "e9165756c7651cfe1e735051b82eae8ec9d32f83",
+  "src": {
+    "url": "https://github.com/zdavison/tree-sitter-quint",
+    "rev": "e9165756c7651cfe1e735051b82eae8ec9d32f83",
+    "date": "2026-05-03T13:32:46+03:00",
+    "path": "/nix/store/czl6lnlj178s82plzg1wm6rwpvc65s5h-tree-sitter-quint-e916575",
+    "sha256": "1p0hvk0cdmi1pd0j7w5b4bkrqqdfrs1yilkmajxilyqrhidy8bb4",
+    "hash": "sha256-ZC3kW4QZexq7VHXS6IPOrmGc5yKr8CNBuyHWxsDcENw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

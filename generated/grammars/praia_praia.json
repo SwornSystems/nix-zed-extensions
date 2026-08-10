@@ -1,0 +1,18 @@
+{
+  "id": "praia_praia",
+  "name": "praia",
+  "version": "0f1e80478e638bcae5032884834fc8ca78d10656",
+  "src": {
+    "url": "https://github.com/praia-lang/tree-sitter-praia",
+    "rev": "0f1e80478e638bcae5032884834fc8ca78d10656",
+    "date": "2026-05-28T17:02:41+02:00",
+    "path": "/nix/store/pw5pv28lscmcxjn47z2b4wivw552fj5v-tree-sitter-praia-0f1e804",
+    "sha256": "1f4wif3960lnyskj18d4kw6fdgknxag3rcb8yh9j29k3x3s0jgxz",
+    "hash": "sha256-vz8J9OhjJiET9GixPJ7qdr7mDJ+koSCn9pYCk4aLnLg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

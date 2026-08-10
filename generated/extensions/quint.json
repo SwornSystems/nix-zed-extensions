@@ -1,0 +1,23 @@
+{
+  "name": "quint",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/zdavison/zed-quint",
+    "rev": "58eb7a3f4f4df2d6f88bc2c0a5a04b81f8dbfadf",
+    "date": "2026-05-05T23:50:20+02:00",
+    "path": "/nix/store/v3d6skl4pynnh8bywc89i0z9yj9c4wrf-zed-quint-58eb7a3",
+    "sha256": "17hcfnmyzgl0r3f40ml9mv915j1rpnm6fh695dvsv3npqzp1lgc9",
+    "hash": "sha256-iT0a7sfXjq13K8lAZ6q9OcgS0q6JVkDcyIC+76t1DJ4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "quint_quint"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-LVyYWXMlqN6+XaP+zaRWZ9u/wvcKngTJczlSo6LPyWo="
+}

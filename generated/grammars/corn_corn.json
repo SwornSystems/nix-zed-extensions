@@ -1,0 +1,18 @@
+{
+  "id": "corn_corn",
+  "name": "corn",
+  "version": "464654742cbfd3a3de560aba120998f1d5dfa844",
+  "src": {
+    "url": "https://github.com/corn-config/tree-sitter-corn",
+    "rev": "464654742cbfd3a3de560aba120998f1d5dfa844",
+    "date": "2024-06-16T17:10:34+01:00",
+    "path": "/nix/store/7y1bsygdcfgkv6rxfi6dg9k6fv3qbp43-tree-sitter-corn-4646547",
+    "sha256": "1ndpyyip7wlvh1myv3nfp119w1hwfqif19bnzk88gnh877wx53kw",
+    "hash": "sha256-fI7S+TkI2ofQ/Hal4CJ2HAaeQrjOju1rgJvyc6P3t9k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

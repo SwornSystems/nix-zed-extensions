@@ -1,0 +1,23 @@
+{
+  "name": "metascript",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/metascriptlang/metascript-zed",
+    "rev": "4e393101d203d7895cf0556e34b20886037c572d",
+    "date": "2026-05-03T01:37:51+07:00",
+    "path": "/nix/store/2ahgc9lsq7yk50gqj75d14k3z5z8r9di-metascript-zed-4e39310",
+    "sha256": "1cs1x824xpmmw5bwr7f1qj38v7al4003r4bsyfb48ihnhcdyc15l",
+    "hash": "sha256-tATmG4MWRkSW83qRPAAgVJ2NhsTBncxX4bXeTgTqQbM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "metascript_metascript"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-w40gknMZZJvLEFhjrGZr3k0qxsfiSGO5PuPT36VwBgE="
+}

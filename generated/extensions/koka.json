@@ -1,0 +1,23 @@
+{
+  "name": "koka",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/cassiebeckley/zed-koka",
+    "rev": "3b5d244b9c3031649548352979c335e1c61ef6ce",
+    "date": "2026-05-01T00:51:45-07:00",
+    "path": "/nix/store/m6wn849vyp4v2i6j7xp2pkr2akzdhbci-zed-koka-3b5d244",
+    "sha256": "183ynjh6lhm5za6rfq68jv9l259rhszcijri5cfv2i68y2ipqhas",
+    "hash": "sha256-WkF8o/DIRLEdKzHLyL6GORVB05bIYJeN+qVCaqC0fqA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "koka_koka"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-v/2AMv0RxbYBQlywq3mD13+hPykcjjxvGtbNwe8KwXo="
+}

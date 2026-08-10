@@ -1,0 +1,19 @@
+{
+  "name": "pop-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/atsyplenkov/zed-pop-theme",
+    "rev": "6e519f92681a9a9ef122c5b10f6b99d5c5d9a6aa",
+    "date": "2026-05-10T21:46:45+03:00",
+    "path": "/nix/store/9sqyz4k27pyw4xxzg302rhrwky8sbnyf-zed-pop-theme-6e519f9",
+    "sha256": "1vgdiqvnw072cwyq4c1iamyacmd4ri1mlm9qpqbaxgfqnmqvgzw3",
+    "hash": "sha256-g/+3cbXYva4WvjhVWkPMpFWmfFUxMII9Z+IAbjeO7e0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

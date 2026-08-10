@@ -1,0 +1,21 @@
+{
+  "name": "praia",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/praia-lang/praia-zed",
+    "rev": "e82e80e3e92ae0d3638c4bd80793a0435245f3d1",
+    "date": "2026-05-28T17:03:30+02:00",
+    "path": "/nix/store/xlrqqbgyj5hr3s4xxjj8ph0qjdsngld4-praia-zed-e82e80e",
+    "sha256": "05icmddy6fh0hp86y0w7wj3mpxnvz436x3qkiw0amc6hmaibpdg7",
+    "hash": "sha256-57W7oqrQsKoAjxOPbgb52/Zbh+SHA2/QhQA641urLBY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "praia_praia"
+  ],
+  "kind": "plain"
+}

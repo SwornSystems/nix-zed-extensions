@@ -1,0 +1,19 @@
+{
+  "name": "neon-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/spences10/zed-neon",
+    "rev": "227d7502a3c8141d76f80d18ee3ce6c599f3ae0d",
+    "date": "2026-05-06T13:35:50+01:00",
+    "path": "/nix/store/a55qd8d31a35bi0hcbrvrf891k8406d9-zed-neon-227d750",
+    "sha256": "0llgx6wfrfhlqpk7cn0mf4q095fxljhx7f0an567mlz54kxlslmk",
+    "hash": "sha256-s1JN+yTl03pMsQq406Gk3ZUEMHEVWHbmxRS67Ljpj1I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

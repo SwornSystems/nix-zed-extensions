@@ -1,0 +1,19 @@
+{
+  "name": "palette-masters-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/regnull/palette-masters-zed",
+    "rev": "820682d5f0735a7469b027a86281ab233713f254",
+    "date": "2026-05-21T19:28:50-04:00",
+    "path": "/nix/store/hkda4qx1ffjnlb62w7xz5vd76bmbmpni-palette-masters-zed-820682d",
+    "sha256": "13zm13aaqc9mv4ln521rgzkryij8ja217797a29r8vxi28nvlw6i",
+    "hash": "sha256-0XC6LRKxb5STUCedE4SSSEaf5385iGIp2TUxrNQI9Y8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

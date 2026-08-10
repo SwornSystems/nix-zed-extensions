@@ -1,0 +1,18 @@
+{
+  "id": "metascript_metascript",
+  "name": "metascript",
+  "version": "9ca61fea148e7967291b9157cf9335132cc7ad00",
+  "src": {
+    "url": "https://github.com/metascriptlang/tree-sitter-metascript",
+    "rev": "9ca61fea148e7967291b9157cf9335132cc7ad00",
+    "date": "2026-05-03T01:27:18+07:00",
+    "path": "/nix/store/lnk78cxyffbfh59q2rinz401ljz4ri7y-tree-sitter-metascript-9ca61fe",
+    "sha256": "1daglba1vpi0msym13w6vrq0nr07sx5s4pwda6s157fnbd9q6hy8",
+    "hash": "sha256-yEODU1vWnRK0UY1fokvXB2QLcN6Gj1C9riDeHdSiT7U=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

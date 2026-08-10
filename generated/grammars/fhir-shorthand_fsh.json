@@ -1,0 +1,18 @@
+{
+  "id": "fhir-shorthand_fsh",
+  "name": "fsh",
+  "version": "1cf5e02d4b8be7fd810cb0ed4d77f7c682c333cd",
+  "src": {
+    "url": "https://github.com/spilikin/tree-sitter-fsh",
+    "rev": "1cf5e02d4b8be7fd810cb0ed4d77f7c682c333cd",
+    "date": "2026-05-22T14:44:24+02:00",
+    "path": "/nix/store/azmp4bv3p1sywbfpg1f0rdwxmrgy6mfv-tree-sitter-fsh-1cf5e02",
+    "sha256": "06p3fkpzqhyj4mal7787z6hj1d29sjjcsxkb8q6sbgk30zs4sbvz",
+    "hash": "sha256-fy9N9AdjvqUNRmt2zaTUSbQgofkHnUNVJdJD/O904xo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

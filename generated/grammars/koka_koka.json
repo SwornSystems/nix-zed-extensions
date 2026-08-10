@@ -1,0 +1,18 @@
+{
+  "id": "koka_koka",
+  "name": "koka",
+  "version": "07b1ce29a06656b552f7f198e572499062ccfffe",
+  "src": {
+    "url": "https://github.com/koka-community/tree-sitter-koka",
+    "rev": "07b1ce29a06656b552f7f198e572499062ccfffe",
+    "date": "2026-02-23T20:42:03+01:00",
+    "path": "/nix/store/059z65ypa76rk8jj87aqzs281vqpj39r-tree-sitter-koka-07b1ce2",
+    "sha256": "1cgvw0rv6rwxv8bvjmc4rxwmprclyb41501z9x3i090dyplbfxrq",
+    "hash": "sha256-OHe36PUNJBBHTz+AEsjylOVbec+EVbkX2p1nszPg+7E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}
