@@ -1,0 +1,19 @@
+{
+  "name": "voidline-theme",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/knownIndie/voidline-zed-theme",
+    "rev": "43c2128ed349f7948821f89465d64e68570d5fab",
+    "date": "2026-07-24T21:27:18+05:30",
+    "path": "/nix/store/2l4qia29rllbbql4l589a6795jfb8zg7-voidline-zed-theme-43c2128",
+    "sha256": "1p0qil6ixf2hdw5n64fkbcs5rfp43ylrdw29qhr9wls2s2qq3194",
+    "hash": "sha256-JIWBsdBCU54yxEnwlqkf5LpcNFvTEWMLb1C4Hg2NGNw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

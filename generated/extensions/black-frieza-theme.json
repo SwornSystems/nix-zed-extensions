@@ -1,0 +1,19 @@
+{
+  "name": "black-frieza-theme",
+  "version": "1.1.0",
+  "src": {
+    "url": "https://github.com/dylandifilippo/black-frieza",
+    "rev": "998b9c3a811a258d1d1942217ca24704eae0261b",
+    "date": "2026-07-28T14:38:37+02:00",
+    "path": "/nix/store/27qfr1dj1pfsl0nkl3jz7bz8k3ly7j4w-black-frieza-998b9c3",
+    "sha256": "1x1g8l8b2cqhxdc1am4ypjin89kk9axa26vc47pgnkf7vkqrsk48",
+    "hash": "sha256-iEyd8dzHTfvuIWwbobpKcyZko7yeVBVY6xAzsRBFL/Q=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed/black-frieza",
+  "grammars": [],
+  "kind": "plain"
+}

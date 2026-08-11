@@ -1,0 +1,19 @@
+{
+  "name": "lndpnr-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/leaandropinheiro/lndpnr",
+    "rev": "97c298e9f48ebd74af94975360e8b7ddbc89e399",
+    "date": "2026-07-12T21:52:39-03:00",
+    "path": "/nix/store/2k3l5yysab1c4wxbrxgj864vwjn1v0i6-lndpnr-97c298e",
+    "sha256": "1ifi50saxkqvar019xy2vvaw6sa4fcdmhqk7daw63xx7slz1zggl",
+    "hash": "sha256-9L0fPtWn92G4amdiWBtzRGnD1d7C9xRAVhvPrjQo0cU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

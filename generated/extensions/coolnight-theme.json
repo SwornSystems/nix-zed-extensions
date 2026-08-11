@@ -1,0 +1,19 @@
+{
+  "name": "coolnight-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ShayanAbbas1/coolnight-zed",
+    "rev": "53ba12e86d5dd6a696f3ffa81501eef852974a34",
+    "date": "2026-08-10T21:22:12+05:00",
+    "path": "/nix/store/g5vwi0c2x1vcx2c2k2vdz5m42ki2mnlw-coolnight-zed-53ba12e",
+    "sha256": "1a65mwkcj05mq9b83j8iqajhm24xwhnmf1b7rn8rxqyjzp937zdc",
+    "hash": "sha256-rP0z0v3S456RzWcFVy3knYgKpcIRyYFWwrUAySavxag=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

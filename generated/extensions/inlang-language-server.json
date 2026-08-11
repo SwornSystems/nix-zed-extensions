@@ -1,0 +1,21 @@
+{
+  "name": "inlang-language-server",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/NEKOYASAN/inlang-zed",
+    "rev": "402d5e86ec2650cf162d0979600a1b092731d746",
+    "date": "2026-07-25T20:35:35+09:00",
+    "path": "/nix/store/mp463c819b1h7riyqsw88c22na5f9y6r-inlang-zed-402d5e8",
+    "sha256": "08jxq0vg1ywzpw0182zspbif3hd5z9n6a5vw4k58h1rfj6smarf4",
+    "hash": "sha256-xGVVtZEuB4jKJHwXZWz6pcHh4rr6CxQAv5/78DbAXSI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-0KHkZ5cYyjnCwQnld1N3TBUf0/OWyZ8vJGz2T1vdHZA="
+}

@@ -1,0 +1,19 @@
+{
+  "name": "seaglass-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/mrcoolbay/seaglass-theme",
+    "rev": "688d6e4af662013ac972a6489a210725d865cd2e",
+    "date": "2026-07-24T11:22:02+02:00",
+    "path": "/nix/store/yyibikmy1hhb88ipxcxnbfsybsaf59wj-seaglass-theme-688d6e4",
+    "sha256": "0m2qcdz1vpzwij6yj33d2sja87w2v8lfawvwszf2qljaa0rfzc18",
+    "hash": "sha256-KLDvMlBKUizc13xz5Sjagh+kpBZtDOmNjPzfHX5jWFQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

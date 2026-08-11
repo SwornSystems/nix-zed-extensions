@@ -1,0 +1,21 @@
+{
+  "name": "i18n-lens-language-server",
+  "version": "0.11.1",
+  "src": {
+    "url": "https://github.com/yizixu/zed-i18n-lens",
+    "rev": "887bb26d130e7846034a251fdab60f654a460ce3",
+    "date": "2026-07-23T18:11:50+08:00",
+    "path": "/nix/store/1mss2vx1xngvbi2gnxr773yl82k66bwf-zed-i18n-lens-887bb26",
+    "sha256": "0kz6v0w4h7iw5qmmxcswybccjj2bb6afhysgz9c1mlqzydcs9jj5",
+    "hash": "sha256-RcqkWfMf0xpY+k976JRZS0jJ2PJcs14rLjweSDjY5k8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-wDML35oxrVjLSWi57KZtSNkRkTITFtyWRCZhbMwcfVs="
+}

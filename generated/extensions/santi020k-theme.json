@@ -1,0 +1,19 @@
+{
+  "name": "santi020k-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/santi020k/santi020k-theme",
+    "rev": "8a78b2d7c1798cd74b132d8c10ce1bd772b50075",
+    "date": "2026-07-28T01:14:40-05:00",
+    "path": "/nix/store/py6clc0csh7m2q9qa5wwzv88kc4a5h22-santi020k-theme-8a78b2d",
+    "sha256": "1g9h04i9h5zwjwz7h6bkrya87flzjm4m3dbm5pcqkbl336rqpfsh",
+    "hash": "sha256-ULuLsxmDronZLXW1UUmVn7qDlM9zGXg+l/wXmCIBML0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "packages/santi020k-zed-theme",
+  "grammars": [],
+  "kind": "plain"
+}

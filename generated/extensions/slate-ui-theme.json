@@ -1,0 +1,19 @@
+{
+  "name": "slate-ui-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Giossue/slate-ui-theme",
+    "rev": "cb0a317c4146d1639e1abeb899edaaf3055c53e0",
+    "date": "2026-05-23T17:37:00-05:00",
+    "path": "/nix/store/f3hsacafnq519972l3z825mhc279cg7q-slate-ui-theme-cb0a317",
+    "sha256": "04pbmgpv94ps94sp8dz3fmgx3xzbp0gp3ffvdci1pxziigp623c1",
+    "hash": "sha256-gQ1h7ovx9xsia9u5cR+46/fRX3XjN3Q1SfqStO+r6xI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

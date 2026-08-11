@@ -1,0 +1,19 @@
+{
+  "name": "phoenix-pulse-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/phoenix-pulse/zed-themes",
+    "rev": "e53910bab1d20226f437f5e30e91a08f037b0597",
+    "date": "2026-08-09T21:37:47+03:00",
+    "path": "/nix/store/pd267y16flsawf1axg206m8gvm5aj5y1-zed-themes-e53910b",
+    "sha256": "10mrghas08r50sva3qwcw4kiy38ivjd95mi89knsf0yd609wnizk",
+    "hash": "sha256-80fLEzDNA6ftTCjWkprcEQ0fJ+GM46G2BiUjoBV8uYI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

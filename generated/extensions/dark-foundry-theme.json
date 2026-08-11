@@ -1,0 +1,19 @@
+{
+  "name": "dark-foundry-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Giossue/dark-foundry-theme",
+    "rev": "fa42261150fc91559268ffc93c7641341c51cd17",
+    "date": "2026-05-23T17:36:54-05:00",
+    "path": "/nix/store/c9xffzm1zfmm14sfqlls1ry66snmjj61-dark-foundry-theme-fa42261",
+    "sha256": "1n0f5nbdc8mi2p8zadr8x5nmfrzfx7gz8ic63hiwijzqrgaqwjd5",
+    "hash": "sha256-pUmO1cv4y8gjHIZF9N/p7mdXbekoN/XRFbEi1pYtDtg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

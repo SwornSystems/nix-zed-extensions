@@ -1,19 +1,19 @@
 {
   "name": "sora-theme",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "src": {
-    "url": "https://github.com/Aejkatappaja/sora-theme",
-    "rev": "c9d13e8d29547a569e8d6f4f6fe6b634abab72dc",
-    "date": "2026-04-12T22:10:02+02:00",
-    "path": "/nix/store/vkv10z2xsnf4zgqmjlmhhd8i18nkadm6-sora-theme-c9d13e8",
-    "sha256": "0dxnkg4zw8a3bnmp6cg3z08zw5jgl5r2g96lsik4rvny6wrvcq34",
-    "hash": "sha256-ZGC2Mzfe7kxm1NSkJ3KhTxb+EfjjMXOrXUMh/smbtjc=",
+    "url": "https://github.com/Aejkatappaja/sora",
+    "rev": "a20f73e9e593d4b459e98704acaad7a422d5918b",
+    "date": "2026-08-10T20:30:38+02:00",
+    "path": "/nix/store/rp1x4azwjbaqv5wad7xn64qfj0f6kmfb-sora-a20f73e",
+    "sha256": "06s2221ya6fd9mcxa85pqizh5ff51pqpx16ix3s05rf06mbb7syw",
+    "hash": "sha256-3OuzVjXA5QL06NGEfvENxbkCf8S3INVZTc0Z5YMQQhs=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
     "leaveDotGit": false
   },
-  "extensionRoot": null,
+  "extensionRoot": "extras/zed",
   "grammars": [],
   "kind": "plain"
 }

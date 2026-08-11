@@ -1,0 +1,19 @@
+{
+  "name": "efa-dark-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/valyefimov/zed-theme-efa-dark",
+    "rev": "7c0cb2abf775d0a863dee14aba03a08faa2c5cec",
+    "date": "2026-05-06T00:35:01+02:00",
+    "path": "/nix/store/n1v0l6rnzmvbi2d5z5agd57g6kmvi9rw-zed-theme-efa-dark-7c0cb2a",
+    "sha256": "0jmgzs2a58wrp9lpwzjla0w35vsbjkbm41c27nxqga16pkc9w5rv",
+    "hash": "sha256-Oxee2LwmqIe7PYIFUteUS+8yOFBUfn5pupmjooT+r0o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

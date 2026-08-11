@@ -1,0 +1,19 @@
+{
+  "name": "cendre-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/Aejkatappaja/cendre",
+    "rev": "a7304d196a461b4fd341803790329b400c9cff84",
+    "date": "2026-08-07T01:49:17+02:00",
+    "path": "/nix/store/vv805y24dhs632srwrypw5d6r85w4rcz-cendre-a7304d1",
+    "sha256": "0v36imgnw2g83f2z240mhwcvkp4d91ml52pps3xliqmmrrbsbb5l",
+    "hash": "sha256-tKylV8614kj70PeKQmtIjdy5GYcVEPGFG+gJbl+NZmw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "extras/zed",
+  "grammars": [],
+  "kind": "plain"
+}

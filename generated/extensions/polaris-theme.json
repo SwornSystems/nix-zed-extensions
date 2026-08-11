@@ -1,0 +1,19 @@
+{
+  "name": "polaris-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/lukedunwoody/zed-polaris",
+    "rev": "bc9989e9facfdbdc54ceb15da447550026a6689b",
+    "date": "2026-08-01T09:06:45-04:00",
+    "path": "/nix/store/rnxasmw9svndpka3sbavq6axqswnqx5x-zed-polaris-bc9989e",
+    "sha256": "1ic6xcf4c0i56ir21wsknv833bmmph6ir8z9p5yrrpmcs47b1mca",
+    "hash": "sha256-itWwDtGs3px9uemjHA28ta4x0LZT8yByNCUCRhzrhsU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

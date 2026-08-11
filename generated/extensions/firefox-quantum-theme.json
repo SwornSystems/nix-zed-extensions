@@ -1,0 +1,19 @@
+{
+  "name": "firefox-quantum-theme",
+  "version": "1.0.2",
+  "src": {
+    "url": "https://github.com/devinaxo/zed-firefox-quantum-themes",
+    "rev": "26cd175ebd10e36634f42616e81db11db200017c",
+    "date": "2026-08-10T12:57:29-03:00",
+    "path": "/nix/store/zjznr4pw1bdqfrbbrjkjjf5zvdb0syzi-zed-firefox-quantum-themes-26cd175",
+    "sha256": "1zshr34dsldc5jpn62sv4v4gb3jx62z0ldci7b9r16brninwi9ch",
+    "hash": "sha256-kKXIbbR5mZDTOpE1Cr4wXY71yCZbC2OvLKxR3cjIUP8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

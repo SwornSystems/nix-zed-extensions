@@ -1,0 +1,19 @@
+{
+  "name": "pruple-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Specy/zed-pruple-theme",
+    "rev": "972c781bb480120033f6096bc591662f85c62bf8",
+    "date": "2026-08-02T15:00:02+02:00",
+    "path": "/nix/store/44nahq9s32mxvps0zwnsd3pcwyq42bcq-zed-pruple-theme-972c781",
+    "sha256": "1kwwl2vhwkp30jrvn5ha0cza2r9bnd8ybjsw5md81m5xvkilk97s",
+    "hash": "sha256-+qRJ49y91IBaLVzL5VGzK2WhPgMKFruzBONODregnM8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

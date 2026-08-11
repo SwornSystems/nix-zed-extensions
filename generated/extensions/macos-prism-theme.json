@@ -1,0 +1,19 @@
+{
+  "name": "macos-prism-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/ardahamamcioglu/macos-prism-theme",
+    "rev": "8cb53997adfa61c57d6b7391f895ccb8b787d20a",
+    "date": "2026-07-29T21:13:08+02:00",
+    "path": "/nix/store/advr4c089vlgylfcy0vv89c5swn70j2y-macos-prism-theme-8cb5399",
+    "sha256": "0wrqnvj62yfqcgvwxb9d79n07ysv3qi41p6rk5a6akhm0ri7q0fp",
+    "hash": "sha256-1wF8YgYVTmVUmdncQCIeW/sDbDotrc73Y9h5YeS2OHM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

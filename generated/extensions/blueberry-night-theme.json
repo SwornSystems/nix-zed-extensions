@@ -1,0 +1,19 @@
+{
+  "name": "blueberry-night-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/rangaNP/blueberry-night-zed",
+    "rev": "9f311aa86c2d096d63ea3b05de15cde428529eb0",
+    "date": "2026-06-11T04:46:06-07:00",
+    "path": "/nix/store/qi921j5mi2acxlmm17sd0q6qd0schzd1-blueberry-night-zed-9f311aa",
+    "sha256": "1vcqngh964p3whfq2n9z10r4y0abiqbnj3b89dx7a7vy8m3hk672",
+    "hash": "sha256-4pgJR0V+H3V6S2gNaReOSwFPMgg/WYEd5OMSk+CzmO0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

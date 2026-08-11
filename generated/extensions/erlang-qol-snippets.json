@@ -1,0 +1,19 @@
+{
+  "name": "erlang-qol-snippets",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ACodingDay/erlang-qol-snippets",
+    "rev": "e5a0e846ba8644a3592a1986e26cf26a39a66dac",
+    "date": "2026-08-09T14:31:08+08:00",
+    "path": "/nix/store/gv58m5xriz8i00s8lbnarlzkqk02hrfm-erlang-qol-snippets-e5a0e84",
+    "sha256": "0bs52k8wl747yhvfv80vzlibnjwsrpi5kcg7xamdcfq2y6s008nz",
+    "hash": "sha256-3yIAtPECO9aq6uexWeLNmku7Iv0boO029IccytEURS8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

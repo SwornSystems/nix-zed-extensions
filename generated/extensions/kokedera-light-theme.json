@@ -1,0 +1,19 @@
+{
+  "name": "kokedera-light-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/xplato/kokedera-light",
+    "rev": "69659f92c3db38345095d6dd4e2ebeee16436442",
+    "date": "2026-05-04T15:00:10-06:00",
+    "path": "/nix/store/076yfl83mxhccyl4n6xiq4w0y9iwir3s-kokedera-light-69659f9",
+    "sha256": "00x3l75a3y4440q3l2zg4ixf867zp8flix6f3p487y2a9vnw2x3a",
+    "hash": "sha256-anTB7U5K+IPIHc70SB26/xjkeiTvCzowIIT4ocqhowM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

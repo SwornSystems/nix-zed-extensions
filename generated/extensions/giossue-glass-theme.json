@@ -1,0 +1,19 @@
+{
+  "name": "giossue-glass-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Giossue/glass-theme",
+    "rev": "78396cf8ab24aa90159ad77e4bda49295c0b6dd8",
+    "date": "2026-08-10T10:38:23-05:00",
+    "path": "/nix/store/7imibv45mgr5699inzcnkj35rksyfycf-glass-theme-78396cf",
+    "sha256": "0n311zd1n9lpkdkyxm38720rrs9is5k5hh2wp14j0x1ciha1wkql",
+    "hash": "sha256-FE8eFIwsdCBJuFxAWGbRMemcgTho1O5nm5cmG9oPYVg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

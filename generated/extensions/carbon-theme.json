@@ -1,0 +1,19 @@
+{
+  "name": "carbon-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Giossue/carbon-theme",
+    "rev": "ab73b5162a07513d75ebf49ecc175a126764b851",
+    "date": "2026-05-23T17:36:57-05:00",
+    "path": "/nix/store/zrkickg6fajzpm7s9v5lylir0ib0v7ps-carbon-theme-ab73b51",
+    "sha256": "1sn452vkd2f9m36yqmjc8lsxfz3zlhyv2qxsv6ry53j0dz9xv4px",
+    "hash": "sha256-/ZLd029AjuKz2bpjsT2kf3zXNUVMVuzNqMmJNrcoxOo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

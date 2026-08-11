@@ -1,19 +1,19 @@
 {
   "name": "simple-light-theme",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "src": {
     "url": "https://github.com/xseman/simple-light",
-    "rev": "759350f23cdd3e9a724c76cd4f808d26c096d5f7",
-    "date": "2026-06-05T22:02:22+02:00",
-    "path": "/nix/store/7f2wqrcb1ncw64swy934jxyvnj4j2s9m-simple-light-759350f",
-    "sha256": "0xp8ixkzh2iqnmamvg4lkyca48gsp9mdmyha3iv7ay2c78q57cbl",
-    "hash": "sha256-dLFTMDpMeHV2HAr62mq6+iGimJ+UvF1VtTgK+GeP6HY=",
+    "rev": "6b3c41afbb043520fc63bf5ed82b35817958fa29",
+    "date": "2026-08-10T11:41:26+02:00",
+    "path": "/nix/store/yyd7i4w4haxr4kfwdmqfx54kn3nmgcqn-simple-light-6b3c41a",
+    "sha256": "1x4bp2i4zpv4hf6sygzxnjgc47a6apbvzz8axjklm60i7s2iqy28",
+    "hash": "sha256-SHgchT4RmEqn7Ar9v9dVRh3CnrT9P6+Ng2TfT6K4i/Q=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
     "leaveDotGit": false
   },
-  "extensionRoot": null,
+  "extensionRoot": "zed",
   "grammars": [],
   "kind": "plain"
 }
