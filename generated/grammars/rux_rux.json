@@ -1,0 +1,18 @@
+{
+  "id": "rux_rux",
+  "name": "rux",
+  "version": "75b233c08fbbee21ddcf537dce5a75acb50df330",
+  "src": {
+    "url": "https://github.com/rux-lang/Zed",
+    "rev": "75b233c08fbbee21ddcf537dce5a75acb50df330",
+    "date": "2026-05-11T12:33:55+03:00",
+    "path": "/nix/store/g5ns5538cwrj043f3jzxf0f4dy6qqwa6-Zed-75b233c",
+    "sha256": "0m4zvlxm7i1g96wc38rjzs34arag8g0gh79ak5jhkdl4kx9sjndq",
+    "hash": "sha256-uFmpU5+EtgllmSod+MBDT2VFhv4yo8G4SS/EUzvdn1Q=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

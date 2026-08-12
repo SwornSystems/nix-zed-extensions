@@ -1,0 +1,18 @@
+{
+  "id": "fluent_fluent",
+  "name": "fluent",
+  "version": "f49b7dbb0e0d0c99e1386fa1ec1c00f8a560e4b1",
+  "src": {
+    "url": "https://github.com/YouKnow-sys/tree-sitter-fluent",
+    "rev": "f49b7dbb0e0d0c99e1386fa1ec1c00f8a560e4b1",
+    "date": "2026-07-25T03:43:49+03:30",
+    "path": "/nix/store/08ank4bf17fk7kzf5kzyiwm2yvqrhs09-tree-sitter-fluent-f49b7db",
+    "sha256": "0hwkwvml5hhlwl9fz8ydznhl9piimjd8ljcrcsslrl8qin0fg859",
+    "hash": "sha256-qaDngI0Y0Uy1ZplJipqsMd5Eof3No+8S5RTCQuvmk0M=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

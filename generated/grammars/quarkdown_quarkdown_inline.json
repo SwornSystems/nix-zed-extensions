@@ -1,0 +1,18 @@
+{
+  "id": "quarkdown_quarkdown_inline",
+  "name": "quarkdown_inline",
+  "version": "3633ab4b3f97f4744122b210e9e8da1220d19c0e",
+  "src": {
+    "url": "https://github.com/kinten108101/tree-sitter-quarkdown",
+    "rev": "3633ab4b3f97f4744122b210e9e8da1220d19c0e",
+    "date": "2026-01-13T01:23:19+07:00",
+    "path": "/nix/store/3bvz6ibik8201pgzbcpcdjqy89h88liw-tree-sitter-quarkdown-3633ab4",
+    "sha256": "1j3320akba6b2qv9a31r5ks7mh3sc7lwmifwb0rvyxvbf4vq0iva",
+    "hash": "sha256-akeAN3Frd78zWNzFyulhesB69Cw5DJU2FsuoNRUQY8g=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "tree-sitter-quarkdown-inline"
+}

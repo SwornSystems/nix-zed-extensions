@@ -1,0 +1,19 @@
+{
+  "name": "summercamp-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/csalmeida/summercamp-zed-theme",
+    "rev": "2681c85b877899746dbae3e0da5de62178310069",
+    "date": "2026-07-24T18:24:28+01:00",
+    "path": "/nix/store/m0zvb24qwk93wa3krxm4vrwvvp1s28vw-summercamp-zed-theme-2681c85",
+    "sha256": "0mfv6grskvrgadhq417afz85nbzfpjylgpxxv96b617cc4al1qn2",
+    "hash": "sha256-wuJAFWHsBLNM2r3fR7287i9b0HfqBIJhUy/vqfMz21U=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

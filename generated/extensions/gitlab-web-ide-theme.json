@@ -1,0 +1,19 @@
+{
+  "name": "gitlab-web-ide-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/karnauhmax/zed-gitlab-web-ide-theme",
+    "rev": "1b6d78d5e3ae2cd5df76491fda45749563e45d35",
+    "date": "2026-07-02T08:23:35+02:00",
+    "path": "/nix/store/9fjcyip3d8yjm4wjngkn7bqmbx6108gw-zed-gitlab-web-ide-theme-1b6d78d",
+    "sha256": "04kdrrkzvld8qnn4bsdqvhs98pg6vb1inp816xlyag5l3s5pndx2",
+    "hash": "sha256-ojd7ix60POVpNwFdG8Pa5l2UNNy46UWsxajR/WfObRI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

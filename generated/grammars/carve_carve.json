@@ -1,0 +1,18 @@
+{
+  "id": "carve_carve",
+  "name": "carve",
+  "version": "d93cbf2d45818e9889279f515b1050e25ce5afed",
+  "src": {
+    "url": "https://github.com/markup-carve/tree-sitter-carve",
+    "rev": "d93cbf2d45818e9889279f515b1050e25ce5afed",
+    "date": "2026-08-10T18:20:06+02:00",
+    "path": "/nix/store/czaajvqqrviygzd59vp485fcswbvvaw2-tree-sitter-carve-d93cbf2",
+    "sha256": "049a5z0d0zlb0f6sl1l3h43jj7dc3sad4x65zh28fkacm86qjl9b",
+    "hash": "sha256-K1GJDapMTYcE/MV00pQerB0pB4GDBqqNA4t+0MAvKhE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

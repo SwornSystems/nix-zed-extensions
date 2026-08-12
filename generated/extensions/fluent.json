@@ -1,0 +1,21 @@
+{
+  "name": "fluent",
+  "version": "0.13.0",
+  "src": {
+    "url": "https://github.com/YouKnow-sys/fluent-zed",
+    "rev": "92c6d394b059e2e0f86b26f5a2f539b96b9617fc",
+    "date": "2026-07-25T04:26:05+03:30",
+    "path": "/nix/store/gysgprvcfiv5138m5xmqw7rzd233ph6s-fluent-zed-92c6d39",
+    "sha256": "1ri9z309ckpgd2py32sz0904whpj2mjid0qgbkmizjzyha9jfc3b",
+    "hash": "sha256-azAnk4L+yx/rXA+DFmUV8kJOQAJfi+GvaO9OlsD4KeY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "fluent_fluent"
+  ],
+  "kind": "plain"
+}

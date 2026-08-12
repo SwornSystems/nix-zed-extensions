@@ -1,0 +1,18 @@
+{
+  "id": "souffle_souffle",
+  "name": "souffle",
+  "version": "0ca94fad4422bc9a391f81418b5716e3af00ed2f",
+  "src": {
+    "url": "https://github.com/langston-barrett/tree-sitter-souffle",
+    "rev": "0ca94fad4422bc9a391f81418b5716e3af00ed2f",
+    "date": "2025-10-25T16:33:32-04:00",
+    "path": "/nix/store/qy5lldxfq5fsw9gczhdiga272b27f0l3-tree-sitter-souffle-0ca94fa",
+    "sha256": "0mxyas0z3q427haifsf412sxmxyzxjixqfiiwqmw8kkp1bbh7c0y",
+    "hash": "sha256-HrAD1wp3TsQr5jE63KPs3/fatQjEaRcVPILg8YFWvlc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

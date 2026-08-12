@@ -1,0 +1,19 @@
+{
+  "name": "setinox-theme",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/infectiious/setinox.zed",
+    "rev": "075b852cf24275cbea5ac4da2f35423cc017b1c2",
+    "date": "2026-08-11T15:00:09+10:00",
+    "path": "/nix/store/qq792kxqb02gd0h6xnp2nysbg551fcmy-setinox.zed-075b852",
+    "sha256": "0skm43a652cqlm0rq94mcdc8mvi387m91vlqq0acgnz90ka8ihwc",
+    "hash": "sha256-jMOI1ATp28cUwJjukOpBI+6KWGOVJJxBpZiJYtQgdWo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

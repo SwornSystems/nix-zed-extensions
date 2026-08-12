@@ -1,0 +1,23 @@
+{
+  "name": "fswiki",
+  "version": "1.0.1",
+  "src": {
+    "url": "https://github.com/blank71/zed-fswiki",
+    "rev": "00cebd342aa66744a895e1fdd1c95cf638450f81",
+    "date": "2026-08-12T01:35:37+09:00",
+    "path": "/nix/store/bfs43vi1v5gbw982i3lkjaygp30am97q-zed-fswiki-00cebd3",
+    "sha256": "1wlakr6lnvjfawrpcwl70mdi21r0023cpqrsn6m3fks19bjgj621",
+    "hash": "sha256-QRj55EpBTzeqsTrjy4YAIAcRWwWHcnYzV05uS02eivI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "fswiki_fswiki"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-Vi2AslLONt9VQISnQXshLLek5h5gMDFE6UiIItomVW4="
+}

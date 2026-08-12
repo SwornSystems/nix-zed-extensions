@@ -1,0 +1,19 @@
+{
+  "name": "pastel-night-theme",
+  "version": "0.6.4",
+  "src": {
+    "url": "https://github.com/leolorenzato/zed-pastel-night-theme",
+    "rev": "dd048843fbce536816a0c3e185592a809c0800e4",
+    "date": "2026-08-04T16:47:00+02:00",
+    "path": "/nix/store/35yjcp29pwz713wjnbpzahm967k2r2a7-zed-pastel-night-theme-dd04884",
+    "sha256": "0wg3zx21v88j8r3cki7hd2634bkcy3b0hcfwlw415y3nia6p6jc3",
+    "hash": "sha256-g0lzjYp2+BIIp9wxCNbwbC4yjGjwxMlGRhKhHUT/43E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

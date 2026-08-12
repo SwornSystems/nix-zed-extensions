@@ -1,0 +1,18 @@
+{
+  "id": "fswiki_fswiki",
+  "name": "fswiki",
+  "version": "f8d6c1e4e952178f2fd1c5cea3d0f599950f862d",
+  "src": {
+    "url": "https://github.com/blank71/tree-sitter-fswiki",
+    "rev": "f8d6c1e4e952178f2fd1c5cea3d0f599950f862d",
+    "date": "2026-07-18T16:06:20+09:00",
+    "path": "/nix/store/iy3c8vndf1kbiqcfnm7rnlz1iwgyqzkb-tree-sitter-fswiki-f8d6c1e",
+    "sha256": "0jy0vb3z0cmxfz0s268wf7gblyhgcz7glc85yk8fl598405h35js",
+    "hash": "sha256-WpYBCyAoFerQ9AUx+s5nD3q63nEcGaHBd70y8MfawEs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

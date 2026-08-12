@@ -1,0 +1,18 @@
+{
+  "id": "papyrus_papyrus",
+  "name": "papyrus",
+  "version": "f4baf7da54ed6fca79ff81ae211b3364282630b6",
+  "src": {
+    "url": "https://github.com/monster-cookie/papyrus-language-server",
+    "rev": "f4baf7da54ed6fca79ff81ae211b3364282630b6",
+    "date": "2026-08-02T12:13:15-06:00",
+    "path": "/nix/store/qgxffwvrhzw9vc0rqj6n65mw1rd60h34-papyrus-language-server-f4baf7d",
+    "sha256": "1nc3dq20p5m045x6bm1hgpa2h1dgnwlb26d7ac9rhlyc01jbn4pz",
+    "hash": "sha256-/xK7ZADMU5gTU6cZsSi3rwUo1H0w1GV6IaCWCwRug9k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "grammar"
+}

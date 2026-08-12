@@ -1,0 +1,21 @@
+{
+  "name": "cron-sense-lsp",
+  "version": "0.3.0",
+  "src": {
+    "url": "https://github.com/zxcodes/cron-sense",
+    "rev": "a4b153692e6b21848f1b70beb7fa75c2ee179795",
+    "date": "2026-08-11T22:36:32+05:30",
+    "path": "/nix/store/p5x8l52gpkzbnkkf5j99wdcmnp0wb4dy-cron-sense-a4b1536",
+    "sha256": "0n2ivlj8xfrdmxbd72zsi757xak2zdyxbpycqmkm3vyx4aplgarr",
+    "hash": "sha256-OatHryLd71Fnxczf1X37Yqp+yon6i9NWry27jiTdUVg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-8egPQtDFiSVOs1p59pSH1AmwtJTDnrOdN6nBuTKz+Fw="
+}

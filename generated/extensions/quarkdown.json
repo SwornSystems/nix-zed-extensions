@@ -1,0 +1,24 @@
+{
+  "name": "quarkdown",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/QuentinWidlocher/zed-quarkdown",
+    "rev": "19e1540d042c92aac82f1e3e2c16c47f0d1aa0cb",
+    "date": "2026-05-01T08:53:09+02:00",
+    "path": "/nix/store/w1jzmm1wv1b71n1azpipv9ryhk4952xd-zed-quarkdown-19e1540",
+    "sha256": "14hd47w9f4ba2w4dbizcml3p18i2wsxm9czslzmj3sndfis2js45",
+    "hash": "sha256-hWgpdHTN6iHrp/qzVLvmIqJwB63sx9UIF2oRl/ghDZI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "quarkdown_quarkdown",
+    "quarkdown_quarkdown_inline"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-gLUSy0Dey2D/Kv0zRrNJDw/jQ/CMAbvqLsf+iPsETzE="
+}

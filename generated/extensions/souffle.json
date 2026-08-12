@@ -1,0 +1,23 @@
+{
+  "name": "souffle",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/panosdimak/zed-souffle",
+    "rev": "1f4d50998820e25efdb888bd7162f935f9ab7ceb",
+    "date": "2026-08-11T22:38:32+03:00",
+    "path": "/nix/store/mh8if00k2mfpfdyix16v5m1w8v5201dy-zed-souffle-1f4d509",
+    "sha256": "1fk40w6awr4zhglhdq6nxlg7jnagyqip73j4pac49y7dzbfcmnwb",
+    "hash": "sha256-i9vK3Prt+ESYukSOcyP2T1l5Hu3W4Abpg59krgwHZLo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "souffle_souffle"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-njjHkqeUk38Ej7rp5iV38tBfrICam8cX2T/mJk/DIzc="
+}

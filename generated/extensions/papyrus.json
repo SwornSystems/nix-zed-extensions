@@ -1,0 +1,23 @@
+{
+  "name": "papyrus",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/monster-cookie/zed-papyrus",
+    "rev": "bf56e65433cc861d5725a0ed0c946a6f896087f6",
+    "date": "2026-08-02T12:32:59-06:00",
+    "path": "/nix/store/c96xcwqvxmkv1vlxnldmxm96axjs03dv-zed-papyrus-bf56e65",
+    "sha256": "0r2r5gni702a3b8sjcp1v1p7hkp32j33xb3fwmy7bn4chw2gqajs",
+    "hash": "sha256-Wir8BIeM2HV85W6sPoYU4054btjhMqnRGkqAE+0rWWQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "papyrus_papyrus"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-764/wB3L/MCy6tU9Dhf7yrt3qebJyQFwgoWoz8SQuaY="
+}

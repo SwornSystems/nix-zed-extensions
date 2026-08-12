@@ -1,0 +1,19 @@
+{
+  "name": "makinda-themes",
+  "version": "1.0.4",
+  "src": {
+    "url": "https://github.com/makindajack/makinda-zed",
+    "rev": "1f3023b9877c36a69e0510edd4f849e544f1dd26",
+    "date": "2026-05-17T22:52:48+03:00",
+    "path": "/nix/store/jmwjxfnmdygvs8h9h3i08qc2gn0bfyfj-makinda-zed-1f3023b",
+    "sha256": "0lnx1rgfjf7iyvdhf8vw2034pmfvsa7kcizfv43j4kf51cc2jsbv",
+    "hash": "sha256-e2kpGAvFTSIH2e5HNo/S29VLBhB8Iwfb9vE46V4O3VI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

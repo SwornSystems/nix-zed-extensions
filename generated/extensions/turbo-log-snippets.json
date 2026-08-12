@@ -1,0 +1,19 @@
+{
+  "name": "turbo-log-snippets",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/devgauravjatt/turbo-log-snippets",
+    "rev": "8aac3b8ea1cc09b70c2b07afc35680721ed2f6a0",
+    "date": "2026-07-22T09:49:40+05:30",
+    "path": "/nix/store/2ndh8g1hxry01839k40jhacb33kmsddq-turbo-log-snippets-8aac3b8",
+    "sha256": "07hh3ncaawy8yxw1y6ifayckqif5l5ly3wjjy13x2ji4swhr5bn7",
+    "hash": "sha256-x66SIdckStFH8FLy4WmhxUU8mVcuGh9498hzpZgdEB4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

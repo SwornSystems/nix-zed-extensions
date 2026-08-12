@@ -1,0 +1,23 @@
+{
+  "name": "carve",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/markup-carve/zed-carve",
+    "rev": "c179ce7c9faa22a2bcebb6d0251ecedf047e4413",
+    "date": "2026-08-11T16:43:46+02:00",
+    "path": "/nix/store/95lihi8cnxj1x5bbl0y7wl7zd8b105rs-zed-carve-c179ce7",
+    "sha256": "0bs599qwhjbsri3nx5cdr3zqdywn6hzjfpk3x56spgn73xhsg2bw",
+    "hash": "sha256-fImnYR/HvqtN6WNeJz80lvuG/8iNlW5HzHpJyHFKRS8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "carve_carve"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-diUnckip2g+Oq7Ohjj4ExKpF9cVxsWtj/N/HZJkLImo="
+}

@@ -1,0 +1,18 @@
+{
+  "id": "structurizr_structurizr",
+  "name": "structurizr",
+  "version": "66a63203dfb2f15593b8a0410fdf43a7f9a8e065",
+  "src": {
+    "url": "https://github.com/sinon/tree-sitter-structurizr",
+    "rev": "66a63203dfb2f15593b8a0410fdf43a7f9a8e065",
+    "date": "2026-04-24T19:52:19+01:00",
+    "path": "/nix/store/s15a799h8jm8mh0y111yrls1dmw7pkwa-tree-sitter-structurizr-66a6320",
+    "sha256": "0xbn9m4h6lybjqcba2jn2ddraqdng83h3w5z76gi2mmyxpj4ilik",
+    "hash": "sha256-M9JI5O2+VhGfOb/wAQd6tmGVWxNWCrUYlstTA0lNdnU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "crates/strz-grammar"
+}

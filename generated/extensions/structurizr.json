@@ -1,0 +1,27 @@
+{
+  "name": "structurizr",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/sinon/zed-structurizr",
+    "rev": "e4d39d264fd38a4ba4e01ffcc1c1c1febb7b282b",
+    "date": "2026-04-24T19:55:15+01:00",
+    "path": "/nix/store/r7y6y6wfkp1jpbzlrcjf52gmfngpfr6r-zed-structurizr-e4d39d2",
+    "sha256": "1dy371maql11c0rr6hxyqpyng17rblmyg69fdfwlp1n68vm1zv6h",
+    "hash": "sha256-0Owf6kbGhku5ay6Z5ytd+YRn/cW+Q5MzYCFQrGo4w7c=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "structurizr_structurizr"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-RD/Ixed/ajqomEj7uaws5o5cw2c2OEaYCM75bNgqEaA=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/structurizr.lock",
+    "outputHashes": {}
+  }
+}

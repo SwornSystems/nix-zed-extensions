@@ -1,0 +1,19 @@
+{
+  "name": "artisan-theme",
+  "version": "0.4.0",
+  "src": {
+    "url": "https://github.com/VheissuLabs/artisan-theme",
+    "rev": "a25e178e191e8f0e3f4cae6e8f56fa60a255d8a8",
+    "date": "2026-08-10T18:29:11-05:00",
+    "path": "/nix/store/ac2y32ssfnd5j7flx9v8zgb23ksgdd7f-artisan-theme-a25e178",
+    "sha256": "1p7l9rzpfh9z6b46si98i2asvbfijkpkjphjcvpqvwks899d6x1c",
+    "hash": "sha256-LHTTUkJ68o3vZhJeOe+U0a2tlYgoRW3IMj9Bd39O9Nw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}
