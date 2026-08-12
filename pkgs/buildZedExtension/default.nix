@@ -41,15 +41,23 @@ lib.extendMkDerivation {
       ];
 
       buildPhase = ''
+        runHook preBuild
+
         pushd ${extensionDir}
         nix-zed-extensions populate
         popd
+
+        runHook postBuild
       '';
 
       installPhase = ''
+        runHook preInstall
+
         pushd ${extensionDir}
         nix-zed-extensions install $out ${grammarArgs}
         popd
+
+        runHook postInstall
       '';
     };
 }
