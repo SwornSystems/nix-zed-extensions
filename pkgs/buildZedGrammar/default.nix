@@ -38,7 +38,7 @@ lib.extendMkDerivation {
       ];
 
       buildPhase = ''
-        mkdir -p $out/share/zed/grammars
+        runHook preBuild
 
         pushd ${grammarDir}
 
@@ -52,13 +52,22 @@ lib.extendMkDerivation {
           -shared \
           -Os \
           -Wl,--export=tree_sitter_${name} \
-          -o $out/share/zed/grammars/${name}.wasm \
+          -o ${name}.wasm \
           -I src \
           $SRC
 
         popd
+
+        runHook postBuild
       '';
 
-      dontInstall = true;
+      installPhase = ''
+        runHook preInstall
+
+        mkdir -p $out/share/zed/grammars
+        cp ${grammarDir}/${name}.wasm $out/share/zed/grammars/${name}.wasm
+
+        runHook postInstall
+      '';
     };
 }
