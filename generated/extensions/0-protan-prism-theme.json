@@ -1,0 +1,19 @@
+{
+  "name": "0-protan-prism-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/0rtbo/0-protan-prism-theme",
+    "rev": "df6de40c328a3f509440d5dce45b44b9d12d61dc",
+    "date": "2026-08-13T09:42:05-05:00",
+    "path": "/nix/store/rm2h086c3pzr2p1wsx3rqjb3jm82cyzw-0-protan-prism-theme-df6de40",
+    "sha256": "1dszda4hj1x51pmvrcqz002lv89p8s4p4kp3kgjvniich7vz11hr",
+    "hash": "sha256-GYbw94EsRrvlm+NOcolGN6FNBQAfs7zrDaUHCYlqX7c=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

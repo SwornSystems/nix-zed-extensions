@@ -1,13 +1,13 @@
 {
   "name": "crystal",
-  "version": "0.0.4",
+  "version": "0.0.8",
   "src": {
     "url": "https://github.com/crystal-lang-tools/zed-crystal",
-    "rev": "f6c173593433bd2be929a5cedf7b9088c666cfdc",
-    "date": "2025-03-26T05:23:17-04:00",
-    "path": "/nix/store/f9fhrmg3jmhq2v251m9p2c58x6jm5s6j-zed-crystal-f6c1735",
-    "sha256": "0hkvhvmbrri02sscrfx6vl31k2b0n3kir2r6jlyzmh255a7yh4ij",
-    "hash": "sha256-MhLojypFwPo9lSaLHOewYIkZBt2mu8y0FiDmvOqGe0I=",
+    "rev": "7ddf43ca5ba4b82148283b6e896878e1da813b5c",
+    "date": "2026-08-12T14:00:04-04:00",
+    "path": "/nix/store/kmmawyq5x51askdk54gy02j92lcmyfrh-zed-crystal-7ddf43c",
+    "sha256": "13783v2966q02b4p03wblj78x170jm4zpyw1jaw3hsvdhp9jjhm4",
+    "hash": "sha256-pEIp04Vtazi4koH7+0mV4ISOjqSLD3DJEgAbk8Qe6Iw=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -20,5 +20,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-CRXMdzZo4noLT1Txxa1JgNVo/cBkNvuvQX6UUYLGc7Y="
+  "cargoHash": "sha256-w4KcXmv3+Z09MYLkCwqunWcpHu7cVnhfDC9/ZA/uNME="
 }
