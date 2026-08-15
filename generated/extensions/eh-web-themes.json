@@ -1,0 +1,19 @@
+{
+  "name": "eh-web-themes",
+  "version": "1.0",
+  "src": {
+    "url": "https://github.com/ehshit/EhWebThemesZed",
+    "rev": "ccd9b157b1772ad3a452c8479b119fff1ec75dd1",
+    "date": "2026-08-12T12:01:17+02:00",
+    "path": "/nix/store/q9b3lk1ymnnlpxby3aphvqh5plq973lv-EhWebThemesZed-ccd9b15",
+    "sha256": "0n2rksc7pz2xcbdln1ixyv945ippgsqy0p6gi00w6mjibgji0kj4",
+    "hash": "sha256-RE4Q5VtRVsMBiM9c4LF+98ZC0vY9BkvbYl38e5ieWVg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

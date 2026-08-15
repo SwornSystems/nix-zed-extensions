@@ -1,0 +1,21 @@
+{
+  "name": "test-coverage-highlight-lsp",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/hyyan/zed-test-coverage-highlight",
+    "rev": "887380c7b1ec3777d4fbccb57d780673e7a7bae6",
+    "date": "2026-08-14T09:30:56+02:00",
+    "path": "/nix/store/figrq4v03ad17y8q14ryy3l7596xx79v-zed-test-coverage-highlight-887380c",
+    "sha256": "06jzw0x0sn8daq0kcj97zfd617fc9bb8bka855fgqbfm9n5g1fv6",
+    "hash": "sha256-Zrvwik3VLfxcKUjNhdZKzJ1gmvsnSTYBVg1ZDTrgXxo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "editors/zed",
+  "cargoHash": "sha256-F15TOzzYrVQoNtxW7ReYfSLAmE7YlfYr9G7sx7lezhg="
+}

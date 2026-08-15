@@ -1,0 +1,21 @@
+{
+  "name": "code-translate-lsp",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/nazzeDe/code-translate",
+    "rev": "e60d026bc3597ea2bd162f94307441eeead2f73e",
+    "date": "2026-08-12T16:01:20+08:00",
+    "path": "/nix/store/znlgi7r5v7lhja7cfk2sg9w4d966q73b-code-translate-e60d026",
+    "sha256": "1d3m14h5jd06g6f4w0qv0zzp6jxvnc9r917hpilkslv7xjnji0cr",
+    "hash": "sha256-mYEorexnUz1pvPCElBOzu0tz/wcbA06ceQY0WSAJdbQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "extensions/code-translate",
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-JGzEJUSWcfdf9CzxsIF9FL78QpiXLmZlZdl908claSU="
+}

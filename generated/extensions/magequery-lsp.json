@@ -1,0 +1,21 @@
+{
+  "name": "magequery-lsp",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/cresset-tools/magequery",
+    "rev": "7a0fa56c07b1a5a8b1aea3290a98d3e262a5ac61",
+    "date": "2026-08-12T05:55:43Z",
+    "path": "/nix/store/f5zlkmq2ynig22ijik41h2aca4s59a5z-magequery-7a0fa56",
+    "sha256": "0l19jrd56sk4s02pkr89iyhh7iqd98b4ywqbb831j0c7rrll49v1",
+    "hash": "sha256-YSdCac6HARkGWgtzTxZKDccDoY8J5XkF0GRqU1qWKVA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "editors/zed",
+  "cargoHash": "sha256-Krf6X2pW6DHHZww9Fcso8eHxMZchcMWvIAE3IOoExtY="
+}

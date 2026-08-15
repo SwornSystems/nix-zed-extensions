@@ -1,0 +1,18 @@
+{
+  "id": "leo_aleo",
+  "name": "aleo",
+  "version": "f185de8177c0fb4c17bddef528148f6455b7f720",
+  "src": {
+    "url": "https://github.com/MagicGordon/tree-sitter-aleo",
+    "rev": "f185de8177c0fb4c17bddef528148f6455b7f720",
+    "date": "2026-07-13T22:15:54+08:00",
+    "path": "/nix/store/3h6w9rp3xkkl8817z92l26q7p9ac8f7d-tree-sitter-aleo-f185de8",
+    "sha256": "0h7ngvgjlza8rmaxwm1vc958r2hj9dnmby8jsina2i3f6gd0sl5p",
+    "hash": "sha256-t1AN2jNuRKFs1BL5VW1LEoqMSmI7VN5VzUh9Kt9+9kA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,19 @@
+{
+  "name": "deepz-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/fajriyan/deepz-theme",
+    "rev": "38d050585daedf0d5ad7e3214908beaf05ab5a49",
+    "date": "2026-08-14T05:08:25+07:00",
+    "path": "/nix/store/gg19sa475081c42adkzpbbdapcjmv3ql-deepz-theme-38d0505",
+    "sha256": "0dzi2pva65pij70mkf8aa3wfcdhqw8jvbr2xfj8b9w2j1vs1c0k9",
+    "hash": "sha256-aQIW9A5S8LSQdF3ktSXiGDbm+FAKuVnBkfEWo/YV8Tc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

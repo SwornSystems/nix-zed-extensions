@@ -1,13 +1,13 @@
 {
   "name": "deps-language-server",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "src": {
     "url": "https://github.com/bug-ops/deps-zed",
-    "rev": "fa496ea7c3affa1b6b552014cd943ef87ac7cf1d",
-    "date": "2026-02-23T18:24:11+01:00",
-    "path": "/nix/store/ar6q3jqfp96di398jv2k60cahf9yz68r-deps-zed-fa496ea",
-    "sha256": "0lnzafv6rlpq0sdpa57i30s292b06kxz3hk5wgplxbpz4709qghb",
-    "hash": "sha256-Cz6cwCH/rk7v42XC8fs0YIkkNBjxFHWbBvjSbLZT31I=",
+    "rev": "9be9f3215a28141545710334f9ea9aa4f79fabce",
+    "date": "2026-08-13T23:03:30+02:00",
+    "path": "/nix/store/aa3jd1rjmqm3r63xsll9fkz5zwlrb24f-deps-zed-9be9f32",
+    "sha256": "00b1piavq68wdr32pr4z7cxashc8hb5fjss6y0jpl1b6wdnl6c3l",
+    "hash": "sha256-dDBDbeNmBXol8EZr6cqCiEGtOjuf5CtGbhwZvFW8YQE=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-OVfTi44Wl4VWuA9llLyWpk+lkpEIU2+oV7nrMnEdZ0c="
+  "cargoHash": "sha256-em/Q1XkR5qPyy9eh9BEGe1L5WvoxJgNmI4GTQHDZUoQ="
 }

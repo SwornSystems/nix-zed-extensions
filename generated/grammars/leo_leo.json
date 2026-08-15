@@ -1,0 +1,18 @@
+{
+  "id": "leo_leo",
+  "name": "leo",
+  "version": "73496de44bbf3422a659dc35573af9ddc0de4b0f",
+  "src": {
+    "url": "https://github.com/MagicGordon/tree-sitter-leo",
+    "rev": "73496de44bbf3422a659dc35573af9ddc0de4b0f",
+    "date": "2026-07-13T22:15:54+08:00",
+    "path": "/nix/store/ahbg2wi6mgi304ffypw0r70p8mq1ml3h-tree-sitter-leo-73496de",
+    "sha256": "1nrdii4az8j39l9w2xq59l5q50fjvrgznrrzmgfyrg1c1a4zd6iq",
+    "hash": "sha256-OJr2iQosvOzdqz9n+1/e0oGCC00Fd8ETTUOir0iMLds=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

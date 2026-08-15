@@ -1,0 +1,19 @@
+{
+  "name": "cinder-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/nguyenhaiduc06/cinder",
+    "rev": "e798b078d226cf93cfb55b6de253d03063ecaa0f",
+    "date": "2026-08-14T14:40:33+07:00",
+    "path": "/nix/store/r3mggc3plgg5ba91n72z2v8x33lw28b2-cinder-e798b07",
+    "sha256": "0qngwyv5asd0hji61i2dcj60c38s8zacmccmwzn0mvxgx732g3ar",
+    "hash": "sha256-WY0nxumv7wrs55WxytRHGg0GjGRNxGCihKBpVbbnz2I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

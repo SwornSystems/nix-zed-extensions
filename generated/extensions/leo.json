@@ -1,0 +1,24 @@
+{
+  "name": "leo",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/MagicGordon/zed-leo-extension",
+    "rev": "24b744be6630bffc7917bd6be443f9cfaaa5af04",
+    "date": "2026-08-12T21:05:02+08:00",
+    "path": "/nix/store/qbygsrazq9rr5cwbzcwaly43qc167sni-zed-leo-extension-24b744b",
+    "sha256": "0bqjhrmqb7sdl9xx15gpb4gnk2kkx5lvcj9qfbc6ip5nvnqkwx75",
+    "hash": "sha256-5XQ+sd223GjYcjhJtmnpc4ppH1n3ldB7ok2fhWuGEi8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "leo_aleo",
+    "leo_leo"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-SoE4IZLnZL0SEz/PxNrtBXKTeOsAEisEodAoxVC9mj0="
+}
