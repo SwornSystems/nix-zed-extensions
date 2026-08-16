@@ -1,13 +1,13 @@
 {
   "name": "meson",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "src": {
     "url": "https://github.com/jobpaardekooper/zed-meson",
-    "rev": "b5abd953f3225c48e0db1aa4ab9e14025cbc3beb",
-    "date": "2026-07-16T19:18:24+02:00",
-    "path": "/nix/store/nzw63d6zy7byrj6fg0x3mgwqmqjjsmm6-zed-meson-b5abd95",
-    "sha256": "0497vkj5wfgidi5lzw5wayqn1gn4v063id7mxw4zjbgkqhhi10dd",
-    "hash": "sha256-rYEQIcTzLfkJ7/W0OAzYxL5gsVe88E9LbPE5XuTcJxE=",
+    "rev": "152d031699da3c9d2b2666faef11e8efae5e9c6f",
+    "date": "2026-08-15T16:56:00+02:00",
+    "path": "/nix/store/j0h42h41y6wv71xfsab6m3jr0xwg91dq-zed-meson-152d031",
+    "sha256": "0pb9v3wfnb10vahhwi412qy7amj53y34gy4sl7559kqllabxcg54",
+    "hash": "sha256-pDzWl6IUz1TKoZr4R4YfRVZ1PBaBRA6h2iAs6/jYaV0=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-3IbR3uo9ehwjMh2RjrCLpTMjIyRWSIbF4U8nSZKWW6A=",
+  "cargoHash": "sha256-L2KS27y91MjpknghrPmTlnHapadeoG1VRBHWQV8ELYE=",
   "cargoLock": {
     "lockFile": "/generated/extensions/meson.lock",
     "outputHashes": {}

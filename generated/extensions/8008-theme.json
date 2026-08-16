@@ -1,0 +1,19 @@
+{
+  "name": "8008-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Paulo-Camacho/zed-8008",
+    "rev": "18dd1938b5d72e55b93e01f5e0d54485eeccfaa0",
+    "date": "2026-08-15T12:06:08-07:00",
+    "path": "/nix/store/jksndah7lmjwfcnfidbzxg040sysjbns-zed-8008-18dd193",
+    "sha256": "0d8ahqxqrm3kcwrq2bc1y65c9lwkhyknd311qqmbhmjw8psls783",
+    "hash": "sha256-Ax1N9UVcVrgqxiGMZqeHk9PEivGBLYEzZ3PUjDuGCjU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
