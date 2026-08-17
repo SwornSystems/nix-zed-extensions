@@ -1,0 +1,23 @@
+{
+  "name": "mojo",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/vadim-su/zed_mojo",
+    "rev": "c95f5d454896ceae356cfc79cf9def5681d9bc53",
+    "date": "2026-05-30T13:05:36+04:00",
+    "path": "/nix/store/awcvm879g0a8azz2fpknyx02j28r01gc-zed_mojo-c95f5d4",
+    "sha256": "13jzaa79mhqd5a8gmal598ag6xaxskcv97z20y45mw69n7aip4wq",
+    "hash": "sha256-mJMb1bHJ8FqIB+KftNnUXXXzFEqFqvqQKg3Dmo5SX44=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "mojo_mojo"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-J2ox7HJoW6YGLXjOvyzNvz2R9lD27pxTOfbw74tosMw="
+}

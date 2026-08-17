@@ -1,0 +1,18 @@
+{
+  "id": "mojo_mojo",
+  "name": "mojo",
+  "version": "406abfdf4d2070d742e56d5e74261b5a944f729f",
+  "src": {
+    "url": "https://github.com/vadim-su/tree-sitter-mojo",
+    "rev": "406abfdf4d2070d742e56d5e74261b5a944f729f",
+    "date": "2026-05-17T18:16:22-04:00",
+    "path": "/nix/store/p37aqbad58xdr9xk45zg2y56p2pr75zs-tree-sitter-mojo-406abfd",
+    "sha256": "117iv5d0i3gmzmlq0dcf9wj92jmy9065cnrwzsqa9hf7w0xwvyc9",
+    "hash": "sha256-ifnNO+DHwaSw/jxbVgxIvkqRJE+ONYBp/fWNCFrZ8YQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

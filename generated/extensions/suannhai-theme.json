@@ -1,0 +1,19 @@
+{
+  "name": "suannhai-theme",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/WeiTing1991/suannhai-theme",
+    "rev": "eb47dbb8ec76241fdb05c4d09f93b2bb7e9bd2d7",
+    "date": "2026-08-16T23:06:11+02:00",
+    "path": "/nix/store/b8vskxn8a35cz903rhgpn3j2szbyvhrc-suannhai-theme-eb47dbb",
+    "sha256": "1kmmabyil03h0y7ay1wppmfmfzarqh53hjr16dz25z2wnhvrifrr",
+    "hash": "sha256-ObuYN7Rc/CJ+MyFLOArEWX1XXb2XB6+OB3AAGv1Stc4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "suannhai-zed",
+  "grammars": [],
+  "kind": "plain"
+}
