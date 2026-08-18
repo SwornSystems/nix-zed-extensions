@@ -1,13 +1,13 @@
 {
   "name": "dprint",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "src": {
     "url": "https://github.com/panikkastudio/dprint-zed",
-    "rev": "537c8753f89bbf79de8c8e85c2921bc23bdf4ed0",
-    "date": "2025-09-23T14:58:54+08:00",
-    "path": "/nix/store/3j9ksr1sh27bbz21rrj1rcrlp9f6n26s-dprint-zed-537c875",
-    "sha256": "1w0bdhxwz65kalzf270myhvhi24rjivqhasr46ksfrvivdimnzwr",
-    "hash": "sha256-mX9bY9txZ6enIVkriHeUmYgIN/QVHOE+VbOYzztsC/A=",
+    "rev": "45ad23561514769c9f96b00485582fc8ec90294f",
+    "date": "2026-01-29T13:12:46+03:00",
+    "path": "/nix/store/fg2xs7hbmhg59kd6mwff42j9iyzfn7v5-dprint-zed-45ad235",
+    "sha256": "0580d6c8isdj49pv3c71zjy86g5ryds3i3q3nd4i0cyxprlryp3d",
+    "hash": "sha256-bVyfab7dMxBJswOPOHTzuTyDvPzhsLFvIrLpiJhpABU=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-EzzyGNB5H+Dn4nsQf7+Agt047ueYkeE7n9CmknMeq5I="
+  "cargoHash": "sha256-ALxDRiD44cWp6qr54fGreY095DQCTBT4GkrjJmNIK04="
 }
