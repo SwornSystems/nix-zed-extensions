@@ -1,19 +1,19 @@
 {
   "name": "short-giraffe-theme",
-  "version": "2.2.1",
+  "version": "2.5.1",
   "src": {
     "url": "https://github.com/kumamaki/Short-Giraffe",
-    "rev": "052c64ede9b3dc80992f3e31631f64830bf56145",
-    "date": "2026-05-07T18:37:33+04:00",
-    "path": "/nix/store/nc9n9bg1j6gxjbilhbgk986dxgsn660k-Short-Giraffe-052c64e",
-    "sha256": "1ixkd9z8knbyjnpdwfqnwsqbv7di198zcp1sr8w3fzyv1jawaz2m",
-    "hash": "sha256-VXzFlQzbfzc4yjpc9lEKsZ29sOYWO96ulX7ZiX5qs8c=",
+    "rev": "03b81b867ecfa935680621055499f5aee8340688",
+    "date": "2026-08-19T19:40:44+04:00",
+    "path": "/nix/store/m8zy3810kbsly9wfzvljq1xmi7v0z905-Short-Giraffe-03b81b8",
+    "sha256": "03kpsaw233qlf3adq8npdb2gmfz46q1i7k4l6gb779friafyzwwc",
+    "hash": "sha256-jPPvnYrZpXPWM5TMEwM25Lv6xGrXItzUcBSPIbjSdw4=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
     "leaveDotGit": false
   },
-  "extensionRoot": null,
+  "extensionRoot": "zed",
   "grammars": [],
   "kind": "plain"
 }
