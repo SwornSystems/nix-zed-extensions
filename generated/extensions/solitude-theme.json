@@ -1,0 +1,19 @@
+{
+  "name": "solitude-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/SomeoneWithOptions/zed-solitude",
+    "rev": "e32c4d34a45cc3e746de984168858f0363358c12",
+    "date": "2026-08-15T16:49:29-05:00",
+    "path": "/nix/store/ixv2kcscij17vy99ffliw9v57y0mday3-zed-solitude-e32c4d3",
+    "sha256": "0r4dqr3v22zm45yh1f8qy46cpdmm6l146nsahnlvkna490vdx8zx",
+    "hash": "sha256-/aPeNkhE2bmphUpbQwI1tbbLDPEYuQB9IfULsUfGjWQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
