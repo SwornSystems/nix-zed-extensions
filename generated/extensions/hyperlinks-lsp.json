@@ -1,0 +1,21 @@
+{
+  "name": "hyperlinks-lsp",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/krawitzzZ/zed-hyperlinks",
+    "rev": "c027b5e50507708eaa71a24d8d841cb4493c5a6f",
+    "date": "2026-08-11T18:37:04+02:00",
+    "path": "/nix/store/9vmhv5qhh11vd3ig4c975xnb128a87hl-zed-hyperlinks-c027b5e",
+    "sha256": "1jr7fapl4ppvm8lls069dxq8dv2mcwr2a1azx7jf4nn9pws2m08r",
+    "hash": "sha256-GYEqNL/JWuLk6V8FJTJnVeyGcG/JAE0pqvteQq9yJ8s=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-Pavwb4Frc3mnEdZxJU1Q1Sj26/hXxM6AUg1ZHPBUY8Y="
+}

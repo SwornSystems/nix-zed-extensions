@@ -1,0 +1,18 @@
+{
+  "id": "dockerfile_yaml",
+  "name": "yaml",
+  "version": "baff0b51c64ef6a1fb1f8390f3ad6015b83ec13a",
+  "src": {
+    "url": "https://github.com/zed-industries/tree-sitter-yaml",
+    "rev": "baff0b51c64ef6a1fb1f8390f3ad6015b83ec13a",
+    "date": "2024-09-11T16:50:50-04:00",
+    "path": "/nix/store/f35in6psiq0xkxmn9510nahkrgbgqqcb-tree-sitter-yaml-baff0b5",
+    "sha256": "1ji9n73c8kjsyfrf047r6zq36yyw3qd74cszb19hhm9n198vr5wm",
+    "hash": "sha256-lZe8UQo2VQhTWF8zchoe3Hsz8Df5EOCy81pOxMaxKco=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}
