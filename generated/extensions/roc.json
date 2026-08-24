@@ -1,13 +1,13 @@
 {
   "name": "roc",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "src": {
     "url": "https://github.com/h2000/zed-roc",
-    "rev": "f6a07bfb336549724f9c5694084bfb1869614b5d",
-    "date": "2026-06-26T09:48:33+02:00",
-    "path": "/nix/store/0i7jppznnjr1dc1xxx0iqff05w117cdk-zed-roc-f6a07bf",
-    "sha256": "02xw46jn0is2wi322ylixy35mqcgrw6whn84ir6bibhg2ic0avlf",
-    "hash": "sha256-jm4FWBQPrrhMjgRZyA3Pj+Fahu+ReiFG5EJHYKUhvAs=",
+    "rev": "9c461f094ad5aa79f715d30f18c1100bd8cdb4d3",
+    "date": "2026-08-23T14:14:38+02:00",
+    "path": "/nix/store/arw0zwilk214cvl9vrql62q65g143mzr-zed-roc-9c461f0",
+    "sha256": "1fhw7rly1k49ldij30b1z7wbgdklqw5ifh6jcnf8sdhbx31jlmri",
+    "hash": "sha256-MVcqw+gLNo2cZdJAFwvHdLa3+PlhgSFjo4nM4Gk+HLo=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-zohz1uL6LSxMxrTA8qlChiakNspX5rTKD9jn0VLkKCA=",
+  "cargoHash": "sha256-Gylen9KKGiTxnR03mlurxnJCuHlQDReSadvV81oRBhQ=",
   "cargoLock": {
     "lockFile": "/generated/extensions/roc.lock",
     "outputHashes": {}
