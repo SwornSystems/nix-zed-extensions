@@ -6,6 +6,9 @@
   "dependencyDashboardApproval": true,
   "enabledManagers": ["cargo", "github-actions", "nix"],
 
+  "minimumReleaseAge": "7 days",
+  "internalChecksFilter": "strict",
+
   // https://docs.renovatebot.com/modules/manager/cargo
   "cargo": {
     "enabled": true

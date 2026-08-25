@@ -8,7 +8,7 @@
 let
   cfg = config.programs.zed-editor-extensions;
   extensionsDir =
-    if pkgs.stdenv.isDarwin then
+    if pkgs.stdenv.hostPlatform.isDarwin then
       "Library/Application Support/Zed/extensions/installed"
     else
       "${config.xdg.dataHome}/zed/extensions/installed";
