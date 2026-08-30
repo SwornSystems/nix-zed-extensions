@@ -31,7 +31,7 @@ jobs:
         uses: ./.github/actions/setup
 
       - name: Sync extensions
-        run: nix run .#nix-zed-extensions -- sync
+        run: ./scripts/sync.nu
 
       - name: Push changes
         id: push

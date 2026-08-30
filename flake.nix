@@ -154,6 +154,9 @@
           };
 
           buildInputs = with pkgs; [
+            # Sync
+            nix-zed-extensions
+
             # Rust
             rustc
             cargo
