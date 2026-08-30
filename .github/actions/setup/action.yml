@@ -1,22 +1,92 @@
 name: Setup
 description: Common setup steps
 
+inputs:
+  rust:
+    default: "false"
+
 runs:
   using: composite
   steps:
     - name: Install Nix
       uses: nixbuild/nix-quick-install-action@9f63be77f412a248c9d9a65a4c82cf066cdf8f0c # v35
+      with:
+        # NOTE: Default `max-jobs` is 1.
+        # https://github.com/NixOS/nix/pull/9039
+        nix_conf: |
+          max-jobs = auto
 
     - name: Cache Nix
-      uses: SwornSystems/nix-cache-action@d55ba40f70dcccfb4597274644e4363b9fbd3d63 # v1.5.0
+      uses: nix-community/cache-nix-action@7df957e333c1e5da7721f60227dbba6d06080569 # v7.0.2
       with:
-        key: nix-${{ runner.os }}-${{ runner.arch }}-${{ hashFiles('**/flake.lock', '**/*.nix') }}
-        restore-keys: |
-          nix-${{ runner.os }}-${{ runner.arch }}-
+        primary-key: nix-${{ runner.environment }}-${{ runner.os }}-${{ runner.arch }}-${{ hashFiles('**/flake.lock', '**/*.nix') }}
+        restore-prefixes-first-match: nix-${{ runner.environment }}-${{ runner.os }}-${{ runner.arch }}-
+        gc-max-store-size: 1
 
-    - name: Build shells
+    - name: Store Nix fingerprint
+      id: fingerprint
       shell: bash
       run: |
-        for shell in $(nix flake show --json | jq -r '.devShells | to_entries[0].value | keys[] | select(startswith("ci"))'); do
-          nix develop ".#${shell}" --command true
+        echo "value=$(nix flake metadata --json | jq --raw-output .fingerprint)" >> "$GITHUB_OUTPUT"
+
+    # NOTE: Nix evaluation cache is stored out of band.
+    # https://github.com/NixOS/nix/issues/5195
+    - name: Cache Nix evaluation
+      uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+      with:
+        path: ~/.cache/nix
+        key: eval-${{ runner.environment }}-${{ runner.os }}-${{ runner.arch }}-${{ steps.fingerprint.outputs.value }}
+        restore-keys: |
+          eval-${{ runner.environment }}-${{ runner.os }}-${{ runner.arch }}-
+
+    - name: Populate Nix cache
+      shell: bash
+      run: |
+        SYSTEM=$(nix config show system)
+
+        SHELLS=$(nix flake show --json | jq --raw-output 'first(.devShells[]) | keys[] | select(startswith("ci"))')
+        for NAME in $SHELLS; do
+          # NOTE: `nix develop` doesn't populate evaluation cache fully.
+          # https://github.com/NixOS/nix/pull/15288
+          nix build \
+            --print-build-logs \
+            --profile "${RUNNER_TEMP}/${NAME}" \
+            --no-link \
+            ".#devShells.${SYSTEM}.${NAME}"
+
+          # NOTE: This covers the second half of what `nix develop` uses.
+          nix print-dev-env \
+            --print-build-logs \
+            --profile "${RUNNER_TEMP}/${NAME}-env" \
+            ".#devShells.${SYSTEM}.${NAME}" > /dev/null
         done
+
+        # NOTE: Prevent flake inputs from being garbage collected.
+        # https://github.com/NixOS/nix/issues/6895
+        INPUTS=$(nix flake archive --json | jq --raw-output '.. | .path? // empty')
+        nix build \
+          --print-build-logs \
+          --out-link "${RUNNER_TEMP}/inputs" \
+          $INPUTS
+
+        # NOTE: `nix develop` always pulls in `bashInteractive`.
+        # https://github.com/NixOS/nix/issues/13434
+        nix build \
+          --inputs-from . \
+          --print-build-logs \
+          --out-link "${RUNNER_TEMP}/bash" \
+          "nixpkgs#legacyPackages.${SYSTEM}.bashInteractive"
+
+    - name: Cache Rust
+      if: inputs.rust == 'true'
+      uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+      with:
+        path: |
+          target
+          ~/.cargo/advisory-db
+          ~/.cargo/git/db
+          ~/.cargo/registry/cache
+          ~/.cargo/registry/index
+        key: rust-${{ github.job }}-${{ runner.environment }}-${{ runner.os }}-${{ runner.arch }}-${{ hashFiles('**/Cargo.lock', '**/flake.lock', '**/flake.nix', '**/.cargo/config.toml') }}
+        restore-keys: |
+          rust-${{ github.job }}-${{ runner.environment }}-${{ runner.os }}-${{ runner.arch }}-

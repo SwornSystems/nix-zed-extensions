@@ -42,7 +42,7 @@ pub async fn process_grammars(
         match result {
             Ok(Some(grammar)) => {
                 processed_grammars.push(grammar);
-            }
+            },
             Ok(_) => (),
             Err(err) => {
                 tracing::error!(
@@ -51,7 +51,7 @@ pub async fn process_grammars(
                 );
 
                 return Err(err);
-            }
+            },
         }
     }
 
@@ -79,7 +79,7 @@ async fn process_grammar(
     let src = prefetch_git_repo(&repo, &rev, false).await?;
     fs::remove_dir_all(&tmp_repo).await?;
 
-    let grammar_root = grammar
+    let root = grammar
         .path
         .clone()
         .map(|s| s.trim_start_matches("./").to_owned());
@@ -89,6 +89,6 @@ async fn process_grammar(
         name: name.clone(),
         version: rev,
         src,
-        grammar_root,
+        root,
     }))
 }

@@ -44,7 +44,7 @@ pub async fn process_extension(
     let src = prefetch_git_repo(&repo, &extension.rev, false).await?;
     let grammars = process_grammars(manifest.grammars, &name).await?;
 
-    let (kind, extension_root) = if extension_dir.join("Cargo.toml").exists() {
+    let (kind, root) = if extension_dir.join("Cargo.toml").exists() {
         process_rust_extension(&extension, &extension_dir, &name).await?
     } else {
         (ExtensionKind::Plain, extension.path.clone())
@@ -57,7 +57,7 @@ pub async fn process_extension(
             name,
             version: manifest.version,
             src,
-            extension_root,
+            root,
             grammars: grammars.ids,
             kind,
         },

@@ -8,7 +8,8 @@ def main []: nothing -> nothing {
     let nix: list<string> = files "*.nix"
 
     # Git
-    committed origin/main..HEAD
+    let head = if $env.GITHUB_EVENT_NAME? == pull_request { "HEAD^2" } else { "HEAD" }
+    committed $"origin/main..($head)"
 
     # GitHub
     zizmor --pedantic .github
@@ -33,6 +34,8 @@ def main []: nothing -> nothing {
     nu-lint --config .nu-lint.toml ...$scripts
 
     # Nix
+    # NOTE: This doesn't make use of evaluation cache.
+    # https://github.com/NixOS/nix/issues/4279
     nix flake check
     nixfmt --check --width=120 ...$nix
     deadnix --fail .

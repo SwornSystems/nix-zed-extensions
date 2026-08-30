@@ -21,7 +21,7 @@ jobs:
     name: Renovate
     runs-on: ubuntu-24.04
     permissions:
-      contents: read
+      contents: read # checkout
       issues: write # renovate
       pull-requests: read # renovate
     steps:

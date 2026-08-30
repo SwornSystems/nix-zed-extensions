@@ -55,6 +55,15 @@
           "command": "clippy"
         },
         "checkOnSave": true,
+        "hover": {
+          "memoryLayout": {
+            "enable": true,
+            "size": "decimal",
+            "alignment": "decimal",
+            "offset": "decimal",
+            "niches": true
+          }
+        },
         "imports": {
           "prefix": "crate",
           "preferNoStd": true,

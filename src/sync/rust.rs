@@ -288,14 +288,14 @@ async fn calculate_cargo_output_hashes(
             Ok((key, hash)) => {
                 tracing::info!(key = key, hash = hash, "Calculated git dependency hash");
                 output.insert(key, hash);
-            }
+            },
 
             Err(err) => {
                 tracing::error!(
                     err = ?err,
                     "Failed to calculate git dependency hash"
                 );
-            }
+            },
         }
     }
 

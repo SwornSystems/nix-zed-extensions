@@ -281,7 +281,7 @@ async fn run() -> anyhow::Result<()> {
 
                         output.extensions.push(extension);
                         output.grammars.extend(grammars);
-                    }
+                    },
                     Ok(_) => (),
                     Err(err) => tracing::error!(
                         err = ?err,
@@ -360,7 +360,7 @@ async fn run() -> anyhow::Result<()> {
             }
 
             fs::remove_dir_all(tmp_registry).await?;
-        }
+        },
 
         Some("populate") => {
             let path = Path::new(".");
@@ -431,7 +431,7 @@ async fn run() -> anyhow::Result<()> {
             tracing::info!("Writing output");
             let manifest = toml::to_string_pretty(&manifest)?;
             fs::write(manifest_path, manifest).await?;
-        }
+        },
 
         Some("install") => {
             let out = PathBuf::from(&args[2]);
@@ -514,11 +514,11 @@ async fn run() -> anyhow::Result<()> {
             }
 
             tracing::info!("Extension installed");
-        }
+        },
 
         _ => {
             anyhow::bail!("Unknown command");
-        }
+        },
     }
 
     Ok(())

@@ -14,7 +14,7 @@ pub struct Extension {
     pub version: String,
     pub src: Source,
     #[serde(rename = "extensionRoot")]
-    pub extension_root: Option<String>,
+    pub root: Option<String>,
     pub grammars: Vec<String>,
     #[serde(flatten)]
     pub kind: ExtensionKind,
@@ -69,5 +69,5 @@ pub struct Grammar {
     pub version: String,
     pub src: Source,
     #[serde(rename = "grammarRoot")]
-    pub grammar_root: Option<String>,
+    pub root: Option<String>,
 }
