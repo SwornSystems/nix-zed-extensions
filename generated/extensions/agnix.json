@@ -1,13 +1,13 @@
 {
   "name": "agnix",
-  "version": "0.48.0",
+  "version": "0.52.1",
   "src": {
     "url": "https://github.com/avifenesh/agnix",
-    "rev": "79e7753745f5e77e780fc0663014acbe5e33ee9a",
-    "date": "2026-08-09T14:36:26+03:00",
-    "path": "/nix/store/85yfac6fpvshq1dx71f1d2vypx8kgw11-agnix-79e7753",
-    "sha256": "1s6fvmgi4cqaf5nxqvq9i4sfrb2nbkmy0fq4a0c7439wmm7lqsp9",
-    "hash": "sha256-6WpMT608DXIYUAQ74OtcVqzsNIkJb9xtcQozEl/dzug=",
+    "rev": "d18c0a88e6a61878502f105106d054bcce9789df",
+    "date": "2026-08-27T14:07:00+03:00",
+    "path": "/nix/store/br809kr8d0vdba3vmnyxrn0c1gcdg5i2-agnix-d18c0a8",
+    "sha256": "18i3b26l4s0c68i872n8fcav1swdzcikqyhigr23kldw1rhdmad9",
+    "hash": "sha256-qanaYA680TlEfhF6PCP7jeuwFXPIioMiMgxoQo1YI6I=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": "editors/zed",
-  "cargoHash": "sha256-oM9bvT8g1SmwwoUFANYoY1148UiFINQZxnvaDXpA2dg=",
+  "cargoHash": "sha256-SvUnD4qbClKYIc3R0ozjw0RH+Jb+ijhTg6Mtyd3/ips=",
   "cargoLock": {
     "lockFile": "/generated/extensions/agnix.lock",
     "outputHashes": {}

@@ -1,13 +1,13 @@
 {
   "name": "dbt",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "src": {
     "url": "https://github.com/kylejbrk/zed-dbt",
-    "rev": "7f22aa795e682da4633e46f7511c3f9d0bbb0608",
-    "date": "2026-05-30T13:36:44-04:00",
-    "path": "/nix/store/m53ib49ipsvzw2wlq14lc8adjamh143x-zed-dbt-7f22aa7",
-    "sha256": "010z2wksmjm5p4c7d1k0szb9269nnia4s9y26xv7bnahpcfz25ac",
-    "hash": "sha256-TBXxHbtQ2XV2N8InTVS0NhmR1tdghnYYuaXKqicXHwQ=",
+    "rev": "01b48ad7d0cb5014de26bd788f52c245cb96d8b1",
+    "date": "2026-08-23T15:51:57-05:00",
+    "path": "/nix/store/kl4hm3sdjyjbgpm6byw4m0h3yfbf781f-zed-dbt-01b48ad",
+    "sha256": "0fn5mi3zg80af0rbhjdy64fzqcl206chkgvrvdllkrqfgvgqwz32",
+    "hash": "sha256-YnyO334O50lp23m/CZkBgjL8HTG+SbgycAqg90esxTo=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-16ttn8/AFTHltr6v/k2AjWGxv0BkrCzPPwkx3kARbZA=",
+  "cargoHash": "sha256-432maLq/GfG9eauucNUPr8uQq9XnS2kHpOT/09xgPfY=",
   "cargoLock": {
     "lockFile": "/generated/extensions/dbt.lock",
     "outputHashes": {}

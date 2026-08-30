@@ -1,13 +1,13 @@
 {
   "name": "elixir",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "src": {
     "url": "https://github.com/zed-extensions/elixir",
-    "rev": "0948735d7bef110f7f5affd835864b2fa8a1c396",
-    "date": "2026-08-21T23:30:23+02:00",
-    "path": "/nix/store/813fpjgxa0b7mssgvxvhcgg1s3xpvxjw-elixir-0948735",
-    "sha256": "1is5dkj6ibd6jnkcr1zchlb33kr4z1n8kh8l72ap4kpnc2by3lw0",
-    "hash": "sha256-gNPhl2D2TnKVOBTBiWz4JM8xFoXsh8ymlaataORsRcc=",
+    "rev": "5c88a079ddc5f33878e63a1d398677175fe197e6",
+    "date": "2026-08-23T10:30:08Z",
+    "path": "/nix/store/418ys3nb8szsh7js7swpcg6k5yy1d39f-elixir-5c88a07",
+    "sha256": "0f98x4dxdbhggdb2dix7b5yg7088qyz2wawcdq9mywc8p26xg0kb",
+    "hash": "sha256-a4LXjbiIcV8TbowrLr7HCIHzfFmnxyZWew+u1hvpKDk=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -20,5 +20,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-zOl4MzJkDaiXQi0/VyfGXn9di1m/2anr2NRjMCKWOr8="
+  "cargoHash": "sha256-I5K8sISWElYkW1LAt7J3yaiVDBSrS58lKPzmVfncrBI="
 }

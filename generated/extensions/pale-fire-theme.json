@@ -1,0 +1,19 @@
+{
+  "name": "pale-fire-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/sahmed007/pale-fire-zed",
+    "rev": "d72db0bf94c04727b0b498fadd27dc22e3ca6566",
+    "date": "2026-08-23T16:41:28-05:00",
+    "path": "/nix/store/cfgp02rfl1qrby8czjrai9hwrl2s1y00-pale-fire-zed-d72db0b",
+    "sha256": "1m3r6d9cxiv82hppw8jq91j5r8bz3r0lfgxkrq4ipshgs697ich3",
+    "hash": "sha256-A7J4ktEP6hsJzrM/R0Eef6FcZEhYIn4vFGjHzlIzedQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "filament-theme",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/mehcode/filament",
+    "rev": "cf2409c51e4f0a5a9084282d1a9d3dee22742efe",
+    "date": "2026-08-23T16:09:01-07:00",
+    "path": "/nix/store/02zpvag5inrfvvza6nmicmjmrl43xmf0-filament-cf2409c",
+    "sha256": "0j2j24xlfvgkaway6wjjha07aw499avqxikjy1fxydpimc3clya8",
+    "hash": "sha256-SHnKBqvxNt9d8HLGjrdKiXB1gIJScuMVV/NtRzsRUkg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

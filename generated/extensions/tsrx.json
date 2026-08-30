@@ -1,13 +1,13 @@
 {
   "name": "tsrx",
-  "version": "0.0.86",
+  "version": "0.0.87",
   "src": {
-    "url": "https://github.com/Ripple-TS/ripple",
-    "rev": "24635cf6b439979cd30407dfd3f4340cd0c79357",
-    "date": "2026-08-12T18:19:24-04:00",
-    "path": "/nix/store/hckma68m9rxa82pyy9l4ks7aavi7byv6-ripple-24635cf",
-    "sha256": "0x8hzgpf6h6zbbd08dz48vq6bc62hn49zxh5q783gnfynpga76y8",
-    "hash": "sha256-yJuj3rXe2TfQwQX2n4iFwrBl8EbkNwTaWt9A4+77EHU=",
+    "url": "https://github.com/tsrx-org/tsrx",
+    "rev": "5ef0d588c9df3b8c3f305e21e402ec84537c272a",
+    "date": "2026-08-24T19:11:45-04:00",
+    "path": "/nix/store/xdfghgqqhknb7kbpc9sb8nhqc05hrhw0-tsrx-5ef0d58",
+    "sha256": "04fw0hz4rjsfch2wag95zdvlsqki190vlqfx7aivlqmrqsy4x9yp",
+    "hash": "sha256-16dOvMa5YrqjOt1hukEKcWJNd/slPcUFZE7LTD4E3BE=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -15,9 +15,9 @@
   },
   "extensionRoot": null,
   "grammars": [
-    "tsrx_ripple"
+    "tsrx_tsrx"
   ],
   "kind": "rust",
   "cargoRoot": "packages/zed-plugin",
-  "cargoHash": "sha256-4xgDfJ84G8+7uqJiD/Q/ddkorL1GRiipulUWparXBFM="
+  "cargoHash": "sha256-heYd9gtsOr13cZwkMAgGdg8JFWuN2tpTocHGymMHB6E="
 }

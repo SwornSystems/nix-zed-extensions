@@ -1,0 +1,19 @@
+{
+  "name": "hearth-theme",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/ryanfurrer/hearth-theme",
+    "rev": "ce4c4cfc81f6b9d626109d07add95edc25f8efa7",
+    "date": "2026-08-23T16:38:43-04:00",
+    "path": "/nix/store/dz0lv34hlmfvv85sr8xy1db7ch8dlzzi-hearth-theme-ce4c4cf",
+    "sha256": "080iwlflnjwzbqgbk7z7q6wf4awwimsibzbg94sdx8g1qw4r7hdz",
+    "hash": "sha256-v8GTCcfhod40SW/9FXWNnCviuMHnn7keXp9LSx3lESA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}

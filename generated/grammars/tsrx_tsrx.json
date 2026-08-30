@@ -1,0 +1,18 @@
+{
+  "id": "tsrx_tsrx",
+  "name": "tsrx",
+  "version": "7beb4d8f2e2d3410abb8d2c340500992910b20c5",
+  "src": {
+    "url": "https://github.com/tsrx-org/tsrx",
+    "rev": "7beb4d8f2e2d3410abb8d2c340500992910b20c5",
+    "date": "2026-08-24T18:42:01-04:00",
+    "path": "/nix/store/dxzkqxi95k0nm7hw3dfhb87y79f1z3zk-tsrx-7beb4d8",
+    "sha256": "1qj5rhb36lffb5qiw7x8ixyq7x4m4l4fqrhsw5v2sbszlhfjid8h",
+    "hash": "sha256-ELUoHaRfLy124Rpm7AgllfSDfY+oHx5xWc5RMxbMReI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "grammars/tree-sitter"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "depsy-lsp",
+  "version": "2.0.1",
+  "src": {
+    "url": "https://github.com/mpiton/zed-depsy",
+    "rev": "a57b83cadc2399e99e542eac7dcf38ddd5f18f76",
+    "date": "2026-08-28T16:39:32+02:00",
+    "path": "/nix/store/182yq9s7my5q674c7sikh7s4yykyf8dk-zed-depsy-a57b83c",
+    "sha256": "0m69lhb5f55889d5qf9076j1gf2zrk1ckjksx2hlysxgjr8f8gp0",
+    "hash": "sha256-4D7kUJava0+h6HrKycLMX7gXpDkgOVxaQqgUVxakyVQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "depsy-zed",
+  "cargoHash": "sha256-473ZXHLiNXSGRQySh/6BEd/9lYgRbEiczplWiD4LoYM="
+}
