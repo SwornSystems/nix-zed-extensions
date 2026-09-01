@@ -1,0 +1,18 @@
+{
+  "id": "build2_build2",
+  "name": "build2",
+  "version": "562787fd37ff9a58c16eb17c379180d3e64c8cdf",
+  "src": {
+    "url": "https://codeberg.org/wreedb/tree-sitter-build2",
+    "rev": "562787fd37ff9a58c16eb17c379180d3e64c8cdf",
+    "date": "2026-05-12T20:27:11-05:00",
+    "path": "/nix/store/7y44gla6qrax771bxsj25plflj9svzw3-tree-sitter-build2-562787f",
+    "sha256": "1iwxi53ksvjdpv804gryki2md0cj0178fw0svswhn2gx3c3ksd51",
+    "hash": "sha256-oTQ9Bxv9CQu53hpwh04AkoFWRZw+PwLQvk1uPUeJncc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

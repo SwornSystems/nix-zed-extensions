@@ -1,0 +1,21 @@
+{
+  "name": "answer-set-programming",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/tlyphed/zed-answer-set-programming",
+    "rev": "5158e9a81af47b2c8c267f2649ecd418086ca09b",
+    "date": "2026-05-12T10:52:49+02:00",
+    "path": "/nix/store/83yb2kxrb7drzfkfsrrzcsyw2qamgzpd-zed-answer-set-programming-5158e9a",
+    "sha256": "07pd8ilrf53kvgjbj6w28y0fqlis9dxf7j3g7k69imy0kvgl54j5",
+    "hash": "sha256-RZJC357A15jMPG/I43pLOlLsgEeCG7nk23MUl2lE7R4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "answer-set-programming_clingo"
+  ],
+  "kind": "plain"
+}

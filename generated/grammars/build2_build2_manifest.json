@@ -1,0 +1,18 @@
+{
+  "id": "build2_build2_manifest",
+  "name": "build2_manifest",
+  "version": "404b6a78da7d057195a42180fc007e4ea916eec4",
+  "src": {
+    "url": "https://codeberg.org/wreedb/tree-sitter-build2-manifest",
+    "rev": "404b6a78da7d057195a42180fc007e4ea916eec4",
+    "date": "2026-05-12T20:44:32-05:00",
+    "path": "/nix/store/1x5wh136kl2af9vwjda8svwjgia1k7pw-tree-sitter-build2-manifest-404b6a7",
+    "sha256": "1gqk1dxh0hvkh6jv819crhqwi46mndapb7m941faz6gjf3v9yw7v",
+    "hash": "sha256-+3Cf9nDyma9cIKmedVWz1ZDIMcwsBbSlgXNDAHsLE78=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

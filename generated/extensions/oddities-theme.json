@@ -1,0 +1,19 @@
+{
+  "name": "oddities-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/tavasolireza/oddities-theme",
+    "rev": "fb4b6f85eaccb9e77987f0fc3cbfa673247dc8e1",
+    "date": "2026-08-30T16:43:37-04:00",
+    "path": "/nix/store/yfqkpgdcsc9fi622z495qajlm5llhg4n-oddities-theme-fb4b6f8",
+    "sha256": "1316ymqla9rggyinzidlj0rg854fagzpxmiryxdy18zlrj6sndk2",
+    "hash": "sha256-Yjarjcz0o+Bb9znWfv9TjhT0MpC0xW+jfy8nRXH1Jow=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

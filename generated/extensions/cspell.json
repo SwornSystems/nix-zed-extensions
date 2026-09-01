@@ -1,13 +1,13 @@
 {
   "name": "cspell",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "src": {
     "url": "https://github.com/mantou132/zed-cspell",
-    "rev": "6e6c3ef913adf74dc077b707c2b4d5a46975c70e",
-    "date": "2026-03-16T19:26:07+08:00",
-    "path": "/nix/store/54lzw4fn5qhpqp2msd6z1djkq33vjb5s-zed-cspell-6e6c3ef",
-    "sha256": "1ir220f2aawa9bmrl1jwh7y0m3nrn3nacr9qd30yz0mqb9qrb20g",
-    "hash": "sha256-D4iVcVq4gu/BaDhlpuyw2Y4K/IFcBprrSoorJRwQIsc=",
+    "rev": "75169a0c222ec4b336ae600f6aa95e36178fc393",
+    "date": "2026-08-28T11:50:06-04:00",
+    "path": "/nix/store/di3q1sn015ynlkw8ljn30rss7z6pgmg6-zed-cspell-75169a0",
+    "sha256": "164b1wsb66a2dshkbrmj5rhgwsw3bldyb8ilgjbjsh0idbd3qwyz",
+    "hash": "sha256-33M82moRQC2XfDSi5Rtdg2v+YC6y5jWhbkIZszQPi5g=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-CFgeaa0IGGFU1mzMyfarzlQe5/NEFaDhPQorwGPtAmY=",
+  "cargoHash": "sha256-a3va4RxPS9zvPRPtKEsfvJDyvPU3StfI6iMd9z9yAd8=",
   "cargoLock": {
     "lockFile": "/generated/extensions/cspell.lock",
     "outputHashes": {}

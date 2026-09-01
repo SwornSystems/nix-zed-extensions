@@ -1,0 +1,18 @@
+{
+  "id": "answer-set-programming_clingo",
+  "name": "clingo",
+  "version": "e522bcabb38d25f2d03a335fea3f60d45bf93b00",
+  "src": {
+    "url": "https://github.com/potassco/tree-sitter-clingo",
+    "rev": "e522bcabb38d25f2d03a335fea3f60d45bf93b00",
+    "date": "2026-05-12T08:39:00+02:00",
+    "path": "/nix/store/d5jvnvdr1h7jqkxjzg81sygcjda9sy0n-tree-sitter-clingo-e522bca",
+    "sha256": "1zdxpm9wp2pmqdqhs91xs3jyspgc4w7wl1zr6ca88x671fs2fblx",
+    "hash": "sha256-nS4ntAvHdIQUM/kHyg8n7F3t5dA9JA1xw/WKy1O9vf0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

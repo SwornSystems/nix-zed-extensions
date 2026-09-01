@@ -1,0 +1,19 @@
+{
+  "name": "synthwave",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/DanielMSchmidt/zed-synthwave",
+    "rev": "e2d20aeb0f4d66f3a88a8e3aef6575ccfc61f085",
+    "date": "2026-08-31T12:39:33+02:00",
+    "path": "/nix/store/929jckk2mr584bl9s6gczkp703z1qrr2-zed-synthwave-e2d20ae",
+    "sha256": "05i6xiglbs512hcw8h0bjbiw4hmby3rzmgl3cnh36zzdahxd468i",
+    "hash": "sha256-ERnSOlTtfzOgZYO++vPwq0LC45ILQMQZFKHoRV/sJhY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

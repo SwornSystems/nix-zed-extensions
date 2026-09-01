@@ -1,0 +1,21 @@
+{
+  "name": "dep-beacon-lsp",
+  "version": "1.1.1",
+  "src": {
+    "url": "https://github.com/santi020k/dep-beacon",
+    "rev": "a09fee6eb1ec759fd434ca5746712d91f9b007d9",
+    "date": "2026-08-31T16:49:56-05:00",
+    "path": "/nix/store/fxw2py1y8fjr808s0zllyim4inph62zh-dep-beacon-a09fee6",
+    "sha256": "1b6vs6miqpgj169cz6n879hli67brl68ynp2xk70a2fqhgafqc7s",
+    "hash": "sha256-+jDs1IPYCQXO7OJajwzN65hIYTrIms+SCfJdHKvR26w=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "extensions/dep-beacon-lsp",
+  "cargoHash": "sha256-0CdVWasN9C/+Zo/PxbxeWD8byI5Nthse/++TcxZek5I="
+}

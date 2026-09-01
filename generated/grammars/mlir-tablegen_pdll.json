@@ -1,0 +1,18 @@
+{
+  "id": "mlir-tablegen_pdll",
+  "name": "pdll",
+  "version": "2fc85e2af4e3996a81051758fdbc3e729f962aee",
+  "src": {
+    "url": "https://github.com/felixtensor/tree-sitter-pdll",
+    "rev": "2fc85e2af4e3996a81051758fdbc3e729f962aee",
+    "date": "2026-07-10T18:48:34+08:00",
+    "path": "/nix/store/bmki24lnw2gdfjabjgmqw5wa0xfs9a65-tree-sitter-pdll-2fc85e2",
+    "sha256": "0nkj10vgj3i70jn70x624vrvb6xnihg4rizvzlxcby3f0nm0yqgp",
+    "hash": "sha256-92EPqgVu+MU6/fvHTB6Mtpu18ybCdHCsBCcO+TYIclo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

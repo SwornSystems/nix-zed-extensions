@@ -1,0 +1,18 @@
+{
+  "id": "gregorio_gregorio",
+  "name": "gregorio",
+  "version": "c9034de8f8c1c1605e9ccde29500f08e72ea51ff",
+  "src": {
+    "url": "https://github.com/AISCGre-BR/tree-sitter-gregorio",
+    "rev": "c9034de8f8c1c1605e9ccde29500f08e72ea51ff",
+    "date": "2026-05-05T00:15:31-03:00",
+    "path": "/nix/store/2rg00c0wjc849dl43jnbc07qd66bli9k-tree-sitter-gregorio-c9034de",
+    "sha256": "1782jldsh7rc1gg89s2bm83wq45rf2iqvg2z45wllj8acaj0cmm2",
+    "hash": "sha256-olYGpGIKSUp5IV+8jaNwuRDMB6pL6ITeCywfqBuVAp0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,21 @@
+{
+  "name": "beast",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/phtn/beast-ext",
+    "rev": "42333b9351e983bf1866fd7b14e3584cd2d4ad6b",
+    "date": "2026-08-09T02:30:24+08:00",
+    "path": "/nix/store/ysv4hbnllxaxan2jlsifp80jwm4n672d-beast-ext-42333b9",
+    "sha256": "12wyk2z4yqv2lwhzlabzmgz0n65lgy4lg69585ccd1rv5d35s5bw",
+    "hash": "sha256-fBVdRis7h8ZYQSWZR4l/tBgL/qt/Kfohp2JjT76Ynos=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "beast_beast"
+  ],
+  "kind": "plain"
+}

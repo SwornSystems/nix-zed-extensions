@@ -1,0 +1,27 @@
+{
+  "name": "gregorio",
+  "version": "0.8.0",
+  "src": {
+    "url": "https://github.com/AISCGre-BR/zed-gregorio",
+    "rev": "65e90135e17772825aed9c89f4edbd1e0bcf2857",
+    "date": "2026-06-09T23:20:57-03:00",
+    "path": "/nix/store/p450yqi9f9dwvsrzxjyg2n5mfqbgkjnq-zed-gregorio-65e9013",
+    "sha256": "1kgnzfi55nicxyfwxsdm8dhbz3hdcvmcdrg86wm0wmfn263caq7p",
+    "hash": "sha256-92DFhhHWVQ4qN+jlxupmDY6/YEO16c6d7yzaUqL79s0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "gregorio_gregorio"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-6un/8mhsitbaqMJoqvR7JSvDGd6uLXnczasP7UC/H/8=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/gregorio.lock",
+    "outputHashes": {}
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "licensr-snippets",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/DankDown10256/licensr",
+    "rev": "2b189333fadb9c7d177ee1bc8c2b425a0ec33033",
+    "date": "2026-08-31T21:52:07+02:00",
+    "path": "/nix/store/ga46k3547dsghgbh32kxccnr0ybrqxd8-licensr-2b18933",
+    "sha256": "0qqx295wfpqm5v1zqp99bw75kw7g9g3n29pm4f0bn6bxxb1fl4j5",
+    "hash": "sha256-RRLqwup9GbuAI/UmYcdL7/BZDl8pXfzDLhVfx0sSHWM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

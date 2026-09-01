@@ -1,13 +1,13 @@
 {
   "name": "mlir-tablegen",
-  "version": "0.2.1",
+  "version": "0.6.3",
   "src": {
-    "url": "https://github.com/feichai0017/mlir-zed",
-    "rev": "ac2a16efec69404c5061be9c80d746e8cde97452",
-    "date": "2026-04-13T20:38:28+10:00",
-    "path": "/nix/store/44v7pjdsvr0jp9d6fjsvz1mykhxzh7ga-mlir-zed-ac2a16e",
-    "sha256": "1j8p3vg275aj2lq7mnh7kxisqcpahhygwag62apnnrbx7gbc4lbg",
-    "hash": "sha256-b1HC1jt9ZWuvEuYp/jyE6jKsY58H2nowFVKVI94eF8k=",
+    "url": "https://github.com/felixtensor/zed-mlir",
+    "rev": "e21d4a686109d74d4c153111e253e5adeebbf945",
+    "date": "2026-09-01T02:24:36+08:00",
+    "path": "/nix/store/iy6k6rb1qzcl397qpabsp6kr23k11608-zed-mlir-e21d4a6",
+    "sha256": "11ydkrrv8f744h6vzmy1y40mk2m9gx927j3c640pxk8jjf4xcxxb",
+    "hash": "sha256-q3fWiZMSzX4BMWzII1J/qYpZAfHB178NJOQ4tHOezYc=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -16,7 +16,10 @@
   "extensionRoot": null,
   "grammars": [
     "mlir-tablegen_mlir",
+    "mlir-tablegen_pdll",
     "mlir-tablegen_tablegen"
   ],
-  "kind": "plain"
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-tGXVfenYnDug7bHQorMYi3yec5vYVEiTfUXyaYu0VdM="
 }

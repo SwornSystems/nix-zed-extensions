@@ -1,13 +1,13 @@
 {
   "name": "mcp-server-zuraffa",
-  "version": "6.0.0",
+  "version": "6.1.0",
   "src": {
     "url": "https://github.com/arrrrny/zuraffa-zed",
-    "rev": "3fa5b9c3eb99c86eaab0ccd67505a3e6e6dc6668",
-    "date": "2026-08-23T12:51:31+03:00",
-    "path": "/nix/store/fzjjhl3mz6ql6qygh9f7gw3vk5xa6l6m-zuraffa-zed-3fa5b9c",
-    "sha256": "11fyhs8khqpmp2wfa0m58m0q4ycv7nqad50rm9gc2b079wzg6zfq",
-    "hash": "sha256-2H3zPk8HLMFeqhmUprA9m3mCQUWlAuW4uPViOJGG3oU=",
+    "rev": "2a12efc1f48c94f32ddc1fe396086b2a2a3eaf98",
+    "date": "2026-08-28T20:49:00+03:00",
+    "path": "/nix/store/3fj0yfnkzw0kzc2gd6v431yl3wn2xakv-zuraffa-zed-2a12efc",
+    "sha256": "0d83jh7md26qkynsxd3k73g6bnffml4g92acisikc4zsd31irg4l",
+    "hash": "sha256-lLwcw2j6EzajjkyJ9Aitztll3jhztK6tn9iIVg+UAzU=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-X5tVQKax71i9aVtEPaVaoTCUzwrLGROF8kP+Yu6y7+I=",
+  "cargoHash": "sha256-DlLNFcl2EhobI20kRG9xE7fPMVkKem1a2mCKIdCrtL8=",
   "cargoLock": {
     "lockFile": "/generated/extensions/mcp-server-zuraffa.lock",
     "outputHashes": {}

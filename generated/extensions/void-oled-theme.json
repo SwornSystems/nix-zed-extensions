@@ -1,0 +1,19 @@
+{
+  "name": "void-oled-theme",
+  "version": "0.8.9",
+  "src": {
+    "url": "https://github.com/RustyDaemon/zed-void-oled-theme",
+    "rev": "074e6deeafbd59ed0e0f35840f01822d6bed9592",
+    "date": "2026-08-29T20:22:20+02:00",
+    "path": "/nix/store/zkhs8di778fzir6hjdwcxfdkrdq8k461-zed-void-oled-theme-074e6de",
+    "sha256": "07r3gpikn02v21vx2nvmnhzxhx5fbak63b3jxjqay5sypcix1v20",
+    "hash": "sha256-QOzQI7teF6+w7HKsYaZarnTYP7R1W9F3EFsAO+N9Ix8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "build2",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://codeberg.org/wreedb/zed-build2",
+    "rev": "ac3d5e2df88d72f1f2f377c42e43b3f20de82490",
+    "date": "2026-05-12T20:59:20-05:00",
+    "path": "/nix/store/dng72n28z55dkmbjkp0da8yaypc03qv5-zed-build2-ac3d5e2",
+    "sha256": "1fm0pavr6z31m3hkz8s38c1jfrhs3q26w1kghhpsr045c0bsrnzh",
+    "hash": "sha256-8NusF2CFgKwvhG8GbgQeGmYnA0NDoz/hqGF8k7e6oLo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "build2_build2",
+    "build2_build2_manifest"
+  ],
+  "kind": "plain"
+}

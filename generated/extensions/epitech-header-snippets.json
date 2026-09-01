@@ -1,0 +1,19 @@
+{
+  "name": "epitech-header-snippets",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/JordanMar1/epitech-header-snippets",
+    "rev": "06361d3e04be6cd26ec34417ecb61a59d3a2bc41",
+    "date": "2026-06-15T13:06:51+02:00",
+    "path": "/nix/store/7nicbacci2g9j3kzm7a0gghgp58fv98f-epitech-header-snippets-06361d3",
+    "sha256": "0gsnmy2ymqbqsckzn98j0q79ihpmlf0prwq7mxna74gly75ip8iz",
+    "hash": "sha256-P6Iby/H0kaNsrwfzfIGj9cKYDgYSJfsn03jh6oWvVj8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

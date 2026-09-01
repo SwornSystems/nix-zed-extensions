@@ -1,0 +1,19 @@
+{
+  "name": "hbuilderx-soft-green-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/qinains/hbuilderx-soft-green",
+    "rev": "544824cb9eb15596ba616467db5f5c2ee829e775",
+    "date": "2026-08-27T23:57:20+08:00",
+    "path": "/nix/store/m1l9labh2zz556g8svmkp15bj5bh8fmb-hbuilderx-soft-green-544824c",
+    "sha256": "1cyavfjgyf8ha8xgxpnh9lbxajq8i0npsxpzmf0lvszwdc3gxvwn",
+    "hash": "sha256-lu/+Bmv8602Bq/92fS2ICEvVF03Q3v46UhA5/6TbyrM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}
