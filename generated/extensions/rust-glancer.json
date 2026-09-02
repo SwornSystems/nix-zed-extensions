@@ -1,0 +1,21 @@
+{
+  "name": "rust-glancer",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/rust-glancer/rust-glancer",
+    "rev": "7737db379d16f0de8c6d917335f288780ad6d26d",
+    "date": "2026-09-01T06:22:12+04:00",
+    "path": "/nix/store/pcbynbyp1sdr52wv1ki3hwrkk8yan7dl-rust-glancer-7737db3",
+    "sha256": "0xp9vx16w8qg0d9dki099kzbvhhxxhhm1w6zfvy857819chjk16y",
+    "hash": "sha256-3oQpIUsBnYL8dt/wUCHsHcK9/kwJxNlSAw8jbkLf6XY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "editors/zed",
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-snH6iK+hQgnqc24Z7xXmg457mf5R+ujdc4PGgOXK7Vs="
+}
