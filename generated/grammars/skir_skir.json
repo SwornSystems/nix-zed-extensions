@@ -1,0 +1,18 @@
+{
+  "id": "skir_skir",
+  "name": "skir",
+  "version": "431f29528d08133d052241b72b23688cf034901a",
+  "src": {
+    "url": "https://github.com/sporto/tree-sitter-skir",
+    "rev": "431f29528d08133d052241b72b23688cf034901a",
+    "date": "2026-08-07T16:41:19+10:00",
+    "path": "/nix/store/hy30wppncrnhi2nsvc77lisybd422ffm-tree-sitter-skir-431f295",
+    "sha256": "01msdqqvycmvjpjc8whrc9zn1z2pbdqjxz0ayfi03lf769p8jd1m",
+    "hash": "sha256-NTSJbjLH0QGi8wr8LnFbV/xgf2IZcsTklbsyvzFuugY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

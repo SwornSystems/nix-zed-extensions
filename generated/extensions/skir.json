@@ -1,0 +1,21 @@
+{
+  "name": "skir",
+  "version": "0.3.0",
+  "src": {
+    "url": "https://github.com/sporto/zed-skir",
+    "rev": "43c96b05d555b27ed882f7530b863b4cdd49c2eb",
+    "date": "2026-08-07T19:25:37+10:00",
+    "path": "/nix/store/kp2w6i5h4vw2x5ly8lb2j6dykm5m5mwl-zed-skir-43c96b0",
+    "sha256": "0fib6xlfnrknv8r7d2fr4rll16z3qycqflbp7zx5x2sszgli6a6w",
+    "hash": "sha256-3CgT6ftai176P3dRh5nH45tAaSbZiXYy2nZm62g3Kzo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "skir_skir"
+  ],
+  "kind": "plain"
+}

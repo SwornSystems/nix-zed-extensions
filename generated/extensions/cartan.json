@@ -1,0 +1,27 @@
+{
+  "name": "cartan",
+  "version": "0.5.1",
+  "src": {
+    "url": "https://github.com/cartan-lang/zed-cartan",
+    "rev": "48cc8910dd834f2014da56c9295284eef0497b79",
+    "date": "2026-09-02T12:08:14-04:00",
+    "path": "/nix/store/bj7mbqls4qipjhrqzd55sb8a5yylqc28-zed-cartan-48cc891",
+    "sha256": "08ka8i2dznq69wc7v4bjlp7vq085slak7vkfnx1sm98smawhmjf6",
+    "hash": "sha256-xskKuaoapapDt27uMxXVBQG8z6VykX0YTwbb30REaiI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "cartan_cartan"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-wkvJTSoeo0KPJ/W04VyAQcKEvmGBMbHM1tYcknlVLp0=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/cartan.lock",
+    "outputHashes": {}
+  }
+}

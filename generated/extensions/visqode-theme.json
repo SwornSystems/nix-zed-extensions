@@ -1,0 +1,19 @@
+{
+  "name": "visqode-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/icrmahin/visqode-zed-theme",
+    "rev": "b2ac3e6b80c0cb7282d858383760fb7d5d8c044f",
+    "date": "2026-09-01T16:20:00+06:00",
+    "path": "/nix/store/cqjs10bpkfr66qclcps37ixg0pz2y2s9-visqode-zed-theme-b2ac3e6",
+    "sha256": "0dm6c0dflbaa69ym0mqqa8jjzch7drr4braqp6x2xivpid8s0mln",
+    "hash": "sha256-llagUYt3xy66uVjlRXJuB7IvJVIYV1B9Mkot6hpgpjY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

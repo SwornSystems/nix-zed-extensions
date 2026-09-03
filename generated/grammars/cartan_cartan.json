@@ -1,0 +1,18 @@
+{
+  "id": "cartan_cartan",
+  "name": "cartan",
+  "version": "0a986999acdcc834981cc4dc5c01f3b2dcc00e90",
+  "src": {
+    "url": "https://github.com/cartan-lang/tree-sitter-cartan",
+    "rev": "0a986999acdcc834981cc4dc5c01f3b2dcc00e90",
+    "date": "2026-09-02T12:08:12-04:00",
+    "path": "/nix/store/yjxv4r6gyj990i7i61w44kc34vbyqbrr-tree-sitter-cartan-0a98699",
+    "sha256": "1iki2lcg11jcl1v4whdny3id8s8ggzy9vvl0q06b22y02sqm0vya",
+    "hash": "sha256-ym9QsRbAC7EMwIDunfx/D2nU4vC2QU52oEyG8BgVccY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

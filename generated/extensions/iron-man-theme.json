@@ -1,0 +1,19 @@
+{
+  "name": "iron-man-theme",
+  "version": "2.0.0",
+  "src": {
+    "url": "https://github.com/bkataru/iron-man-zed",
+    "rev": "2a4005ced3cfca221a02efbf998ec9505a6bb661",
+    "date": "2026-08-30T21:52:49+05:30",
+    "path": "/nix/store/ip6hwq8d13835ahq7mwanjn6ivr78g7r-iron-man-zed-2a4005c",
+    "sha256": "0mql9mzp1dzgr3kszynvvlqlfhncpkax0jnzw1k7fv1r9j972p5x",
+    "hash": "sha256-vVxxkkw5bHdm4N9K0NW8zEJHMd3b+q/nyO+3cH9NFFc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

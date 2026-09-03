@@ -1,0 +1,19 @@
+{
+  "name": "mimo-code-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/jadmadi/zed-mimoCode-theme",
+    "rev": "410ec03ddac8e21b0b08679ef384e57df9b29659",
+    "date": "2026-08-29T23:44:28+03:00",
+    "path": "/nix/store/03sfhn35b54jgh63q89rav033nlhrlf8-zed-mimoCode-theme-410ec03",
+    "sha256": "0qmprpwffbh15g83mw81l6nqajhyb0z3ll8yrcaw74sj70k675pd",
+    "hash": "sha256-7ZZjJjhSk8MVyx5ROj5YHkqFraEB8TrQKwEu5/jNt2I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
