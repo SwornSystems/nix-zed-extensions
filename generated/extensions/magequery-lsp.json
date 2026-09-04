@@ -1,13 +1,13 @@
 {
   "name": "magequery-lsp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "src": {
     "url": "https://github.com/cresset-tools/magequery",
-    "rev": "7a0fa56c07b1a5a8b1aea3290a98d3e262a5ac61",
-    "date": "2026-08-12T05:55:43Z",
-    "path": "/nix/store/f5zlkmq2ynig22ijik41h2aca4s59a5z-magequery-7a0fa56",
-    "sha256": "0l19jrd56sk4s02pkr89iyhh7iqd98b4ywqbb831j0c7rrll49v1",
-    "hash": "sha256-YSdCac6HARkGWgtzTxZKDccDoY8J5XkF0GRqU1qWKVA=",
+    "rev": "af40dfab90a529d9ac8c5076c4903ff784755bf8",
+    "date": "2026-09-03T15:38:08+02:00",
+    "path": "/nix/store/8mf48am4j1sas7ryi3zb548bi68spcvy-magequery-af40dfa",
+    "sha256": "1659jnnlvzzd240jly5s557kgsdllji616vbdpr6343jr3zsk2h4",
+    "hash": "sha256-BIqp/8hykGHybWubYKKktOk3Tym6eCoBEe3/Ta2VqZg=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": "editors/zed",
-  "cargoHash": "sha256-Krf6X2pW6DHHZww9Fcso8eHxMZchcMWvIAE3IOoExtY="
+  "cargoHash": "sha256-HJfYCoPP/NiI9cohyFYcMm7X2ddu4KExHKPugU6WPG8="
 }

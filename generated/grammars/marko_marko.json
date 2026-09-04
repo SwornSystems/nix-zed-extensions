@@ -1,0 +1,18 @@
+{
+  "id": "marko_marko",
+  "name": "marko",
+  "version": "7fb20382b9b0c97c8bdbceee0e0641bea11dd00f",
+  "src": {
+    "url": "https://github.com/marko-js/tree-sitter",
+    "rev": "7fb20382b9b0c97c8bdbceee0e0641bea11dd00f",
+    "date": "2026-06-26T10:17:01-07:00",
+    "path": "/nix/store/m5qc6s1p392mcgviir846q62lgp8f1v8-tree-sitter-7fb2038",
+    "sha256": "0rqq904nr5rmmkykw8vppwx7kv97n2b3d200yvj1scpvdpfp337f",
+    "hash": "sha256-7oxx3W37Mh3k9gCINpawJ+15Or93Iz79rDWXbAlIGGc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

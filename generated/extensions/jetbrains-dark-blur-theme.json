@@ -1,0 +1,19 @@
+{
+  "name": "jetbrains-dark-blur-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Slipstream-Max/jetbrains-dark-blur-theme",
+    "rev": "72ade16c4846f8a16ae79301d912edd12131d90e",
+    "date": "2026-05-08T16:51:29+08:00",
+    "path": "/nix/store/7z4dahh68nzd7ymg9wdwf45fzxzbh27q-jetbrains-dark-blur-theme-72ade16",
+    "sha256": "0i75pcg5naa7r4v0wxrix3p0vamn9lwq2j0gl1gqxp9z305c57ap",
+    "hash": "sha256-V53CChg/3Y5foA9IgTlNtqoN7ugxdw42yUcpWx675UQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

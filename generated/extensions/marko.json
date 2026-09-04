@@ -1,0 +1,23 @@
+{
+  "name": "marko",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/marko-js/zed",
+    "rev": "e2011f67fa566e225cb46f708718842d7264e4e3",
+    "date": "2026-06-26T10:39:11-07:00",
+    "path": "/nix/store/b51pkdkz683jakvlijqr33f8xmirdxa2-zed-e2011f6",
+    "sha256": "0nnvjz7hnzi317w33rmjsdb9q56p4hr282200ran4hk3m1ynpsk9",
+    "hash": "sha256-aeprfahjQmJVBkAIJDIk1xScVtOy5jH4CSN+C8+X21o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "marko_marko"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-SvgFFJN5yNrW3sQjMhORxlBvLHfy+oKzBQFzSgixxSk="
+}

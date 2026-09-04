@@ -1,13 +1,13 @@
 {
   "name": "pollinations-mcp",
-  "version": "1.0.13",
+  "version": "1.1.0",
   "src": {
     "url": "https://github.com/FrancoStino/pollinations-mcp",
-    "rev": "1e36facf076493ef2f2c36251024218ee9498008",
-    "date": "2026-07-21T15:08:29+02:00",
-    "path": "/nix/store/lby4vfhd9c3f78bbdcbyqvzinsjr5hp1-pollinations-mcp-1e36fac",
-    "sha256": "0fn557kwz572zzf2hd630vkbrjpx5snlw2ylg95n730vl2d9qsmf",
-    "hash": "sha256-rmqcmqAbjGNLetQLTq0u/cq85gbDNCjc/+KUz+cpxTo=",
+    "rev": "47db6764ff26335fb05f13f4947791bb4e7715bc",
+    "date": "2026-09-03T11:53:39+02:00",
+    "path": "/nix/store/5ag4mbhixp5nnblsjgf9k3iiz87bs934-pollinations-mcp-47db676",
+    "sha256": "11snmkvbam0ir4hklb0ymhmgbw7cfyjgxv9zgy82mkdxnx69rs32",
+    "hash": "sha256-YuicTLe9zSqQfz/t/qR37PD1KqweLDohyRFUtfasVoc=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-vAp0qPMiezzc4uJonefwTaPguJfVKwTH/XEMXGajas8="
+  "cargoHash": "sha256-uw0/tszg4fllI8ordpqlBqrv2DJ1YaXafa5H/0olJBI="
 }

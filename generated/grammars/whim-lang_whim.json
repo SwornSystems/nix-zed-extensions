@@ -1,0 +1,18 @@
+{
+  "id": "whim-lang_whim",
+  "name": "whim",
+  "version": "7582557f1d87d7af4957b98b351ad0a1c42bd7cd",
+  "src": {
+    "url": "https://github.com/carthage-software/tree-sitter-whim",
+    "rev": "7582557f1d87d7af4957b98b351ad0a1c42bd7cd",
+    "date": "2026-09-01T06:44:31+01:00",
+    "path": "/nix/store/66pz9qys2ksmxf57hf0nlrvfklzildzm-tree-sitter-whim-7582557",
+    "sha256": "127czy52whk0iaq47wbv3zkccccn5wqz08ww22xjv84rv4hw9i3r",
+    "hash": "sha256-ecTEIdmZoC27EJwj8DEvljHG5h978UOwimBCLor/7Ig=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

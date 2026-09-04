@@ -1,0 +1,19 @@
+{
+  "name": "dark-trio-themes",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/2u841r/dark-trio",
+    "rev": "88254d3b1a9fdf4d8d83f6c014d3f10b0e5d87fc",
+    "date": "2026-05-21T22:41:17+06:00",
+    "path": "/nix/store/rl96fxmdqpf43zjcnhzbzx4k6nw3ibhv-dark-trio-88254d3",
+    "sha256": "1wjrijn958z7wi4j8am0w0rpch99r0x58r2zlgkiqlxwf6fiswr0",
+    "hash": "sha256-IHMdnXG8Uxzno19kVDrIKUF2M+CgKiRJ5OejkqyMWfI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

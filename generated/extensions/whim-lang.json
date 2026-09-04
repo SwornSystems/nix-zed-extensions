@@ -1,0 +1,23 @@
+{
+  "name": "whim-lang",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/carthage-software/whim-zed",
+    "rev": "a9248482bb880c8962d4a21ad9d77b49bea3137e",
+    "date": "2026-09-03T03:46:32+01:00",
+    "path": "/nix/store/6bwpprf6drx3w8z94abij8ky03lsbk97-whim-zed-a924848",
+    "sha256": "1v8n9kp7iq36q1spbsn8j6lwd8f8nnhkl2jy2kw2531lrfn1pbd2",
+    "hash": "sha256-oq0brMs0jCL4FF4KOqG1yKHGqZHI6nV1wGbgeO5MFu0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "whim-lang_whim"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-E0CRQMvHgeNrnH2pi5ESycvrMci/1gLRBJ/2vPn/Fxs="
+}
