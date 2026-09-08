@@ -1,0 +1,21 @@
+{
+  "name": "fatou-language-server",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/jolars/fatou",
+    "rev": "8950753bc632459fc6e2f489ba8f56c64e91637e",
+    "date": "2026-08-24T12:48:28+02:00",
+    "path": "/nix/store/yiq0qwn6d9m9q9vb35x4rhxn4405rh67-fatou-8950753",
+    "sha256": "08cjq1ba8fa2rx8zz3x41rwwfmkwmjzyk5rq91ii1ll0z8fkw9mw",
+    "hash": "sha256-vCY+HfqA0hBjSDiX6b+sfFbHeQ6kj/9Rz0I5pFbAkiE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "editors/zed",
+  "cargoHash": "sha256-pfHmGewQZS1PAa60ia+VWMDaqkc4la1IUC59nZsvHqk="
+}

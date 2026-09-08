@@ -1,13 +1,13 @@
 {
   "name": "cartan",
-  "version": "0.5.1",
+  "version": "0.6.9",
   "src": {
     "url": "https://github.com/cartan-lang/zed-cartan",
-    "rev": "48cc8910dd834f2014da56c9295284eef0497b79",
-    "date": "2026-09-02T12:08:14-04:00",
-    "path": "/nix/store/bj7mbqls4qipjhrqzd55sb8a5yylqc28-zed-cartan-48cc891",
-    "sha256": "08ka8i2dznq69wc7v4bjlp7vq085slak7vkfnx1sm98smawhmjf6",
-    "hash": "sha256-xskKuaoapapDt27uMxXVBQG8z6VykX0YTwbb30REaiI=",
+    "rev": "b12958e2c3567e00c8af5f488e652864c6e74f78",
+    "date": "2026-09-07T07:20:02-04:00",
+    "path": "/nix/store/pnp72ycgv9r82ygp8j8448q5gyr43mmq-zed-cartan-b12958e",
+    "sha256": "1plwx19fhqgjd1dbgy1q9slyg7s9dy6mv3rqgk3fhb6a32dk611f",
+    "hash": "sha256-LgQzmxjKLOjGfDiPXY1vSZ/nqU44+LdaaPJh6FLonN4=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-wkvJTSoeo0KPJ/W04VyAQcKEvmGBMbHM1tYcknlVLp0=",
+  "cargoHash": "sha256-a4LAGGxA5JbkynvQhNDqx/jmjwd8ja8mdFafksM2zc0=",
   "cargoLock": {
     "lockFile": "/generated/extensions/cartan.lock",
     "outputHashes": {}

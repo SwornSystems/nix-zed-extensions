@@ -1,13 +1,13 @@
 {
   "name": "mach",
-  "version": "0.4.2",
+  "version": "0.5.0",
   "src": {
-    "url": "https://github.com/octalide/mach-zed",
-    "rev": "aa691f9caf06855fb28c370d1abe723d4ba0f034",
-    "date": "2026-06-24T01:44:32-04:00",
-    "path": "/nix/store/5ck6l5jfy4naqk072bx7zrm1k9qr5fkl-mach-zed-aa691f9",
-    "sha256": "0p80wbwcv3fbjqzv25vg44qmbjdh2bm9gs4xxqk4ag3m999cfq9c",
-    "hash": "sha256-LGHHUkp1PEUm7p3ol+oSsMlVMSFvF7E/lsuNzfjiAF0=",
+    "url": "https://github.com/briar-systems/mach-zed",
+    "rev": "d496e64305fb192c4e9ed85474cd2ba1ec5b846b",
+    "date": "2026-08-31T18:51:58-04:00",
+    "path": "/nix/store/y7bq8vgyrassanfb9f34w7vkhkxblj14-mach-zed-d496e64",
+    "sha256": "0pa4yisck2j8jh1lwr4k9vgn32k5sngsg9wj79l90zaigfqj7s9x",
+    "hash": "sha256-PekjsXtRfZBoOpKnp5/VZYph306TZE4DlEiKyXT0RF0=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-npqsBrMMw/qWHe5jMY6j7XstTdrp8bxArNYT2GmEb7o=",
+  "cargoHash": "sha256-PdTfPvpVOHDYi2HAIRdtl87pEvoLwNexjOxft19myJk=",
   "cargoLock": {
     "lockFile": "/generated/extensions/mach.lock",
     "outputHashes": {}

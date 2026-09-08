@@ -1,13 +1,13 @@
 {
   "name": "stylelint",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "src": {
     "url": "https://github.com/florian-sanders/zed-stylelint",
-    "rev": "f9983f4f02beb1786bb41c51565d9e105e347f10",
-    "date": "2026-08-23T23:18:39+02:00",
-    "path": "/nix/store/7dg4bjkq2gvx7lc2h55wrazzz1706d8j-zed-stylelint-f9983f4",
-    "sha256": "1db5080iwhpcfplr3dgn9df3ys223dfcd4njpibinayia1zgjghd",
-    "hash": "sha256-DT75flDRKxtXvNKSxlwbQmg/XEv2tZHpdexCHgECZbU=",
+    "rev": "67c00eeb3d11e7e1baf329164ae2dedc0003db2c",
+    "date": "2026-09-05T21:27:21+02:00",
+    "path": "/nix/store/danz4y0f4libiqhy7sd94a7lpadmkzmn-zed-stylelint-67c00ee",
+    "sha256": "0s6l9a5lqk4gbv6mxakkp2ywpibafdk4bb9058z5qbi8rvf3g3ym",
+    "hash": "sha256-1Y833M4oLlw+KiCtRWZzasXLvbhzql7NXo9MTItK1Gg=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-4qzOQIp7uHXm/obkBX7tEdOK9+EkUaNtZMbsuFqjdMg="
+  "cargoHash": "sha256-/P1/p6JbmLQfU8y7QoVAKzzxn+xgrM7N50ZIPa4T48I="
 }

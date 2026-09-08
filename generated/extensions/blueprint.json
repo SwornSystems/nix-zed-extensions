@@ -1,13 +1,13 @@
 {
   "name": "blueprint",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "src": {
     "url": "https://github.com/tfuxu/zed-blueprint",
-    "rev": "179d29e2c490549aaa69a1d6a56174ec6cf886d5",
-    "date": "2026-04-03T16:59:42+02:00",
-    "path": "/nix/store/p25k4nhljczlgmlnh9jxx1c0pypyg8yc-zed-blueprint-179d29e",
-    "sha256": "04pc89gkm3bff4vixgvm98cay1dbjsqfjzrwv14411qzkmnss5b6",
-    "hash": "sha256-ZhWtbZ0fh0BI2Dx/6bCWqwWvGEp1vx43cW6NOl9C7BI=",
+    "rev": "3f6808893f601c23dad6d2a745fcbf76ac2261ad",
+    "date": "2026-09-04T22:43:05+02:00",
+    "path": "/nix/store/n9qa9j410pml4smvi6nlni1adlb58s02-zed-blueprint-3f68088",
+    "sha256": "18sqyphy666s7060m9027w0rga2yp9vcajhvd8qnbh16rdcravld",
+    "hash": "sha256-jW6VWcsmwGUxahtKxXa6XqiXAT8CpAoMONoY4+H1WKM=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-9S7Lrn3m8s8Rm4u4vZn+r3RfYUCaqWykXT9ffGbjQNQ=",
+  "cargoHash": "sha256-t4r5Kf8Nz+74BLKOmLDjXSGJGGeH9vOmMyxtaKWM5G4=",
   "cargoLock": {
     "lockFile": "/generated/extensions/blueprint.lock",
     "outputHashes": {}
