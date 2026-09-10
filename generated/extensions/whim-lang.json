@@ -1,13 +1,13 @@
 {
   "name": "whim-lang",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "src": {
     "url": "https://github.com/carthage-software/whim-zed",
-    "rev": "c803b0f325ac9b68980bc2d1508da8f03d973c12",
-    "date": "2026-09-07T05:18:47+01:00",
-    "path": "/nix/store/fbl1pcixq2473k2y07x5jql8ri5c66ky-whim-zed-c803b0f",
-    "sha256": "1scvhbic8vyl20f9gn0y43ia66082pqd7rx161x9v8bw3gl2zp5p",
-    "hash": "sha256-t9wv6Bt8oZ16MKHn0/AVCBij4iAe2JccENRvxOKCm+k=",
+    "rev": "dc7a8fa6af0a1aef5b250714ea7e5c1f75bc76a7",
+    "date": "2026-09-08T17:46:36+01:00",
+    "path": "/nix/store/bnz763h1vzvrghsbdk36bn8rp7qw4amb-whim-zed-dc7a8fa",
+    "sha256": "0w4767ybbw5vj0737731nbdk9175a3284k0y79dfiskcnxlifgsk",
+    "hash": "sha256-Uz8Xabds6uhaOh5MgsRQ5YQ027JhnDMOkLvwtfwxh3A=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-NNcWE3HRlk9kTWzNWZ+O+eIaaCNRe06/nSEBItB6CdY="
+  "cargoHash": "sha256-dpDPSSFEXUBYeNw3pZ25aBCruaxsuGzFCeK07esH6dg="
 }

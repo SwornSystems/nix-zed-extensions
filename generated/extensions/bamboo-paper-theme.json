@@ -1,0 +1,19 @@
+{
+  "name": "bamboo-paper-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/chrisdrackett/bamboo-theme-zed",
+    "rev": "04b5d8410583bf8851b85e99cef177e67db20323",
+    "date": "2026-09-08T20:23:58-07:00",
+    "path": "/nix/store/z6bhksq4cyh5pd34fw802zmz73canj31-bamboo-theme-zed-04b5d84",
+    "sha256": "1lzkd3qhi90s45p9kwckgfwzlwx70ifs5yaqhn15wgrhzhjy80cy",
+    "hash": "sha256-ngHkJfwwP16ChVj5ol0Ep3P6uXuT8ZluIRqkCPFo89M=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

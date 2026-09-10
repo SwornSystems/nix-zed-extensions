@@ -1,13 +1,13 @@
 {
   "name": "rumdl",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "src": {
     "url": "https://github.com/rvben/zed-rumdl",
-    "rev": "e16e4a4b8f98b6b1958f880edc88402c8594d7ea",
-    "date": "2026-07-20T15:20:53+02:00",
-    "path": "/nix/store/cjazv1v7q2igb72p7i3d0b5f7jlwz8q6-zed-rumdl-e16e4a4",
-    "sha256": "07qi29jfsn2m40ndz6ybh56alr99iahmq1iqxxiap54jd1iky1nq",
-    "hash": "sha256-2AY/Y2iSlKti7zgGXKGKKWWqTIHLm98sIFVY7WQSER8=",
+    "rev": "3bb35fe96aaad772ae76b84077b9b2e3d217f22f",
+    "date": "2026-09-08T09:08:10+02:00",
+    "path": "/nix/store/dixsaxq6gbr8q256i7lkl9q6l1c19ylg-zed-rumdl-3bb35fe",
+    "sha256": "0abwmp620gxqpa4h6vz0vgz8j5w98l2sbcym7fr99l9ll7ffkm6s",
+    "hash": "sha256-2tTp3KE00ZSyO9WzpQVFiReJ/tvgbwOJurg/IMytfCk=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-+ZMWJ+tgnGAgURYXVt6u4LwatJjH4Qr15EdivjzUSLA="
+  "cargoHash": "sha256-vGsh18ufTBR5Qz/bMjqgEifK5uKOMy1pr1I7++VK1fw="
 }
