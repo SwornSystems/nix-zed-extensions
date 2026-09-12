@@ -1,0 +1,19 @@
+{
+  "name": "faded-prism-theme",
+  "version": "1.4.1",
+  "src": {
+    "url": "https://github.com/ryanabx/faded-prism-zed",
+    "rev": "d5b7a1ccad69f22253f4b08bceb8af75f286a086",
+    "date": "2026-09-03T15:08:57-05:00",
+    "path": "/nix/store/wn9ajpydyh5vffqajdw7pxhak5vd0inc-faded-prism-zed-d5b7a1c",
+    "sha256": "1h0203yvj33aplbqi29krz6wmi134wiwjj202s895spaf0g2al9q",
+    "hash": "sha256-OFElHnDq6pKQFkBIySMnI8TKzc8ziYgXvWoMuf0AAsA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

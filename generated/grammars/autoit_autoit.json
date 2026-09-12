@@ -1,0 +1,18 @@
+{
+  "id": "autoit_autoit",
+  "name": "autoit",
+  "version": "f421a68daaffaa25d89b34c66d7b97bf49b9d845",
+  "src": {
+    "url": "https://github.com/sumit-m/tree-sitter-autoit",
+    "rev": "f421a68daaffaa25d89b34c66d7b97bf49b9d845",
+    "date": "2026-05-21T13:29:58+05:30",
+    "path": "/nix/store/k725j6kcq4qn2s2ydqlhy0mvrn7lja36-tree-sitter-autoit-f421a68",
+    "sha256": "1813zbgvap4xi4d2pvyjfbh6pf88qrcb3rhdrisgqi57s23c85wq",
+    "hash": "sha256-mBfEhtCnRPx0zA3msVjGCLlr4HLS7ysaiZ1ctd/6I6A=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

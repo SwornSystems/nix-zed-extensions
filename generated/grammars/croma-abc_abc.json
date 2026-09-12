@@ -1,0 +1,18 @@
+{
+  "id": "croma-abc_abc",
+  "name": "abc",
+  "version": "59fc859e24215c4f65c80a50a9f99a1a2122fabc",
+  "src": {
+    "url": "https://github.com/ro-ag/croma",
+    "rev": "59fc859e24215c4f65c80a50a9f99a1a2122fabc",
+    "date": "2026-06-17T13:31:15-07:00",
+    "path": "/nix/store/6sjdg55zd5gn7zwjl8by4rkc1qjp0lrg-croma-59fc859",
+    "sha256": "0j2dlv664arydx6gxd2hvb5nqcf001l53hnv3bqlhkkzfh8zkz7l",
+    "hash": "sha256-9Pz5EXR/TkjxGtvCUWgAwDFsy9pQtP5Mbz4rYsymTUg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "tree-sitter-abc"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "fennel",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/notpeter/fennel-zed",
+    "rev": "93d723be679281aa18b1f402f3251b6cf3d91af1",
+    "date": "2026-07-27T09:48:54-04:00",
+    "path": "/nix/store/kr8c0bhc9z1vds0612dhzxvja5q3hw3c-fennel-zed-93d723b",
+    "sha256": "1cbkibf80f21zh1p2s3pmf68vcipb1xibm4db3ki9cg8kl1yxg9x",
+    "hash": "sha256-Pb3uA53osRTnWI3UFXtYN7KNjKt3aHED/EE4gNyKc7E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "fennel_fennel"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-yRmN5Yv1KTtKPJW//d9vOkOsxpiM5sgARqpJi/oKwF8="
+}

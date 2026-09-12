@@ -1,0 +1,19 @@
+{
+  "name": "sublime-text-4-colorful-theme",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/Fan4Metal/sublime-text-4-colorful-zed",
+    "rev": "b06583031775ddd38cdbdbd3363d173e4b709a19",
+    "date": "2026-08-30T14:51:21+03:00",
+    "path": "/nix/store/x3ly4nfsgslcyghb1i3gnsxbpcfbykam-sublime-text-4-colorful-zed-b065830",
+    "sha256": "0dfc1xv6gay55y59s0xil5wwawzd9k0m1byl2vv4xs0rkzbhf776",
+    "hash": "sha256-5hwH158Z6E72FtSvUMFM7XPFeaGxA52KL8WrZ3YPzDU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

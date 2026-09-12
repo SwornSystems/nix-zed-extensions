@@ -1,0 +1,21 @@
+{
+  "name": "drogon-csp",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/rbprsp/zed-drogon-csp",
+    "rev": "32b1e2f0fa49c3bf5ae1b1eab1176a4b29f69fe4",
+    "date": "2026-08-16T13:28:51+05:00",
+    "path": "/nix/store/vf7aibsskrprqdnv40zs019v083251cl-zed-drogon-csp-32b1e2f",
+    "sha256": "1lbp0730kk4h7plvfz94bxgawwd4858nlgvr3pma8f57m9vdxng4",
+    "hash": "sha256-5NnedqqnOKTqHXk/alFBpHGuXl8kfbfpPZDMCcYBd9E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "drogon-csp_csp"
+  ],
+  "kind": "plain"
+}

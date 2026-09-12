@@ -1,13 +1,13 @@
 {
   "name": "ifc",
-  "version": "0.1.0",
+  "version": "0.6.0",
   "src": {
     "url": "https://github.com/Finradon/zed-ifc",
-    "rev": "b9f603cd5248be71f35189651cba72345e761788",
-    "date": "2026-04-24T10:01:49+02:00",
-    "path": "/nix/store/vd9m3qisq1nhglsndn7k5f5qcl74ih17-zed-ifc-b9f603c",
-    "sha256": "0di6lzg03gkmbhw28mkvnnc0pyjgins05ar85dx76ii1vdk5z7cq",
-    "hash": "sha256-mJ1fZtshRnN6KyirArSNT/oLmLV7ViQ4XHW+Ad6nJjY=",
+    "rev": "b111218e551a5604ee14be15b4b857793573e093",
+    "date": "2026-09-10T12:15:39+02:00",
+    "path": "/nix/store/38214lf932hz2iiqm9jgs9ysy8xk5367-zed-ifc-b111218",
+    "sha256": "0axp1vn20y3s9bgqx4ccm4rz1p7s4wvfr9si0vxy15qcwnahlha2",
+    "hash": "sha256-QkEKleUMl+D7BlGn7DYn+tzwM6mMkY7fSnp4IOwOtys=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-8830mCPXx/MYOr36NhATUqBqgGyIN0MCX9iOIuBtsjU="
+  "cargoHash": "sha256-/hXEDZcLsUKyBFV86Sewldm+sfZwa+JHxCdTD8G0Fkc="
 }

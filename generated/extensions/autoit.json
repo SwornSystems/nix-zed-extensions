@@ -1,0 +1,23 @@
+{
+  "name": "autoit",
+  "version": "0.5.0",
+  "src": {
+    "url": "https://github.com/sumit-m/zed-autoit",
+    "rev": "bfbe3d5513410e5f35f717992ff1e48d8e24899f",
+    "date": "2026-06-02T18:33:37+05:30",
+    "path": "/nix/store/7pjj74izsrjixkfq4q2p328yw4sgxan9-zed-autoit-bfbe3d5",
+    "sha256": "0rkbdbnv2dx1ynswrc52bijlgnhlkql9msznbrc2fc7xn629sh5d",
+    "hash": "sha256-rUCdhLH9MCdYXvbrmiieFNpHZVyisMy19aE3se1qa2Y=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "autoit_autoit"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-TW5o97TF8mI6MQRZ1J+kNqBJzV5B19rxBYhbJYMSnA4="
+}

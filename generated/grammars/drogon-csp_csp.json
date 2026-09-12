@@ -1,0 +1,18 @@
+{
+  "id": "drogon-csp_csp",
+  "name": "csp",
+  "version": "b65c4d695ca97aa9712036b4ab0c1c21a140ae84",
+  "src": {
+    "url": "https://github.com/rbprsp/tree-sitter-csp",
+    "rev": "b65c4d695ca97aa9712036b4ab0c1c21a140ae84",
+    "date": "2026-05-01T21:57:33+05:00",
+    "path": "/nix/store/bpkgzcw9m8zvsjdr78xg3wzsk8wizccz-tree-sitter-csp-b65c4d6",
+    "sha256": "07mb2qxa47hx83bhbnl3rz2i1b55xq6xskygg4zvjsdp6mx1z6kn",
+    "hash": "sha256-dpofejW3abk/ec9P3Q3upawQxc+D2gXXQB0eojoWqx4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

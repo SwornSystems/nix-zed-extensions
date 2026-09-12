@@ -1,0 +1,18 @@
+{
+  "id": "fennel_fennel",
+  "name": "fennel",
+  "version": "3f0f6b24d599e92460b969aabc4f4c5a914d15a0",
+  "src": {
+    "url": "https://github.com/alexmozaidze/tree-sitter-fennel",
+    "rev": "3f0f6b24d599e92460b969aabc4f4c5a914d15a0",
+    "date": "2026-01-21T04:35:47+04:00",
+    "path": "/nix/store/wj6bsgzibla458mnk2pgll9p4jwzcm4l-tree-sitter-fennel-3f0f6b2",
+    "sha256": "0lqzzxxgpc7nngczl96d6vlcm2jf8n7zwjprhwzwlxjzqy54qkwf",
+    "hash": "sha256-jk9Misdfdso/h/lK/o9FTorK6DbNJPrZs/aw+3r/H1M=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

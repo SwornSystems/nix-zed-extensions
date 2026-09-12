@@ -1,13 +1,13 @@
 {
   "name": "minizinc",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "src": {
     "url": "https://tangled.org/dekker.one/zed-minizinc",
-    "rev": "0ea5a042bf6ba30bdc1c32add6460bf2dfce80ea",
-    "date": "2026-02-13T16:37:14+11:00",
-    "path": "/nix/store/qirkpshsjj65n3yljgy8x2vcch4xvjc3-zed-minizinc-0ea5a04",
-    "sha256": "04cc6f8z547zxrf1lgvxxhan34lxzn8s57rg93nkbl0qnabr0j1z",
-    "hash": "sha256-P0iQl7IY0DXtSC+fopH9nZJhFex9Pxpc7v+Q8pEzjBE=",
+    "rev": "ed856aa12bf5cd83673195888b322fe0aec58c2b",
+    "date": "2026-09-09T10:27:56+10:00",
+    "path": "/nix/store/v24i4lnckp9ahnny09rxh5rfwzzfhcky-zed-minizinc-ed856aa",
+    "sha256": "08xancxq243xv6scvvrivkx9rs1k3wb04qmmql9sf6bhsqfg6511",
+    "hash": "sha256-IRTzHNZwGacTxbViAhYfM+ic+twx78202X0QgTuzqiM=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -18,5 +18,7 @@
     "minizinc_datazinc",
     "minizinc_minizinc"
   ],
-  "kind": "plain"
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-urdGEav70+HP5ukLGYBJ0UweistSp4qyWS0eAN2MB9E="
 }

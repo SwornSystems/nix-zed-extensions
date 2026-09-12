@@ -1,0 +1,23 @@
+{
+  "name": "croma-abc",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/ro-ag/croma",
+    "rev": "d48ed6881ea7f5a78637f21d411bd185d2d0719c",
+    "date": "2026-06-18T16:32:01-07:00",
+    "path": "/nix/store/cms5v22ccmmcsyd3l03gy1m50pvp6hih-croma-d48ed68",
+    "sha256": "1340qzbsqnjj138c64mq4j9ni1j4qrgdjdj1lkz3i8322dzx0vsg",
+    "hash": "sha256-T2/QfxNioDj+pEE22V7GRIZokyS4EsPQCFJarNfHgIw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "croma-abc_abc"
+  ],
+  "kind": "rust",
+  "cargoRoot": "editors/zed",
+  "cargoHash": "sha256-z54n8L+SIMSO8qHi3TO/ALkJ+7OtZVyT2KsnBEUPEvI="
+}
