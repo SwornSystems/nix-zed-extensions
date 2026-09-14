@@ -1,13 +1,13 @@
 {
   "name": "astro",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "src": {
     "url": "https://github.com/zed-extensions/astro",
-    "rev": "03b07a4451df6f9dee6897afc06d841131dc8c05",
-    "date": "2026-07-14T11:50:16Z",
-    "path": "/nix/store/ca6sdz5wx9995izs1f56pvidn9yl67aj-astro-03b07a4",
-    "sha256": "0r07gf9f8i2ixdwi9hhaiczh2p1ir6gb6nnx5zpz9gyk0rw07ha9",
-    "hash": "sha256-ScEDeAbTv/TvL91as57JMVwBP4sKwhR561FE5JJ7B2Q=",
+    "rev": "398e0aaab9e72acb2765d8794b9856bf094b13a6",
+    "date": "2026-09-14T09:47:31+02:00",
+    "path": "/nix/store/xg2cz5yvm399jzgcj6i6hq065m67cf61-astro-398e0aa",
+    "sha256": "1l9j5ywbi4czr3iqa5rdqy4f0frxdiyc500y2mcy19hjz9rip556",
+    "hash": "sha256-ppQbc/oSpuBZFR6AwnxsPTvgiMctF4XjyJ+RuLgvMtE=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-GeGcNf6g6vaEmno+bSAEHar/xOSP/6l3WmPA4mnk5No="
+  "cargoHash": "sha256-yjz0Pvxvspzu+YsbGqy17ES/5+oWjQbmNHriwgEvxFk="
 }
