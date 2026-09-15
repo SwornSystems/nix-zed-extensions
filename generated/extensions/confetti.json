@@ -1,0 +1,21 @@
+{
+  "name": "confetti",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/demen1n/zed-confetti",
+    "rev": "135d1ad360a9f3e4cbd2f8d6f1b80c43d0cbe522",
+    "date": "2026-09-03T21:18:01+10:00",
+    "path": "/nix/store/dahskz7jvhw21mln9mhh8k59c2ays7p8-zed-confetti-135d1ad",
+    "sha256": "0z7lapxy8f55vim813lz06g435zx786wc1gynmflh1q2viv84z2d",
+    "hash": "sha256-TXyCdtwCB0hdtf4Fxg06/ZdBngGfjoBq3KU45PtV9Hw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "confetti_confetti"
+  ],
+  "kind": "plain"
+}

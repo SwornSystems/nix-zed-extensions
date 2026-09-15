@@ -1,13 +1,13 @@
 {
   "name": "java",
-  "version": "6.8.26",
+  "version": "6.8.27",
   "src": {
     "url": "https://github.com/zed-extensions/java",
-    "rev": "825c0c679828897921d23f081125ba130ea6e2f9",
-    "date": "2026-08-16T10:51:08+02:00",
-    "path": "/nix/store/45g2sp0hn1f1vc7fzi2njhz5lsryzhz1-java-825c0c6",
-    "sha256": "083wr470l4x6wabmwl04x7i3m9lgggasksjn6h2wjg3cr8700awj",
-    "hash": "sha256-kisADspsPMkFNFbqqdV7j6Y64ukEUF6X4qYTCg7JfCA=",
+    "rev": "5c4b7650d5d949ab3cbc4f84ffe1539d474609bd",
+    "date": "2026-09-13T19:37:39+01:00",
+    "path": "/nix/store/0zb0r15ayqf3vg4184ahyd9pwd8qf8wg-java-5c4b765",
+    "sha256": "1zfh14r40il25bh6xwbh7hp6l6g3zyvzvbssxh74h0cwrmfa63xk",
+    "hash": "sha256-sw+jXM2cAUgO7Fqv/bf/4xlqLjxw8W7gKoJGQDIJ0P0=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -22,5 +22,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-AU7hfYXYuC7cky/abokcPPPrmlBdiEIfxEQkeCdukno="
+  "cargoHash": "sha256-F54wPviA3fD86wkcKQQoOToIYE6g0EA04T2x59fEMdo="
 }

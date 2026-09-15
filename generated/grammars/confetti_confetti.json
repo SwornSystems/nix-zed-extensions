@@ -1,0 +1,18 @@
+{
+  "id": "confetti_confetti",
+  "name": "confetti",
+  "version": "bf1e80ae7e9de9ea42d9cbb04c725dbb4393aee2",
+  "src": {
+    "url": "https://github.com/demen1n/tree-sitter-confetti",
+    "rev": "bf1e80ae7e9de9ea42d9cbb04c725dbb4393aee2",
+    "date": "2026-09-03T21:17:24+10:00",
+    "path": "/nix/store/6ds1wgqhz05yc9sb06j0c1rqj55ak5wm-tree-sitter-confetti-bf1e80a",
+    "sha256": "04m7vb17ds56i4hrrxy538ivq2bk64y9bvacglr8ig0pspmkxh5r",
+    "hash": "sha256-ucA+69UXvIgyfUztlTwxcwm8IxrF95whiabodsLapxI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

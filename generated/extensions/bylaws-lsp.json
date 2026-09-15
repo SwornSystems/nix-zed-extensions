@@ -1,0 +1,21 @@
+{
+  "name": "bylaws-lsp",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/theblixguy/swift-bylaws",
+    "rev": "cac7f2b41216796de21c6d567f6a409b955887db",
+    "date": "2026-09-13T07:23:36Z",
+    "path": "/nix/store/cpqygva50gr3vi1ijh8ccnvkc1j55fdk-swift-bylaws-cac7f2b",
+    "sha256": "186jh0hgn2vcq8l1z8ks2fgn19iqh779aj35gwmnd0jkm27gsnm2",
+    "hash": "sha256-olr9jqhTgmYrf2VIlc6BOKZgnxN6oh8owmwL+yCA0qA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "Editors/Zed",
+  "cargoHash": "sha256-qdWSG6e4zkT2BTjdg6NzYQ+t5BWNSevshhy+aqqUV8Y="
+}

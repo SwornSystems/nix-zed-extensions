@@ -1,0 +1,19 @@
+{
+  "name": "lina-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/danilomcampos/lina-zed",
+    "rev": "1415210ab9caff8e2e046e08460d47f42b60e369",
+    "date": "2026-09-13T10:44:36+02:00",
+    "path": "/nix/store/a9qfn2gzr9097lbk6alrw0frn5fykpa6-lina-zed-1415210",
+    "sha256": "0sxazi42bmzsh30ckzlbcjdj7svyifzhkn7jhf8vqqfqy3dchvhy",
+    "hash": "sha256-Hm7I2vDYYbyRg/LYCb+Lfusjm2SL/snAgPrXJUj8qms=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
