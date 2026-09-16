@@ -1,0 +1,19 @@
+{
+  "name": "catthode-theme",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/catthode/zed",
+    "rev": "92488791a3aad6bf95f3173ff122358915b90420",
+    "date": "2026-09-12T14:03:07-04:00",
+    "path": "/nix/store/i1v03ci1f0lx6hggx6fqd11a7fbkz91x-zed-9248879",
+    "sha256": "15b0fib4c9a27j54vfqnqnp27slliklidqlacs9gfi3q9zfw47ww",
+    "hash": "sha256-nB/C3U94RPeSZoriFumMlOojrsUWu02KPEIlRlZ0YJU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

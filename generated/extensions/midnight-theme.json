@@ -1,0 +1,19 @@
+{
+  "name": "midnight-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/mete-sirin/midnight-theme",
+    "rev": "e9f0b90e77cb456d498cdabe2c75ab7889906bdd",
+    "date": "2026-09-12T10:34:58+03:00",
+    "path": "/nix/store/9x40xizrjg1gxxaarpgpn4niamh63fl5-midnight-theme-e9f0b90",
+    "sha256": "1077dvbaf9lqqs8974hdzmn604dp3hn3l5qzls6v6pp8yy9lpn80",
+    "hash": "sha256-ANlLk/foXrONph8XOiwctxFgbP0NkpOQxpgmp9Zu54A=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

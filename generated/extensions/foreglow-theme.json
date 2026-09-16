@@ -1,0 +1,19 @@
+{
+  "name": "foreglow-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/Foreglow/zed",
+    "rev": "3f61750674a906255e2da8dffcc6d42f2b66a801",
+    "date": "2026-09-12T01:08:24-04:00",
+    "path": "/nix/store/znabzrl8qc7ymbdkjcv700fp5ws22l4l-zed-3f61750",
+    "sha256": "12mbq4hrn6m39342vimwd55w7c19i1qzjz6f0ka6lnd610385dn4",
+    "hash": "sha256-xLaCBgimWWrUBM58+XGIKbDDS2m8xi3ISKMamyHBq4o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
