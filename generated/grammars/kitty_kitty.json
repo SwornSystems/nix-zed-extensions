@@ -1,0 +1,18 @@
+{
+  "id": "kitty_kitty",
+  "name": "kitty",
+  "version": "9257f32a63e671488ba44cd5ba1e8523daf23166",
+  "src": {
+    "url": "https://github.com/Elcaten/zed-kitty",
+    "rev": "9257f32a63e671488ba44cd5ba1e8523daf23166",
+    "date": "2026-09-16T00:15:34+02:00",
+    "path": "/nix/store/6lq55jjk4xi99psjh5gdwpzp41vghddm-zed-kitty-9257f32",
+    "sha256": "143rqcabsl1fa212frvsxhf71id5h4vm254yi18d8i84xgpcdi0l",
+    "hash": "sha256-FMTG7usERdRQiJ4UUTeBpcVwHOx6ZyeCUC5QvRTDeZA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "grammar"
+}

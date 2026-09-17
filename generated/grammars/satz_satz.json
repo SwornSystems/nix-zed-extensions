@@ -1,0 +1,18 @@
+{
+  "id": "satz_satz",
+  "name": "satz",
+  "version": "ac50645048316e3c46b85a54107e2219b71075f9",
+  "src": {
+    "url": "https://github.com/tjirsch/satz-tree-sitter",
+    "rev": "ac50645048316e3c46b85a54107e2219b71075f9",
+    "date": "2026-09-13T15:42:56+02:00",
+    "path": "/nix/store/jdd736ajx28g21pd8sba3xxjsiyd11p7-satz-tree-sitter-ac50645",
+    "sha256": "1zdjz7ycr9khfw12d9qfmfjbry0f0b692jbwvk9za196czcpyc34",
+    "hash": "sha256-ZDB/2WcmBfXT3HxJkcwCDvi8pKsOpyYCd3CmzPz5sv0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

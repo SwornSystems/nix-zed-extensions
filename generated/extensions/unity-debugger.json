@@ -1,13 +1,13 @@
 {
   "name": "unity-debugger",
-  "version": "26.04.06",
+  "version": "26.4.6",
   "src": {
     "url": "https://github.com/tomires/zed-unity-debugger",
-    "rev": "288145d9133ae6f97f28100585059c6194e8903e",
-    "date": "2026-04-06T01:49:04+04:00",
-    "path": "/nix/store/nq16yzqdigwngacbnv44hiri0cyjxhiw-zed-unity-debugger-288145d",
-    "sha256": "0jgkdgc3bz0rwi1g6pz4yx2738yq4cv4jvair9k9a7733ard828b",
-    "hash": "sha256-CwnUshrjHJVmylFtSTYj2KNxRPfkX/NC5Bn8Ndhr80k=",
+    "rev": "6aafe133ff066cd7f3f4f84320201fa41588d5d1",
+    "date": "2026-09-16T20:22:04+08:00",
+    "path": "/nix/store/sa0wg8qyk6yv3z9lvvksw7fzd3p0axfn-zed-unity-debugger-6aafe13",
+    "sha256": "1i6a1k2ci9wrsjavvh2ihd8223w69y9rqcdha2wkxcy1a2wihp8h",
+    "hash": "sha256-EF0YuVDBsz65ULAxnJNPhg8hUINRwL2V1JmnyMQMysQ=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-fq0LwRvK7fqiYMsTJsugZ7I6NCoMRdlzYZmuWhC5+RM=",
+  "cargoHash": "sha256-QaAw0Afk3fGWLgtzMiXSPk3yiTdfATSa6eRU2b16pEk=",
   "cargoLock": {
     "lockFile": "/generated/extensions/unity-debugger.lock",
     "outputHashes": {}

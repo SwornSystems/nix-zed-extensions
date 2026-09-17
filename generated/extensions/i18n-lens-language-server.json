@@ -1,13 +1,13 @@
 {
   "name": "i18n-lens-language-server",
-  "version": "0.11.1",
+  "version": "0.12.0",
   "src": {
     "url": "https://github.com/yizixu/zed-i18n-lens",
-    "rev": "887bb26d130e7846034a251fdab60f654a460ce3",
-    "date": "2026-07-23T18:11:50+08:00",
-    "path": "/nix/store/1mss2vx1xngvbi2gnxr773yl82k66bwf-zed-i18n-lens-887bb26",
-    "sha256": "0kz6v0w4h7iw5qmmxcswybccjj2bb6afhysgz9c1mlqzydcs9jj5",
-    "hash": "sha256-RcqkWfMf0xpY+k976JRZS0jJ2PJcs14rLjweSDjY5k8=",
+    "rev": "c0c50638d01cc35e6894e97ed2f5c1041b2b26d1",
+    "date": "2026-09-16T18:25:44+08:00",
+    "path": "/nix/store/xi4ll6pw54sjhah2gdy41l25cx47gw4f-zed-i18n-lens-c0c5063",
+    "sha256": "13yiaip55c78vm3x8ya59fvzwb65611dq7kk4jm5yim5b5ydgm2z",
+    "hash": "sha256-X9TXfFmlRl+qJHMe3EIwxSz+t0tFedRH3eiwUm5U0Y8=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-wDML35oxrVjLSWi57KZtSNkRkTITFtyWRCZhbMwcfVs="
+  "cargoHash": "sha256-UKyVvR1TdDEkNVdED7RNb2Nb8QqevROPZQx+3D5ffUs="
 }

@@ -1,13 +1,13 @@
 {
   "name": "bicep",
-  "version": "1.2.2",
+  "version": "1.4.0",
   "src": {
     "url": "https://github.com/oWretch/zed-extension-bicep",
-    "rev": "b8e7d0dd19f9979608a9b9c5e6935ae73ef8ce7b",
-    "date": "2026-03-16T22:01:36Z",
-    "path": "/nix/store/53a7m1hrqb40wpf86h3qlcpci2vzmg4y-zed-extension-bicep-b8e7d0d",
-    "sha256": "0qld022s5zbf53hi6bjmxamkxgpwgj7krjybqik1pd5sj13vly5j",
-    "hash": "sha256-sni6R5C6tBtmxMvLPI98/L4+q+pVLhPhKG79ooUAjWI=",
+    "rev": "7f3dad925ebff79dbe1940b8a35aaaeb4a866786",
+    "date": "2026-08-07T21:29:21+12:00",
+    "path": "/nix/store/xlw6hw9ij12k8z35y9qdiyffcw890wrx-zed-extension-bicep-7f3dad9",
+    "sha256": "0fxh3n9bqyid006xmvbad34kg5nbfg7h1qv6d5qxwgn0kr4b4ckj",
+    "hash": "sha256-cjKySJ7APt5xaWbjAM9zy5Y3yWhq7doNAC16vJIdsDs=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -20,7 +20,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-GisTv9eRiOEenWR6RlVrSNZjLTfceutlF5TjM/xRrmw=",
+  "cargoHash": "sha256-0TPVL9Gz3niiOtM204334W7QlJGjUr6o/XK5fv+E/Tc=",
   "cargoLock": {
     "lockFile": "/generated/extensions/bicep.lock",
     "outputHashes": {}

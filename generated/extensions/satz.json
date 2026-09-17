@@ -1,0 +1,23 @@
+{
+  "name": "satz",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/tjirsch/satz",
+    "rev": "487f5c63aea1979b990edeb95616db933d84b2be",
+    "date": "2026-09-13T17:41:06+02:00",
+    "path": "/nix/store/8zgnhs1a3vha8q8n1r1ghjsgnsmw2dnh-satz-487f5c6",
+    "sha256": "0h1aymh3di16pmhr8jngi936lnj7s1lhcd2amrf05hfa6n943k6g",
+    "hash": "sha256-z8xBkjXKwQJcrko0BmnQR1pqRorPSpRhvSbENmD1KkA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "satz_satz"
+  ],
+  "kind": "rust",
+  "cargoRoot": "editors/zed",
+  "cargoHash": "sha256-x0AxXmWC3WCZg2Z0oFRh+ozgsRLckzlUihnLKzpCz6Q="
+}
