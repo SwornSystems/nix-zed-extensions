@@ -1,0 +1,21 @@
+{
+  "name": "donna",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/NikolasSkyl/donna-zed",
+    "rev": "688fbe826ea91abc8bf253bbcdf1408e8273382a",
+    "date": "2026-05-14T20:55:52+03:00",
+    "path": "/nix/store/zjl0cgjm56djhbvknq5zwy8y1r4bp10r-donna-zed-688fbe8",
+    "sha256": "1d3nm4w928jn2dhqgvcfi6qq4b49pv3r1px18hbc0drnn9860n1a",
+    "hash": "sha256-KlhgULI2N8AWRKHfkMe+iSyCsYmO7YdhE1YikTipdrQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "donna_donna"
+  ],
+  "kind": "plain"
+}

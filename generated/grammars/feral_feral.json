@@ -1,0 +1,18 @@
+{
+  "id": "feral_feral",
+  "name": "feral",
+  "version": "a767575daf70f4dd5a37f0bde77084e88bf369fd",
+  "src": {
+    "url": "https://github.com/Feral-Lang/tree-sitter-feral",
+    "rev": "a767575daf70f4dd5a37f0bde77084e88bf369fd",
+    "date": "2026-05-24T10:23:40-07:00",
+    "path": "/nix/store/3smzbbdq36gvgcnw9lcgl0lyysfnhbd8-tree-sitter-feral-a767575",
+    "sha256": "0wjn2ij0mn5w1dcimb7k9ld7314qcgszpa1f28k6s8by9644yhac",
+    "hash": "sha256-TEFPiEl+IW0mEi6o+/VjmIRxGk3zrBpZC7zYCmQUVnI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

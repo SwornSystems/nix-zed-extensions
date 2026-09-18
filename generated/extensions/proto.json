@@ -1,13 +1,13 @@
 {
   "name": "proto",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "src": {
     "url": "https://github.com/zed-industries/zed",
-    "rev": "6ae52316bedfc46e07ad740d647c669206853503",
-    "date": "2026-08-12T08:35:43Z",
-    "path": "/nix/store/mpw7mps4zbyh13f6qj7ab3vkik407d92-zed-6ae5231",
-    "sha256": "00nnnbybkypivs0982fkr0y2318w4mw5h0iimn52b69l7qf4ycvf",
-    "hash": "sha256-bjNPHD40mSWKrTECWHglHIUhPMjTCZSA3vH6ufyy1gI=",
+    "rev": "b6171bcc982c406c34e786c09ae26f59620e52ae",
+    "date": "2026-09-17T09:59:21Z",
+    "path": "/nix/store/amn5p0v3g6pzfw9kxiwwd55k6rdxvfw7-zed-b6171bc",
+    "sha256": "0ga7vg5ika236y4xwy3pi4gax54gxms7a5yjhdw91pakyfbxrca7",
+    "hash": "sha256-R7Hcl/NT3ZB4g9IXdXTtj5SuHol3eN6JN0OoGcvbRz0=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-h3/S7aCeR6/doX5mg3VZyxoLeLZzHyIRGdv7q9n0Kbo="
+  "cargoHash": "sha256-KCsK3D0+RRhMxlbpHWHBmlUbjTATN9jSFbFOUYouJY8="
 }

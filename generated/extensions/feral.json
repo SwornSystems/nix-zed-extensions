@@ -1,0 +1,21 @@
+{
+  "name": "feral",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Feral-Lang/Zed",
+    "rev": "952e46734972aa1efc3e07786f8717da09c1e759",
+    "date": "2026-05-24T10:24:08-07:00",
+    "path": "/nix/store/x0k8w1ygzzr2icsi6m9l7lj7bvhagq2r-Zed-952e467",
+    "sha256": "03s0ilbf20c305nv8c6r6fvx6awwr1psmjgga7ng56337vsxz87x",
+    "hash": "sha256-/aDf9T5jmPLsUe/Jqm/InCvTtzPZMLRtAYMB4RaNQA8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "feral_feral"
+  ],
+  "kind": "plain"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "donna_donna",
+  "name": "donna",
+  "version": "main",
+  "src": {
+    "url": "https://github.com/donna-lang/tree-sitter-donna",
+    "rev": "dc742aa29a7c8856253be3d1ea76d194f80b9e3f",
+    "date": "2026-05-14T20:24:53+03:00",
+    "path": "/nix/store/gd2a4yfbzpygvqh8y9n5nsy3q24aw426-tree-sitter-donna",
+    "sha256": "1i33mw22qklfmkfnd8qq4igkh9lr0c9f6b7cs18lq74bvh1k18yw",
+    "hash": "sha256-3KMwA9yLHExR0Ows4xIDmSY4XyQYo2bdrI5OLASvY8Q=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

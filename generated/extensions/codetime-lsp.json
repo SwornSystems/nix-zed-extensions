@@ -1,0 +1,21 @@
+{
+  "name": "codetime-lsp",
+  "version": "0.1.8",
+  "src": {
+    "url": "https://github.com/codetime-dev/codetime-zed",
+    "rev": "10c8ddb944a36fec9de600dfa284ee50d191336e",
+    "date": "2026-08-09T02:29:36+09:00",
+    "path": "/nix/store/wx0b1a1h4x452x408mgsig6w068lx2jg-codetime-zed-10c8ddb",
+    "sha256": "0m51sr75gfclmsjsq80lmph0jdgrdqilwjlz3f4az9vmp6s5ckcg",
+    "hash": "sha256-j01WtLl1p6+IG59KTiNu+TUJ4K0UIKylrpS5V07WoVQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-zCno1W2Q71Je+oIGZHPP6o/ORgnGsDxt6Lm9o5pkPa4="
+}

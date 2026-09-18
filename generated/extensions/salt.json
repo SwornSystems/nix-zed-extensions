@@ -1,0 +1,21 @@
+{
+  "name": "salt",
+  "version": "1.1.0",
+  "src": {
+    "url": "https://github.com/relkian/zed-extension-salt",
+    "rev": "dfd4c973920da8ed2e6656c35f592415a030ac1a",
+    "date": "2026-09-15T20:49:12+02:00",
+    "path": "/nix/store/gbzw5wn2pg6kp2smx9g6gjhk7zwdhk5d-zed-extension-salt-dfd4c97",
+    "sha256": "100b8y0fh3i8447fam3zxbrj814a8wfdsz0m2210ajy1gawh5q7d",
+    "hash": "sha256-7eACuXrBSwWCEBV83RxHigQk8+p/VOUOISgO6IBHC4A=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "salt_jinja"
+  ],
+  "kind": "plain"
+}

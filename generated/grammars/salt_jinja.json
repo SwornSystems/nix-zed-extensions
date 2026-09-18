@@ -1,0 +1,18 @@
+{
+  "id": "salt_jinja",
+  "name": "jinja",
+  "version": "c213d3745ccdcaaa858869181c7b1bf9557a025f",
+  "src": {
+    "url": "https://github.com/relkian/tree-sitter-jinja",
+    "rev": "c213d3745ccdcaaa858869181c7b1bf9557a025f",
+    "date": "2026-07-02T18:22:15+08:00",
+    "path": "/nix/store/yxwra9b4sfg0378xzyd6akm94w2kvfh8-tree-sitter-jinja-c213d37",
+    "sha256": "1l6zxg0gicgkf5cbf23ld7qsv6f2gqh3a6ijqy5sq6qbkkgcj08f",
+    "hash": "sha256-DgHJ3pwLG6yLxzIaNSB+wpmt8Wl0CLdYcfOx+MDr39A=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "tree-sitter-jinja"
+}

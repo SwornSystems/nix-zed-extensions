@@ -1,0 +1,21 @@
+{
+  "name": "golens-lsp",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/riflowth/zed-golens",
+    "rev": "d610592338530e35f0f8cbd6066c93482ac6c354",
+    "date": "2026-06-01T00:28:13+07:00",
+    "path": "/nix/store/pwki6ka8hwn2ddpvpahir8jx4l2ppb8a-zed-golens-d610592",
+    "sha256": "0blkyxz6vyi9ai0flzvh8jpd3nmacj9i9zijvq51h6jd4irms8im",
+    "hash": "sha256-NSJdcyRNGhgK3jL+FJNkqtrRrkRwf+pAVCn6bX73ky4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-SefpDdLN280G3YGZpTNks5cawjaV4vZLCtFPO2mzOQg="
+}

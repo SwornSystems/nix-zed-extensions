@@ -1,0 +1,18 @@
+{
+  "id": "elixir_iex",
+  "name": "iex",
+  "version": "39f20bb51f502e32058684e893c0c0b00bb2332c",
+  "src": {
+    "url": "https://github.com/elixir-lang/tree-sitter-iex",
+    "rev": "39f20bb51f502e32058684e893c0c0b00bb2332c",
+    "date": "2022-01-08T18:54:50+01:00",
+    "path": "/nix/store/520kxibm20ka6z766zgmy63a8pap77rj-tree-sitter-iex-39f20bb",
+    "sha256": "10lwwh3v2cc39hcydz5p899grzy50gr46bbddhs9vaam7wrp25b1",
+    "hash": "sha256-YRVxMz9VqZ00bG0tQ/IDxf/8UkK3/OYZTIMxsQfknII=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

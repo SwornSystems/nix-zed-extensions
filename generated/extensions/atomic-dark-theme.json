@@ -1,0 +1,19 @@
+{
+  "name": "atomic-dark-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/atomic-dark/zed",
+    "rev": "220857fe772ce079cfb6df841b8037c3ef1be16d",
+    "date": "2026-09-08T16:22:59+05:30",
+    "path": "/nix/store/h3cfs0q571rxbl5gsa8278g430mg0lwx-zed-220857f",
+    "sha256": "027fkv9x0ywlp7bjy47qww70z2cfhq5pry73703jz8lf3rkszmmp",
+    "hash": "sha256-t9avZx6Ooi8HOOP4fAuGjokPDuf4EC/XuZR70NOe7gg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
