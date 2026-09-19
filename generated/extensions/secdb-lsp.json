@@ -1,0 +1,21 @@
+{
+  "name": "secdb-lsp",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/giterlizzi/secdb-zed",
+    "rev": "97a187f5b7a31057d756b817b75508ea9c8c268e",
+    "date": "2026-09-18T00:07:23+02:00",
+    "path": "/nix/store/ssx5pygm13zyaz24fs9riwcha7vpbf3w-secdb-zed-97a187f",
+    "sha256": "0jwc5gvw66h6qsw8pgrlbx5cb0qrzd8kbim0wkkb7xrlvv53wc4w",
+    "hash": "sha256-nDA+yt4097Pm5KDGNVH7GYPFSl80v4u4xgYaw/crjEs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-dXaHhJbnYUJ+OK817eaBRJW+zOq7/ej/MRj+BFa/2to="
+}

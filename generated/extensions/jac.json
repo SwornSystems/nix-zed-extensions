@@ -1,0 +1,23 @@
+{
+  "name": "jac",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/chess10kp/jac-zed",
+    "rev": "be0010cdc6d6a505fde9d64a6abc27a17f9910c0",
+    "date": "2026-06-19T21:16:19-04:00",
+    "path": "/nix/store/4wdwmwn3ifchlmc25b139844cancac4r-jac-zed-be0010c",
+    "sha256": "1rpsl9qcig9i7gh9q7x3kf3j1q82azy6jbrxhrvdn2nvmpa41147",
+    "hash": "sha256-h4RA1K3bCtt2hj0vafxXAuEgh5ujH5zgOzG9yHCi+uY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "jac_jac"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-jzqYlM2hdQO/ehskK2nEOZy31TN7xGVdPlcL0OpZpd0="
+}

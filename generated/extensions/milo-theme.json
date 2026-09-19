@@ -1,0 +1,19 @@
+{
+  "name": "milo-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/hazicy/milo-theme-zed",
+    "rev": "7e77551eed0bfa2035b39cac95814acad3f656fb",
+    "date": "2026-09-17T23:52:36+08:00",
+    "path": "/nix/store/xlzkvlfy6m33fyqz4pl7kdqc4md2c93q-milo-theme-zed-7e77551",
+    "sha256": "0wihhiqr43m2syrs3a24lx1xw9c920pb4jwxrnp4zvdw9bpngk08",
+    "hash": "sha256-CMxn70q87U+uzZ1Lsi4QiSXeQ6dEqKGz16IOknGEMHI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

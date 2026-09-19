@@ -1,0 +1,18 @@
+{
+  "id": "rotom_rotom",
+  "name": "rotom",
+  "version": "16f2e4c6bc62ae774539568d38da5874c954f08e",
+  "src": {
+    "url": "https://github.com/KalaayPT/tree-sitter-rotom",
+    "rev": "16f2e4c6bc62ae774539568d38da5874c954f08e",
+    "date": "2026-06-08T17:24:29+02:00",
+    "path": "/nix/store/a4swiq9h9jj91p4hf5d4h8ml62kb6bpd-tree-sitter-rotom-16f2e4c",
+    "sha256": "159pazd7jw1l81v5mlymhhf2sk940fv48imkkpnpl9a95x6l5zbc",
+    "hash": "sha256-bP1CTS9JJXrtnbNGRLYDJE0tHITV01p2QDRwedpXN5U=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

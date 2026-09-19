@@ -1,0 +1,19 @@
+{
+  "name": "lumenhush-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/pedronhamirre/lumenhush-theme",
+    "rev": "52511499ca78d52dc32833b4e7cbff2adaa25a03",
+    "date": "2026-09-05T19:31:42+02:00",
+    "path": "/nix/store/5lidpk3jqcvplxmj837q38cjw9psq7sl-lumenhush-theme-5251149",
+    "sha256": "1p6g4spswvghjyvrz89yzx4vj20p6k39i20myizmiykkxblp6ljg",
+    "hash": "sha256-T1Jz6epz+lh/9BWImMY0Fwi5Sf8+oZ+3l/Btrq8mz9w=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

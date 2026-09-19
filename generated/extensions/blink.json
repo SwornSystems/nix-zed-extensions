@@ -1,0 +1,21 @@
+{
+  "name": "blink",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/okhalri/zed-blink",
+    "rev": "c33fb13a33327498826472cd53b7dd1dfc6e2c7a",
+    "date": "2026-06-26T14:04:58-05:00",
+    "path": "/nix/store/qc8wzsfk0q3jfkac5x9b917wxp9f9q4y-zed-blink-c33fb13",
+    "sha256": "0sm4q076djjl1r06y7p1glyd7p3xyvn8x7rp90y6cmsl3xdl5bps",
+    "hash": "sha256-+q5CWx9UV2Y8SDefjuz2fdzTPH3hHm9ADlTKZg7ApGo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "blink_blink"
+  ],
+  "kind": "plain"
+}

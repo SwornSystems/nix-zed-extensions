@@ -1,0 +1,18 @@
+{
+  "id": "blink_blink",
+  "name": "blink",
+  "version": "980af4b28d35d64e8137f3a4f50f8111c089642b",
+  "src": {
+    "url": "https://github.com/okhalri/tree-sitter-blink",
+    "rev": "980af4b28d35d64e8137f3a4f50f8111c089642b",
+    "date": "2026-06-26T13:30:09-05:00",
+    "path": "/nix/store/hl40hvimgdmfx902p3lybyijmgfsmdyf-tree-sitter-blink-980af4b",
+    "sha256": "0fpcg1v91ckmx9dpqiq4k8xvwqh559jrxvqzyz92p9ihapkdzd7j",
+    "hash": "sha256-8rTf5lUwpivS9x/vnmUqBWK+O5oER3xb6nWykHZ47Do=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

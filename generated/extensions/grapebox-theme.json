@@ -1,0 +1,19 @@
+{
+  "name": "grapebox-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/fisherrjd/Grapebox",
+    "rev": "c4d500540a8ecdd445fb1a3841a4f50cf85ef5b4",
+    "date": "2026-06-29T17:24:25-06:00",
+    "path": "/nix/store/chfsjy63x5adw63ik2ygl609r3rcxr9v-Grapebox-c4d5005",
+    "sha256": "1azhgabi6a4hv8qdiap7bdkbjgq74mn1wxww576fhx84iqkgiki6",
+    "hash": "sha256-Js74Jo4EdejMKZx3HmwlBz+5Zlvnqtgw2pAoE5d68Ks=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

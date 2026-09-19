@@ -1,0 +1,21 @@
+{
+  "name": "languagetool-lsp",
+  "version": "0.2.1",
+  "src": {
+    "url": "https://github.com/mschuwalow/languagetool-zed-extension",
+    "rev": "05423647d6459ac149c041890c8642e8e3f5efff",
+    "date": "2026-09-17T18:01:45Z",
+    "path": "/nix/store/q8lifsvcpyk70wc35j5f4w4r65ykc1h7-languagetool-zed-extension-0542364",
+    "sha256": "1fm7z2qzb6b071xgzh0mll0pl8ah5qnr9q9b3yngcv1q4a66b8yx",
+    "hash": "sha256-3aNljCI4bPasHyvhlC0uUCF6AaUVwP96OGCZ9bH4p7o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-WSqcSYpVZzAEpKYhacydkX/5P2k63yZuWEhHKbTlOwA="
+}

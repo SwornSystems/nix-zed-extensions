@@ -1,0 +1,18 @@
+{
+  "id": "jac_jac",
+  "name": "jac",
+  "version": "062e0e19d680b73b4ae812df86a2c23205db58bb",
+  "src": {
+    "url": "https://github.com/jaseci-labs/tree-sitter-jac",
+    "rev": "062e0e19d680b73b4ae812df86a2c23205db58bb",
+    "date": "2026-06-19T15:14:50-04:00",
+    "path": "/nix/store/2xzr7i0fw346r59pswh99zq22skd2zyr-tree-sitter-jac-062e0e1",
+    "sha256": "08i33w4anya2nas2gpzksciqih64cgw1jjyxcdifnv0isgdac7nl",
+    "hash": "sha256-1B6m2tMRbOtiY91LGfhjxMCII9Pz3ye0skJ5qwgfIyI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

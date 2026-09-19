@@ -1,0 +1,21 @@
+{
+  "name": "css-modules-lsp",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/gugahoi/zed-css-modules-lsp",
+    "rev": "d4272c7030ee17641a6bb3247a0485906ddc698f",
+    "date": "2026-08-18T15:47:20+10:00",
+    "path": "/nix/store/v3jz5kxy3xy7qqna3i7grfshk1lc67j0-zed-css-modules-lsp-d4272c7",
+    "sha256": "044zas99njpmqbhwj6p2y84xjfrv33q1har5zsb1lclvnl5bnz3j",
+    "hash": "sha256-cny7CrWbMhqW/iUrGPAYOzvZCfLiGsnhwvVKm5JWnxA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-UDnZiP1GkataquYX0ZtQKOKvumqqf55bXyA6U9+3prw="
+}

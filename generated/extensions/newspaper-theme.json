@@ -1,0 +1,19 @@
+{
+  "name": "newspaper-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ibehren1/zed-newspaper-theme",
+    "rev": "d4a45fc4b4bafdc3edd6473759f53eb514d55cf6",
+    "date": "2026-09-17T15:45:52-05:00",
+    "path": "/nix/store/9braacnw4q2b0yc4c1xwp061l4c25vxl-zed-newspaper-theme-d4a45fc",
+    "sha256": "107kpbhc7f2dgk3aninxiibas6mdxmgam1bj41s305di3f3jq821",
+    "hash": "sha256-QSAshxuxFTB0IHKFql7trRqtVozdRqvGfE24w+C684A=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

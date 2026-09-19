@@ -1,0 +1,19 @@
+{
+  "name": "postdare-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/postdare/zed-postdare",
+    "rev": "adb680952e8f77e574162ede7fe30e3f1a02c887",
+    "date": "2026-09-10T13:02:33+08:00",
+    "path": "/nix/store/nbzsabjfjiq5nkaghrbjhapq9gyxn6zh-zed-postdare-adb6809",
+    "sha256": "0xhqnsfda5mh8smkkkmdihvn0fi1yz56g0x9i00qnvbmpsnvgwwc",
+    "hash": "sha256-jPO3rb51bYsBiKmDZ8r3ITpgN4ytzjmrRrAW1Zy2GHY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

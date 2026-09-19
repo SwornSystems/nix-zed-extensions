@@ -1,0 +1,25 @@
+{
+  "name": "npmx-language-server",
+  "version": "0.9.2",
+  "src": {
+    "url": "https://github.com/npmx-dev/vscode-npmx",
+    "rev": "4554f473845352e60e8cea3e2b98f0d009f04b94",
+    "date": "2026-07-25T00:15:42+08:00",
+    "path": "/nix/store/9vzvvsxijb1fx73d8g1zdfw1k5y8a7ik-vscode-npmx-4554f47",
+    "sha256": "08hj36ryfl5yrrmfdy89493q4lcbvlbl90j5dfq3xn0zamh8xifq",
+    "hash": "sha256-2MWOYFUf2D6wa0WCRBfdi1GCRyIJ+eZqzr5Q57MZEiI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "extensions/zed",
+  "cargoHash": "sha256-KF3g3MK7Dh7625EiNum1znY1UIPzz2zoDTj/ilhfu6M=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/npmx-language-server.lock",
+    "outputHashes": {}
+  }
+}

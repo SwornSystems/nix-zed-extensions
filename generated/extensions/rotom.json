@@ -1,0 +1,23 @@
+{
+  "name": "rotom",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/KalaayPT/rotom-zed",
+    "rev": "7ea35318a231df21764059f84e909190f1c6c0e9",
+    "date": "2026-06-24T23:03:37+02:00",
+    "path": "/nix/store/nhmc62xaig2mc3yvz52r5gqa756f7m6a-rotom-zed-7ea3531",
+    "sha256": "1gzs08s5vzwycfg2sjmwkcymi8v8g6qh9mdn5kw120gnkx814q9m",
+    "hash": "sha256-NWESUJ/2ARH4LLbVBLF5aKNYPZu8Si2eY57/XTQC+r8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "rotom_rotom"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-16SRIuEU7cFPAgfBHnY3w6i8R8dQZkUlRxW46WfeVJM="
+}
