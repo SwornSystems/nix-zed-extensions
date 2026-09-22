@@ -1,0 +1,21 @@
+{
+  "name": "md-image-path-lsp",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/yuzukq/md-image-path-lsp",
+    "rev": "9fa94b289cb61a46a8a3d761fe0c6ca537417a64",
+    "date": "2026-08-20T13:04:07+09:00",
+    "path": "/nix/store/jm9vj7l69h8kark0g0azlmc11j7l632y-md-image-path-lsp-9fa94b2",
+    "sha256": "0gql1ka1yjpwk2zhc69a9mlm6yi0rr03azsq85a08n8kh6208v3n",
+    "hash": "sha256-dmwEhIETWQRUQVh/NUDOIHpTaU0qGQa/mPxKH9QMFD8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "clients/zed",
+  "cargoHash": "sha256-wz7Yi5hRzw17+uaVi/nAKGb+ZkfsUQZeKkmFpjJ9wuo="
+}

@@ -1,0 +1,18 @@
+{
+  "id": "hfst_lexc",
+  "name": "lexc",
+  "version": "40f1b2fced29314f15d7d76d6f789697045166dd",
+  "src": {
+    "url": "https://github.com/tachyons/tree-sitter-lexc",
+    "rev": "40f1b2fced29314f15d7d76d6f789697045166dd",
+    "date": "2026-06-23T18:18:52+05:30",
+    "path": "/nix/store/w4vq31dxs4cx43ggf66b5165a8dg37p8-tree-sitter-lexc-40f1b2f",
+    "sha256": "1s0yiv5fhm314fwys3bsfwf5rjfykswpinl21ix4wz5q9ynybdxl",
+    "hash": "sha256-tLflrU+4fE56DILaeLme3slcHHd6De25I2FU6MqOHug=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

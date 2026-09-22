@@ -1,0 +1,19 @@
+{
+  "name": "nous-alt-theme",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/lvabarajithan/nous-alt-theme",
+    "rev": "41d6d2885ffb5430ebb46a6fb2ee59558f660149",
+    "date": "2026-09-20T22:05:19+05:30",
+    "path": "/nix/store/y71nvj8mn881d0rrkmifnh5mi07na6qf-nous-alt-theme-41d6d28",
+    "sha256": "04bf1887fhvq8scshrpp8fbcfaz0xjapccf0vj5k7pm4clwypm4m",
+    "hash": "sha256-ldTrOWWk3jOL3MAxdpXs4CvHlkP3ZqiZRnhDdxAKbhE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

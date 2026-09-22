@@ -1,0 +1,21 @@
+{
+  "name": "badness-language-server",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/jolars/badness",
+    "rev": "c898e442f2aff047761d55f39dd7b2480a707c09",
+    "date": "2026-08-26T19:47:51+02:00",
+    "path": "/nix/store/6kpksr6wcf08qwplxgwcamig9hgxr1cd-badness-c898e44",
+    "sha256": "0d1wq9y4kskk55q5lllfbhgpvspaf7nc33gvljp9l2fk388xjll2",
+    "hash": "sha256-glLZERrTCZqupPuNwexx6up9H1yOUlpwKXPqSXzCPDQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "editors/zed",
+  "cargoHash": "sha256-CzFUXRwbIw7i80VtHAZzk92ZbjYznIWJou10bU4zQA0="
+}

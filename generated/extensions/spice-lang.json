@@ -1,0 +1,23 @@
+{
+  "name": "spice-lang",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/MrPoloGit/spice-lang",
+    "rev": "2b4dd93de9bbbbcfd2325fb46f165dc3af93dafc",
+    "date": "2026-07-22T15:37:46-07:00",
+    "path": "/nix/store/08b3aajsv4aw2rlcvpln9lhc1hd6hwjc-spice-lang-2b4dd93",
+    "sha256": "0bw759fm02jhliisplj55ami6aa4f7nyvw2crr64dcsg2875wnbw",
+    "hash": "sha256-fFleDhJPs0ZMzkzw7e1xRCkTqypF0qtjpFAKUF0qhy8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "spice-lang_spice"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-N/H2xfrZ+D6TmO7mb036EKheAdYs4TM+R7xVbixfOWU="
+}

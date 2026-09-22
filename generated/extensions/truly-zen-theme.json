@@ -1,0 +1,19 @@
+{
+  "name": "truly-zen-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/abhinaaaavvv/truly-zen-theme",
+    "rev": "fed9723340e195b9b48e68e7a1fe311d71616b58",
+    "date": "2026-08-29T09:27:46+05:30",
+    "path": "/nix/store/wqldas4vnd99ff0sal409wrgm1638ygb-truly-zen-theme-fed9723",
+    "sha256": "1qbywcjfrcl371mka3pigdfhxldmpix1w27m4sfs7hbbg44hz457",
+    "hash": "sha256-p5APCXlrwaOdJvUIHnq8tdEOXXvxDjVrOIOy7CTjfuE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "heta_heta",
+  "name": "heta",
+  "version": "df26d5ef6e643d8dacef7f286632e098621b412d",
+  "src": {
+    "url": "https://github.com/hetalang/tree-sitter-heta",
+    "rev": "df26d5ef6e643d8dacef7f286632e098621b412d",
+    "date": "2026-06-09T13:05:12+03:00",
+    "path": "/nix/store/8q2xd4h90birb877nal4d297kz08p0fd-tree-sitter-heta-df26d5e",
+    "sha256": "1jfkvqvkxdibvgjcfhf4axd4ndify57cgwj6r4nqblpkkla51k60",
+    "hash": "sha256-wMxQFJ3z0oUtyUbyx07xLjZLWlfEQcfk2yu2Pjfe08k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

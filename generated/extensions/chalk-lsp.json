@@ -1,0 +1,21 @@
+{
+  "name": "chalk-lsp",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/chalk-ai/chalk-zed",
+    "rev": "343182285761396463fc494d70f4cd023e72a5ec",
+    "date": "2026-07-24T18:52:11-04:00",
+    "path": "/nix/store/kyl7qrirpsgcb6dzz67rc824yk8ff1yf-chalk-zed-3431822",
+    "sha256": "0fj5wjdpiyzpbrab4xyh7wjnwrsrq469ff8vrp0m5nbkd4r18sfy",
+    "hash": "sha256-3mkUMmlz2VLBzRs5lwzBWWduJT/Qd7JUXvf7eJvkRTo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-my1LLLdekyJRE9XQRRzEM87xJLcIeCyIPhVgM8BE1Xs="
+}

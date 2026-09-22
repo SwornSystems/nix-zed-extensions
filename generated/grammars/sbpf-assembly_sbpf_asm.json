@@ -1,0 +1,18 @@
+{
+  "id": "sbpf-assembly_sbpf_asm",
+  "name": "sbpf_asm",
+  "version": "63c46ff19b88bcce22b30c9fe230f9062e98710b",
+  "src": {
+    "url": "https://github.com/Perelyn-sama/tree-sitter-sbpf-asm",
+    "rev": "63c46ff19b88bcce22b30c9fe230f9062e98710b",
+    "date": "2026-07-07T22:32:48+01:00",
+    "path": "/nix/store/wy9ay0i6ra5mwzmbhk6azlg70c3yff8r-tree-sitter-sbpf-asm-63c46ff",
+    "sha256": "0fk651vzgkrx41wbr8qcja4s0ffvv05nd0zh0siagyjz4qiq6b0a",
+    "hash": "sha256-CiyDIyZf+qeiBvCDZgvY2zmgiZIMo7x4ID3P93coZjo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

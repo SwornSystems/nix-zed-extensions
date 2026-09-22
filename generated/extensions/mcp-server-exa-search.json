@@ -1,13 +1,13 @@
 {
   "name": "mcp-server-exa-search",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "src": {
     "url": "https://github.com/exa-labs/zed-exa-mcp-extension",
-    "rev": "0d73e2adcc35da4853c683bda132310d2c1ac58d",
-    "date": "2025-10-27T20:16:58-07:00",
-    "path": "/nix/store/7bsyph53793j3rilm8ih5jv43jzzffk8-zed-exa-mcp-extension-0d73e2a",
-    "sha256": "1bhg30fhm893xq7zixjmypjy3rr9414h3kljl3l21blf72hc850w",
-    "hash": "sha256-HBTEoDiOriDooJLOAUkgKefh5fVV9vgP7iOhCh0YD64=",
+    "rev": "a912474fd23c0bc85343ee86a2d176819a030ca8",
+    "date": "2026-09-21T13:28:42-07:00",
+    "path": "/nix/store/wfg18hv23y2ilj4mgz0j7535bm4qlpw0-zed-exa-mcp-extension-a912474",
+    "sha256": "04g8rlvqs5cbznmxch877v4k210plc4g476p3sswdl589hiz1akj",
+    "hash": "sha256-cqrwI0yo0Ma1Htcc8gijFwQxyT4HQdar/YsVjTfN6BE=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-T1cZyX2NjMYL9Kns+WXqkDjYMaBu1mOKJsENhVU+IHc="
+  "cargoHash": "sha256-VNkxNLO8Rhzs2mauOCefTqxGVClFgmFa8nYNgkJkZTg="
 }

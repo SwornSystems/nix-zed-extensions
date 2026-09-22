@@ -1,0 +1,21 @@
+{
+  "name": "sbpf-assembly",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/Perelyn-sama/sbpf-assembly",
+    "rev": "39a681f1d26ee4161db515e117f69c292aea4c13",
+    "date": "2026-07-08T10:55:33+01:00",
+    "path": "/nix/store/5dg8ryhzl71m8cws9cbv9zn8pwx5xwdf-sbpf-assembly-39a681f",
+    "sha256": "13ggj402mfnz8liz520q49i3j9qljp5l8c4g5hz044ndxxpl4i5y",
+    "hash": "sha256-vkRCb+/NEgI+LI8wRMuVFCc5YiIYiPIjRd+6KgCR740=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "sbpf-assembly_sbpf_asm"
+  ],
+  "kind": "plain"
+}

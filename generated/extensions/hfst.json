@@ -1,0 +1,22 @@
+{
+  "name": "hfst",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/tachyons/zed-hfst",
+    "rev": "2c6bf50a9163ddf38f6f2fe9d78b1aa5a5fffb93",
+    "date": "2026-06-24T19:43:09+05:30",
+    "path": "/nix/store/l5mirzn59xc0kn6j17mwfzghsb8bir2f-zed-hfst-2c6bf50",
+    "sha256": "14kjki9amsrw18i36b6422l4kzcflax8wv6i1c88aphhk5v8sflx",
+    "hash": "sha256-nTqNdpkQXoUQC9Fsjrqijv1JqBDELDMiCjzrqlKccpI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "hfst_lexc",
+    "hfst_twol"
+  ],
+  "kind": "plain"
+}

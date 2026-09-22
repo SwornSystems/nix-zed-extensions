@@ -1,0 +1,19 @@
+{
+  "name": "gruvbox-material-icons",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/RiverMatsumoto/zed-gruvbox-material-icons",
+    "rev": "ee21050032faf6320f6206b69474d60ebb313eea",
+    "date": "2026-06-02T13:26:52-10:00",
+    "path": "/nix/store/qszxqycc4i55z1pgn03r8yym98fcgzz1-zed-gruvbox-material-icons-ee21050",
+    "sha256": "0xj2d56q9wbzljci7vjl16hp1430gsgcq7l7sqgvgymh1fp9nz0r",
+    "hash": "sha256-GXybrguw+rcf1ocezJ5+YJBwoQlU7hOZpH/xhE1pQnY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

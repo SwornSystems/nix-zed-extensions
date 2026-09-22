@@ -1,0 +1,19 @@
+{
+  "name": "bamboo-icons",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/chrisdrackett/bamboo-icon-theme-zed",
+    "rev": "32b81ce542d157935bb09bb6f02ac68f4ef657af",
+    "date": "2026-09-08T18:52:00-07:00",
+    "path": "/nix/store/yq3n151lb6qj7m4vy5xijhx3h1ldm4cq-bamboo-icon-theme-zed-32b81ce",
+    "sha256": "0igs6ps1gfsgvpis09ajb7mhazra0j88rp2ifwddvncnhq263210",
+    "hash": "sha256-IIhhBIaW2d0ad1HcjJAEKn8F61lSJaDj3U+7F/Q1+kU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

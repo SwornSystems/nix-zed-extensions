@@ -1,13 +1,13 @@
 {
   "name": "tree-sitter-query",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "src": {
     "url": "https://github.com/vitallium/zed-tree-sitter-query",
-    "rev": "ff6c8b85ef8e44a8b532803551a4cb543ca5c1e8",
-    "date": "2026-01-17T11:17:52+01:00",
-    "path": "/nix/store/x4w2wb6w4ci14w60gkv08xdvjvijbfvy-zed-tree-sitter-query-ff6c8b8",
-    "sha256": "13gr532h9pk8bpiik39jcwivl0x4497h61265ykf74sv3rwh4szb",
-    "hash": "sha256-62sCeR5bk+OmL0YEA08ipAO6I2cyjRnjXWjeBMUo+Y0=",
+    "rev": "2018c45923d013835383eff715df94e76d1c82e9",
+    "date": "2026-09-20T18:25:53+02:00",
+    "path": "/nix/store/5j2p28fp0s9hj3nysify4wwyi5sb153l-zed-tree-sitter-query-2018c45",
+    "sha256": "13blcxakhm4lcgw84nbx911907gnalrpbfk5hnv63dxca12dwrf9",
+    "hash": "sha256-yWXeRFCst2G2hWW6dTNV9h2QQkh9WYL4Y5RUOFVndI0=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,9 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-i8brVja67Tl1EthsZfdej1uWw+CN/EJgfW81EHQg8RY=",
-  "cargoLock": {
-    "lockFile": "/generated/extensions/tree-sitter-query.lock",
-    "outputHashes": {}
-  }
+  "cargoHash": "sha256-t7c/ZwDgZ5gMyokJ10pzA0ZMweGeb7akyswOl0NggAc="
 }

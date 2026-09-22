@@ -1,0 +1,21 @@
+{
+  "name": "heta",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/hetalang/zed-heta",
+    "rev": "4d90275bb11cb3cf2d1e5e7e30f76dc8ded50c01",
+    "date": "2026-06-10T17:05:04+03:00",
+    "path": "/nix/store/sy9q1cp1svkfi2af24r46g9ams2bfx2m-zed-heta-4d90275",
+    "sha256": "1k7x0czv5qd315qs9hg3ifj0cvpf0b54q1jfqyc9q8kwaasi8gk6",
+    "hash": "sha256-Zj4UtVJ8IpyYx04GTMoC7m4GpIvjwaRxCaPhsj8D/cw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "heta_heta"
+  ],
+  "kind": "plain"
+}

@@ -1,18 +1,18 @@
 {
   "id": "helm_helm",
   "name": "helm",
-  "version": "aa71f63de226c5592dfbfc1f29949522d7c95fac",
+  "version": "d4a62d114ffc784cf7df8ec294d8323d590de46d",
   "src": {
-    "url": "https://github.com/ngalaiko/tree-sitter-go-template",
-    "rev": "aa71f63de226c5592dfbfc1f29949522d7c95fac",
-    "date": "2026-03-21T12:02:45+01:00",
-    "path": "/nix/store/6d3y1sqv2py4wh7c2kl5lkvxfw2bb3l2-tree-sitter-go-template-aa71f63",
-    "sha256": "0mjvi67z092jckndd4bwqicpd796wwhn1dx19pyi2x66234x8b21",
-    "hash": "sha256-QSzUyRDGdBH9TaG3YCHnJp12WcR8kdbsZFIk8I+JW1Y=",
+    "url": "https://github.com/cabrinha/helm.zed",
+    "rev": "d4a62d114ffc784cf7df8ec294d8323d590de46d",
+    "date": "2026-08-27T00:18:33Z",
+    "path": "/nix/store/znvvqgaxq1p4fwhdaq0kyrc0w2zvm88d-helm.zed-d4a62d1",
+    "sha256": "1rxr9m40n5jdiw2rlj8b64frq79r9lvq8bjb2920b3r2ck8c3kmy",
+    "hash": "sha256-vs7B0GQijwVEEksuhDdNOR2cHTELSZoFj00WC0hNuec=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
     "leaveDotGit": false
   },
-  "grammarRoot": "dialects/helm"
+  "grammarRoot": "vendor/tree-sitter-helm"
 }

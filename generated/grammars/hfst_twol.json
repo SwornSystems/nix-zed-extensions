@@ -1,0 +1,18 @@
+{
+  "id": "hfst_twol",
+  "name": "twol",
+  "version": "07e4424626c76cc8b34b16d3a31294e455d2667a",
+  "src": {
+    "url": "https://github.com/tachyons/tree-sitter-twol",
+    "rev": "07e4424626c76cc8b34b16d3a31294e455d2667a",
+    "date": "2026-06-23T21:12:13+05:30",
+    "path": "/nix/store/jya9b2p15qgk7x0991bp674h71a2smc5-tree-sitter-twol-07e4424",
+    "sha256": "10c3xp6y56rrkyg2a92jjjv7gyj771askpg49cl7ai03l1cs4nki",
+    "hash": "sha256-cVqiWaADRHUoS+TdqVU4R/p3tpRSJCWenzmb4s3tg4E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

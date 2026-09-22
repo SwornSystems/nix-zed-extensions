@@ -1,0 +1,19 @@
+{
+  "name": "doodle-icons",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/MrCheesie/doodle-icons",
+    "rev": "5b2f51fd84378e261ae3bc00881f54c8494e2f2b",
+    "date": "2026-09-18T12:06:34+05:30",
+    "path": "/nix/store/2j0g1456ab5pdliyka3q25r6r6fb04il-doodle-icons-5b2f51f",
+    "sha256": "0crriyvk2rh4z8lyaqi31qcvzrajfdaj5jlavywx8y8w3bnj8xg7",
+    "hash": "sha256-53Uk7RocedS534rKIlVzUuW/GQ4jYuUp+gRmMbePOTM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

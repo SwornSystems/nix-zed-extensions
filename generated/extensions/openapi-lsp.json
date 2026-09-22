@@ -1,0 +1,21 @@
+{
+  "name": "openapi-lsp",
+  "version": "0.2.1",
+  "src": {
+    "url": "https://github.com/Dyqer/openapi",
+    "rev": "d038bb2041f6560d42bb6651c2cc958c2d531433",
+    "date": "2026-09-11T13:51:11+08:00",
+    "path": "/nix/store/409wdxffhjz9p69csb5z2ih9m42lhgd5-openapi-d038bb2",
+    "sha256": "1qhkwmn3ck2nm89v53bf4afb1mdbn7f4ahih9kkvblrii5nsa2w1",
+    "hash": "sha256-gQulbYkx07XnTDBCRdyxq9WwnCJujbITqlZMNmzlE+I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-geFaBfWNp6ZxT/suGYY/FxbsN5gbAyBoUl0YCisSFx4="
+}

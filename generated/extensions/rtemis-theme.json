@@ -1,0 +1,19 @@
+{
+  "name": "rtemis-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/rtemis-org/rtemis-theme",
+    "rev": "9d6525f97d01c5809e866b2471a0d9da57fd1183",
+    "date": "2026-09-20T14:51:02-07:00",
+    "path": "/nix/store/ydjfhk9qkk110pjiqi6dnf2r2w49zmjj-rtemis-theme-9d6525f",
+    "sha256": "1p4b8a22h2nfm26jmvi8659x5097nlqp1lil3q8570hbd6w3q49m",
+    "hash": "sha256-NRE8uGkLglMQHjTScDG1J4HSUzEo7iqNqM4KKIRCi9w=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}

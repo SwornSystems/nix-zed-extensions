@@ -1,0 +1,21 @@
+{
+  "name": "php-lsp",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/jorgsowa/php-lsp-zed-extension",
+    "rev": "852c9107fef83fb218c4431ca68b1839aff14258",
+    "date": "2026-06-13T00:27:42+02:00",
+    "path": "/nix/store/26dd9vjgjfljk5zmib0n5pb12w653zwg-php-lsp-zed-extension-852c910",
+    "sha256": "0yak5g2jpa5wlk6bwaj8vrgvamcc2p97sqmn495d3z1y4n2p9zkc",
+    "hash": "sha256-bP50hSU+/NFKIrZifdIVjFW1X95IKr7MpLyoK8UrU3k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-riA0Rp8kHmEot4fURbtjBHFfS4RFlpU0BM8+d8ZaRws="
+}

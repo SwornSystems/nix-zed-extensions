@@ -1,0 +1,21 @@
+{
+  "name": "yayamlls",
+  "version": "0.1.8",
+  "src": {
+    "url": "https://github.com/home-operations/yayamlls",
+    "rev": "effaad19e7100f48f43dc429b46945830c9ed806",
+    "date": "2026-06-15T17:56:45+02:00",
+    "path": "/nix/store/kd5v7rjp6nqm4dsx8c0174vydnq8apn3-yayamlls-effaad1",
+    "sha256": "02apcfn85vadas84lgc3f1bnlfxn1sar5vsdsyf43b7n5cvva55r",
+    "hash": "sha256-uRS1Nyv2rEGc103vkpUOtjtqV3CDPUqQVk3tgqxjVwk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "editors/zed",
+  "cargoHash": "sha256-922unDuBjNIJwg1mHqu+SJzMP2Yaep43WeKgpvimZhg="
+}

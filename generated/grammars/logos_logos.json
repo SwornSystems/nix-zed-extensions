@@ -1,0 +1,18 @@
+{
+  "id": "logos_logos",
+  "name": "logos",
+  "version": "6539758fdaad3c604b501548440bfef4f7cf81e8",
+  "src": {
+    "url": "https://github.com/nobottomline/logos-zed",
+    "rev": "6539758fdaad3c604b501548440bfef4f7cf81e8",
+    "date": "2026-06-13T14:18:24+03:00",
+    "path": "/nix/store/8jq2lhrmskvpqdx9bskfcymxjsn8yq0k-logos-zed-6539758",
+    "sha256": "1hkk5da9lwwjxjvbfs8yksqs6q5r2iyvgaqsm0zsshygc1kff477",
+    "hash": "sha256-5xDnZmDPQ60/qBqrt30UuWCjsZ4eabe27JJzmlQrc8I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

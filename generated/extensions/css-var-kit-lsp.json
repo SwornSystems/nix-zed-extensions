@@ -1,0 +1,21 @@
+{
+  "name": "css-var-kit-lsp",
+  "version": "0.4.0",
+  "src": {
+    "url": "https://github.com/jo16oh/css-var-kit",
+    "rev": "772117587747e3f3f91222f381450efd5b724009",
+    "date": "2026-09-01T15:47:54+09:00",
+    "path": "/nix/store/vjgcf9w0ds0m70ly3z0v385wl737rgmx-css-var-kit-7721175",
+    "sha256": "16w016hp36p2yh64swf461rfjjw591n1j2y4mavgdw1gv3wiimz2",
+    "hash": "sha256-4tcY+dgv8Pa2qsQLGWxIhUvpcjDEcU0M9OKacaEJgJs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "crates/zed-extension",
+  "cargoHash": "sha256-1jZj/oJQFJA+tjxZwnFouALGFmZpMM7sL2YXImik1Fs="
+}

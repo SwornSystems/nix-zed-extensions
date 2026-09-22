@@ -1,0 +1,18 @@
+{
+  "id": "spice-lang_spice",
+  "name": "spice",
+  "version": "eb725bc0efdeaaf4e408e8d91045ec5d0e69992f",
+  "src": {
+    "url": "https://github.com/MrPoloGit/tree-sitter-spice",
+    "rev": "eb725bc0efdeaaf4e408e8d91045ec5d0e69992f",
+    "date": "2026-07-22T15:35:29-07:00",
+    "path": "/nix/store/dp1qly9pfgjz7iall4xg3x66nscx8pl4-tree-sitter-spice-eb725bc",
+    "sha256": "0lj7iih0j7gn3v4lvhjkfnca9ydj10c74nyss1cmzhbmd22dwgz3",
+    "hash": "sha256-4z/ehGh1wV9Z0NpbchgIsvmkmHVTwk3JHvYdCWCMR1I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}
