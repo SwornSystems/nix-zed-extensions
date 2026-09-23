@@ -1,0 +1,19 @@
+{
+  "name": "ratveteinn-theme",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/ArtemiszenN/ratveteinn",
+    "rev": "d3af58856d98b3adcaa33f8fad12e5113566c2b4",
+    "date": "2026-09-22T07:45:55+08:00",
+    "path": "/nix/store/yw6dcpd2m0zysdxbfq91bv8jmr3bl9v3-ratveteinn-d3af588",
+    "sha256": "064wh5b7v0xcgfpikmfahs8f2wrnmnmm01wz04wrkb16nkafnm54",
+    "hash": "sha256-pFTr1LQmrJk5AZ8HUKutNnPhkIbK1Rmve6yDfVaBnBg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

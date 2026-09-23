@@ -1,13 +1,13 @@
 {
   "name": "blade",
-  "version": "0.2.6",
+  "version": "0.2.8",
   "src": {
     "url": "https://github.com/bajrangCoder/zed-laravel-blade",
-    "rev": "1abb6300f2d2a06555fad79bd0a855f6a6d87000",
-    "date": "2026-06-12T11:38:43+05:30",
-    "path": "/nix/store/5qkghmzf8wdzxyixyk18x101zsawa5ka-zed-laravel-blade-1abb630",
-    "sha256": "0jaadhj2a31lr9v1z3wxnnhmjzxqc4hlk6v42hzlnyjsbn0afc7v",
-    "hash": "sha256-+zCngF1aeks/FGSbSSFhuH9ZobWdjx92yjQMJSRsSkk=",
+    "rev": "3bd7105d2d54367c1f6e653deffc47938bbb5e80",
+    "date": "2026-09-22T13:01:57+05:30",
+    "path": "/nix/store/dpgvr0az5a14j4w5p7qf3q0s3qhhb40s-zed-laravel-blade-3bd7105",
+    "sha256": "16h3mknyaavcisrb73dfsn2293q04ppnf9fbpzwr8dyphih407rp",
+    "hash": "sha256-Nx9AYITXN5T5v8slZ+8lAI8khNWujbOyjmwr5e2sA5o=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -18,7 +18,5 @@
     "blade_blade",
     "blade_php_only"
   ],
-  "kind": "rust",
-  "cargoRoot": null,
-  "cargoHash": "sha256-MPKPs9SG1P+zBHa4GmqUVhKWSHjuNCGmAyaA4Fzyeys="
+  "kind": "plain"
 }
