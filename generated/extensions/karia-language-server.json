@@ -1,0 +1,21 @@
+{
+  "name": "karia-language-server",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/toyamarinyon/karia",
+    "rev": "a3c5dabaa9e5c9266f9077c7c998b3f6aa8b8357",
+    "date": "2026-09-22T23:52:30+09:00",
+    "path": "/nix/store/x4aqz4ncg2h92p9s0rv7n5f47mdx9b7h-karia-a3c5dab",
+    "sha256": "0y74fqmfxcx9pkr46vni2bmidf0684f3fwyq75lab03aq1g5080j",
+    "hash": "sha256-EiBQXsBqgKVoOdhzNxxBBrgW6xLRbkPyvKmz7ip25Hg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "editors/zed",
+  "cargoHash": "sha256-B7Nh3IR6yICnlRXyz0471gIAxFMKnKxvDL7gmlQXQ54="
+}

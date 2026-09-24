@@ -1,0 +1,21 @@
+{
+  "name": "binary-preview-lsp",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/exelsior87/binary-preview",
+    "rev": "f59a27a6aab8a0798fbe38a652e587a08bafc777",
+    "date": "2026-08-28T00:37:30+09:00",
+    "path": "/nix/store/ydx6x0r5q35612r4lhbh6c74phpz33gp-binary-preview-f59a27a",
+    "sha256": "09phlpi4vwganw0gwzr9qj0b2nxysmg6m464vxqvbj84whim86id",
+    "hash": "sha256-LRpUI+QEybVx38SQal7VvluxgMQpf/4At+rxTeKl8CY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "zed-extension",
+  "cargoHash": "sha256-580xD2h9bE3zOBE22rhfl2sYL1F7/fZC7Ctna06I/QA="
+}

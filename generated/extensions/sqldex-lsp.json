@@ -1,0 +1,21 @@
+{
+  "name": "sqldex-lsp",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/sdvallejo/sqldex",
+    "rev": "164b9660b2f801e05211ffd4975f9362ee94daec",
+    "date": "2026-09-03T14:10:45-03:00",
+    "path": "/nix/store/a2cawn06dfmf6plk9ikn9xbxsqxsnsch-sqldex-164b966",
+    "sha256": "1jhvdn47r770qxxnslcpdvr21xf97vnp1wsrp217rjv4i17yg28m",
+    "hash": "sha256-FYnnT4hky3yCuFnzcO0+yfUg8m6XUW17x+CcfIhtG8o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "editors/zed",
+  "cargoHash": "sha256-6Yvum1U3a710UG+sbJ2R8yp96BdPivFF3gpzd1TVnJw="
+}

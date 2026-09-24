@@ -1,0 +1,21 @@
+{
+  "name": "msbuild-lsp",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/MangelMaxime/zed-msbuild",
+    "rev": "d019001cbd269badb45f2de87291d1bbca1ea9d1",
+    "date": "2026-09-15T18:56:51+02:00",
+    "path": "/nix/store/s6xgx2cwn7ilr393w25q4cl7b0skw8ci-zed-msbuild-d019001",
+    "sha256": "1rbyl21kfmm3jnwrinllixna3wmmg1wibnn0njv1wwx2mwi5mha5",
+    "hash": "sha256-RcFaIq+icx62tMDaFXl4tfKhbI+U2pi5laNWN4OgfuU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-ER7MTpOrBmBthIOjaTqpKQwYIo6NogS8R7QMLtqyqYs="
+}

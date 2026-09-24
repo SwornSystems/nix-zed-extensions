@@ -1,0 +1,19 @@
+{
+  "name": "shades-of-stoicism-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/ddh4r4m/zed-shades-of-stoicism",
+    "rev": "777516e7773c4c75368f3d9d958af520d55f0f50",
+    "date": "2026-09-23T21:02:31+05:30",
+    "path": "/nix/store/hj43f8vshc993faj2z8lckw9ls62sckv-zed-shades-of-stoicism-777516e",
+    "sha256": "09sn5wi03d3rd619x3cii4gvxy5r89lgp11bnk6bdrs6j6bp5c7f",
+    "hash": "sha256-7rByl5FG57bMtCuE+2hCufi+H4mRjZ6CaXm0ASIvVic=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

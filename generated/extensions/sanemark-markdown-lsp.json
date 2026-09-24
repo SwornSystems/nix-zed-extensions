@@ -1,0 +1,21 @@
+{
+  "name": "sanemark-markdown-lsp",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/nkitsaini/sanemark-zed",
+    "rev": "a8d95c067afdb1031439444152d732031c91aeb1",
+    "date": "2026-08-26T10:10:02+05:30",
+    "path": "/nix/store/gsdhfqywlbmx4qnx4qssp96d5ld34mlx-sanemark-zed-a8d95c0",
+    "sha256": "0nrsyssdvxqznxzjvd08f3qy4wf365cgp7mps3p1y9p8dcin67z8",
+    "hash": "sha256-6B9jI2voJh/u0Lee+1gxw3Hi8XAItC1/tx/33bT2Ols=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-x/W1FS2g5po4Ikf1cmDERq6qHWx/hhVuCdXibi0z70U="
+}

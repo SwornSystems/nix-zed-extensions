@@ -1,0 +1,19 @@
+{
+  "name": "blackout-engine-theme",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/erik-praznovsky/zed-blackout-engine",
+    "rev": "863e3f0132e3c99ac107dece6dd702b8389d7664",
+    "date": "2026-09-19T11:24:29+02:00",
+    "path": "/nix/store/abjdpd2d88afshz56ka91svxkz36myda-zed-blackout-engine-863e3f0",
+    "sha256": "0nfr9a4qnknmrhs5gnl4z734l8bz0indvwvbrrbqwmy2r3abndq3",
+    "hash": "sha256-Aze71MjCV45Xzmvz3WwEfyFKxvmE2lc0zNVOi4lK2Vk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

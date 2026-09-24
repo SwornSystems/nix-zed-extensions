@@ -1,0 +1,19 @@
+{
+  "name": "tensorfoundry-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/tensorfoundrylabs/theme-zed",
+    "rev": "7dc108c200bb3d634c04d34c12d5b6753d5ffd03",
+    "date": "2026-09-19T13:00:49+10:00",
+    "path": "/nix/store/g41jk70il2012440d8m97z2ky31miwf9-theme-zed-7dc108c",
+    "sha256": "08cp1rzxlinl49g8b8a3fq1p7am1fdavjd87d09m1a6ammviygj7",
+    "hash": "sha256-Rz4fd63KqFATaAc1uVVzoapzA3ZDoYVeItRG2n8OlyE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

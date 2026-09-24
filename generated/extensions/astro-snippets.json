@@ -1,0 +1,19 @@
+{
+  "name": "astro-snippets",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/kagulion/astro-snippets",
+    "rev": "60827cb0e552374259c04299fb59de245208462a",
+    "date": "2026-09-11T23:55:26+03:00",
+    "path": "/nix/store/a7p37ib7wbiyawlzhcwn9rc5qr7x3y20-astro-snippets-60827cb",
+    "sha256": "1pp47cg682a2pw9b0xnx4a7s6agpib7xybydly22vw9xbiybzdgj",
+    "hash": "sha256-8rW/fFw98S2Ep80v38+K9ymjjyLddrASv0IJZB475N4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

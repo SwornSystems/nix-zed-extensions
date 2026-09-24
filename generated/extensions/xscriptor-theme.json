@@ -1,0 +1,19 @@
+{
+  "name": "xscriptor-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/xscriptor-colors/zed",
+    "rev": "582f980c7509495555127b728a38bca7e03086e7",
+    "date": "2026-09-17T14:44:37+02:00",
+    "path": "/nix/store/z8w0994dpv0fjb86a1j0dya5jqngmqiz-zed-582f980",
+    "sha256": "0arafdkkwfy254340wasfazgia3jyvrrsl2lrkx0bm35qm3rr754",
+    "hash": "sha256-pJycR8Vl1AX6zFRQnfP2cqj4vnJacUAGKcI7PmdzKis=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
