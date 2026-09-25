@@ -1,0 +1,19 @@
+{
+  "name": "fuji-winter-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/justKevv/zed-fuji-winter-theme",
+    "rev": "3781b7e9b92c1e4ee92a631654e9ea7e2e1ee4bd",
+    "date": "2026-09-24T00:01:49+08:00",
+    "path": "/nix/store/qjvb2ymk9wbv6h3mkz4ypcxpk2rafgxa-zed-fuji-winter-theme-3781b7e",
+    "sha256": "17qxx4ykp5hl00vlhdd5gffidgnmxflsjymalanwcv69zgq8byv5",
+    "hash": "sha256-ZfuF8PvJbMatoqp6qanr1b4WnXulNUg3ABSWOz3pHZ8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

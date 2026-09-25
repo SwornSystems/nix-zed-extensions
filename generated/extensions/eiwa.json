@@ -1,0 +1,21 @@
+{
+  "name": "eiwa",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/eiwa-lang/zed-extension",
+    "rev": "082fe515cb27cb7e0ba909a50fd72dd8921da7d1",
+    "date": "2026-09-14T13:34:53-03:00",
+    "path": "/nix/store/83wgy96iw1ijxschdwxmw951lv9lnx94-zed-extension-082fe51",
+    "sha256": "0h76nrs2gq585dwa1kdmw3k1q1ad4s29z9ynfj681xcllg18ffkc",
+    "hash": "sha256-bDqHwqOU9YCMdNann4QmTQUc5uC1zaB4K6jgJ3S25kA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "eiwa_eiwa"
+  ],
+  "kind": "plain"
+}

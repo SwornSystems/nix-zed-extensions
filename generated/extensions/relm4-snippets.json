@@ -1,0 +1,19 @@
+{
+  "name": "relm4-snippets",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Relm4/zed-relm4-snippets",
+    "rev": "8de39d93cc53b2dae6c66611e8f02627bac7cf83",
+    "date": "2026-09-04T11:16:19-07:00",
+    "path": "/nix/store/s13fm9yngwx8zhbx47379c2d03zaiw09-zed-relm4-snippets-8de39d9",
+    "sha256": "1ak60n0hh8vib352lznz3bzk8gf6ixmj1iw46s4v74m9dvml94ar",
+    "hash": "sha256-WZFE626pkrOJNoTHIGuPxj00/xrffirKWHEjCIEFZqo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

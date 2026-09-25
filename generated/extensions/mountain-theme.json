@@ -1,0 +1,19 @@
+{
+  "name": "mountain-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/xproklyatx/mountain-theme",
+    "rev": "e689c76e30511199e3648557b9bbe090a6592445",
+    "date": "2026-09-24T05:43:33+03:30",
+    "path": "/nix/store/iyl631ybspy6zfk4dsxzd50n93l0k892-mountain-theme-e689c76",
+    "sha256": "0myxayg22fyq4nny94jcwyc43r8n26lhja5gd0dqzqif58y63124",
+    "hash": "sha256-RIRhPCou4o8baK8oCakRFuVBmOdMkuStJdg7IZ5X3Vc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

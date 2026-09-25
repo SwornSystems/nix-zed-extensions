@@ -1,0 +1,19 @@
+{
+  "name": "breadog-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/RibbtDev/breadog-zed",
+    "rev": "3ba77409e778038b8e3894bed32a4c4fda13a662",
+    "date": "2026-09-24T20:21:34+05:30",
+    "path": "/nix/store/vy46mzbp5k3mima8ngvx1y85x3gijp3g-breadog-zed-3ba7740",
+    "sha256": "0pxjv30v6aknjxjn4cm55lhm99j9m9lgmxp6zqpll2zs7z29i5ni",
+    "hash": "sha256-0ZaYxD/6C0ov/ub2+miqSaZUIS2lMmJll3Yqs8HYsl8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

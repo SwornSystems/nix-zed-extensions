@@ -1,0 +1,19 @@
+{
+  "name": "nord-wave-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/R1N-K0/zed-nord-wave",
+    "rev": "bbfed236eece0787bbbfe92a6c57f07ae96b9209",
+    "date": "2026-08-03T16:03:10+09:00",
+    "path": "/nix/store/jb5rqyh5w81lcskhpq8ybv9h8x64fsnq-zed-nord-wave-bbfed23",
+    "sha256": "1s8blbzfvbff61rhvbxp809q5g4dql2pzm841k0k221by7sl00rq",
+    "hash": "sha256-OANA9fErCDHBDATVfwXFjbyCE0C3rw1zMM6t7f6iC+k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

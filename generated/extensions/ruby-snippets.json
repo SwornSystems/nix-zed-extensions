@@ -1,0 +1,19 @@
+{
+  "name": "ruby-snippets",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/vitallium/zed-ruby-snippets-extension",
+    "rev": "a08e2c0ac339cc7b8575ab6700dae3295ec475a8",
+    "date": "2026-09-23T07:51:14+02:00",
+    "path": "/nix/store/ani8hgxiky1ckdcmlwrckx1dsrqxwdx4-zed-ruby-snippets-extension-a08e2c0",
+    "sha256": "0l4xhgq7dic3izlnj4h3s6wr38vk4v760j7ahaarb5qwj9xxb1x0",
+    "hash": "sha256-oIfVe5Icl5WVgupIYM4mc6ORudEDEmnpj4PFdvCDnVA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

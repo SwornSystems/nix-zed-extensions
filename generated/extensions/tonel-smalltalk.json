@@ -1,13 +1,13 @@
 {
   "name": "tonel-smalltalk",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "src": {
     "url": "https://github.com/mumez/zed-extension-tonel-smalltalk",
-    "rev": "db0fad668312b3a9352a8b9757b2f926d45018eb",
-    "date": "2026-07-09T14:35:05+09:00",
-    "path": "/nix/store/zbbzn9m11618p9r9845n1bxw858pw75y-zed-extension-tonel-smalltalk-db0fad6",
-    "sha256": "04dq6lb95kbzjabq3ki33cg9df5fk9rffb665z16rllcfr59zlk4",
-    "hash": "sha256-ZNKfSnaM0mzCL8Ys53KarriWHhsjzoGXkn/NkhY1uBE=",
+    "rev": "a14f278b9ee0ba6c04db6e427adb74a2a51193bd",
+    "date": "2026-09-25T14:18:40+09:00",
+    "path": "/nix/store/6kkdq31hq4na69rlxj9w9wq5gz7amvl0-zed-extension-tonel-smalltalk-a14f278",
+    "sha256": "1ibkd785ibfsyjfgs2ai69sbczvmvg77par255yli7h848s5avf6",
+    "hash": "sha256-xm1VNCIInkh9KSKre87bdX+2dDJRCf2c9NqtWNBpc8U=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-gB7wkGlkysKDhXAFAUSQoXfs8AjV3SMVURCSl3fjqxU="
+  "cargoHash": "sha256-rY3guLAW8DscAW7mpShARg5EndYR2BrVp5OW3RXbZy8="
 }

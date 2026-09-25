@@ -1,13 +1,13 @@
 {
   "name": "sysml-v2",
-  "version": "0.52.0",
+  "version": "0.53.1",
   "src": {
     "url": "https://github.com/elan8/spec42",
-    "rev": "a74afe5a0a4baf6edbf4c67ee9860dad7461aab8",
-    "date": "2026-09-10T20:10:14+02:00",
-    "path": "/nix/store/xv10j7blcrwgyp2vbi8kgm734chfawml-spec42-a74afe5",
-    "sha256": "1hcibj05h26s1a40nlbw5pkd5a9cnvgklivadihq2y7khym9f9rq",
-    "hash": "sha256-OCeXqofzeIFhbGpHOt+2LKnS5i18UQuICtoIWIBckcE=",
+    "rev": "d3115e995a606c4816f1299a32af6936371f3911",
+    "date": "2026-09-24T16:27:16+02:00",
+    "path": "/nix/store/8ifj7w3i31v0cmhv0rx2ny6ksy3g0fwh-spec42-d3115e9",
+    "sha256": "0j047zh6mj8qjafmn64hfkg0vnp7vhvvn8yin45myxbjkggbpm4a",
+    "hash": "sha256-itS73ptydV8LsdEjuzfc59oN3nSQGFudkhjJauA/BEg=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": "zed",
-  "cargoHash": "sha256-6eVGR+knw1mdD/GkAxmYreb6DNHDol7T7QCEOUFvOXQ="
+  "cargoHash": "sha256-8M0hRfylALereHkOc1QoW+GbN1f1stwksM1d2Wvi3hc="
 }

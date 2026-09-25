@@ -1,0 +1,18 @@
+{
+  "id": "eiwa_eiwa",
+  "name": "eiwa",
+  "version": "bd2a03bd1e4898853e19d2b3a3fb477dc81a3732",
+  "src": {
+    "url": "https://github.com/eiwa-lang/tree-sitter",
+    "rev": "bd2a03bd1e4898853e19d2b3a3fb477dc81a3732",
+    "date": "2026-09-14T13:34:31-03:00",
+    "path": "/nix/store/zj7bhccb8pzvsb2nzybrdixsld37pmiw-tree-sitter-bd2a03b",
+    "sha256": "0nb73xxx1pmwgwm81d86vzr302ssblw7diymdv9k15nsqbywxdsk",
+    "hash": "sha256-U7fO/cLaljDTbtXHdjhdWgsw8t8GtYAqf7ze0HsfZ1k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}
