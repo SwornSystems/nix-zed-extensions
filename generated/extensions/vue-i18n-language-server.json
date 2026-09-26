@@ -1,0 +1,21 @@
+{
+  "name": "vue-i18n-language-server",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/XusCloud/zed-vue-i18n",
+    "rev": "2dd980774a1bc757457a9b709c17c32f69e2f8e9",
+    "date": "2026-09-14T15:55:58+08:00",
+    "path": "/nix/store/3xyzsprmsd3kmik96lvxaxqp4br44qb5-zed-vue-i18n-2dd9807",
+    "sha256": "1bcf3i51nbkzm76y0p15rs97i075vhbqy9rgqb5njhcs1y6vzg0b",
+    "hash": "sha256-C7y/jQ+aQWnLwi8njxfc5YB4ks4lXODNqX8uG0ocjq0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "extension",
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-4XexJYzQI7o4HpxvAUd3f84jj+OGHR/XhJ4eurqzBLc="
+}

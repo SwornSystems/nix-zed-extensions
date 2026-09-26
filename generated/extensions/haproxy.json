@@ -1,0 +1,21 @@
+{
+  "name": "haproxy",
+  "version": "1.0.1",
+  "src": {
+    "url": "https://github.com/thochra/zed-haproxy-extension",
+    "rev": "54d93adf29488d1435461505c396f3e1abb67d82",
+    "date": "2026-09-22T18:07:21+02:00",
+    "path": "/nix/store/rcq7xba0fcdgbf23azfy0d4r7qfvmqi4-zed-haproxy-extension-54d93ad",
+    "sha256": "1lrm886jbikv1xff25z2ddv8gynk7axx0c6vmx8a2z8b585308pr",
+    "hash": "sha256-+SIwCioLfaFQr9sw0Ls60/qHdmviF+FcD3vGJQ1CNdM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "haproxy_haproxy"
+  ],
+  "kind": "plain"
+}

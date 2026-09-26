@@ -1,0 +1,18 @@
+{
+  "id": "haproxy_haproxy",
+  "name": "haproxy",
+  "version": "main",
+  "src": {
+    "url": "https://github.com/thochra/tree-sitter-haproxy",
+    "rev": "59e19f2b55be588dadbf8b038b294e5ed935cbb2",
+    "date": "2026-04-26T14:00:38+02:00",
+    "path": "/nix/store/8vav0s9q9scx745g1p3srnf9wy8xskmi-tree-sitter-haproxy",
+    "sha256": "0a13abdj9z7azimddnd4dqfwnm9m28khcms7z170022ydams32p1",
+    "hash": "sha256-4Yqhq2peCABO+EdXBicSNVXLHW6k2dZq/Or8JNtSIyg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

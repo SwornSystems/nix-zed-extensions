@@ -1,0 +1,19 @@
+{
+  "name": "skys-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/saifbasheeralkhoja/skys-theme",
+    "rev": "6a4ad3373fe86f7018e7289da38c2915e3f3447c",
+    "date": "2026-06-19T23:22:43+03:00",
+    "path": "/nix/store/ma7zs0a3ywla1hk04ymqkpa8503yngay-skys-theme-6a4ad33",
+    "sha256": "0lw639k9xwayzqdj9c3ji0ahljsv42g2ip560gzf4av7np4zmkc6",
+    "hash": "sha256-hs36ybVnK+L+A6bcKJ4gW0sKFYhysCQb/l7xnmYahlM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

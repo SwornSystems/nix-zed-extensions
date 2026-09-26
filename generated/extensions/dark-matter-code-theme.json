@@ -1,0 +1,19 @@
+{
+  "name": "dark-matter-code-theme",
+  "version": "0.0.8",
+  "src": {
+    "url": "https://github.com/amiralibg/Dark-Matter-Code",
+    "rev": "00fad0a7b90ef788f660a0e9bb85b7c4cfd60d4e",
+    "date": "2026-08-27T11:04:18+03:30",
+    "path": "/nix/store/j91gxffwnwk0lcc7d8lah4h33ln6y0f9-Dark-Matter-Code-00fad0a",
+    "sha256": "03gkash9f51jq5xpkys0m3phbh27q9gcxl6kl5l8nafyqyrggvfd",
+    "hash": "sha256-ze33ssfeKYtoodPQzl7CR8AF76hA+3l7wTIUl6BW8w0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}
