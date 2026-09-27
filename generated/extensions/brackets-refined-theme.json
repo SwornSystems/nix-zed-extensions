@@ -1,0 +1,19 @@
+{
+  "name": "brackets-refined-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/NeroWolfe75/brackets-refined-zed",
+    "rev": "4d0ba94f10969f2f034b170ada68e8ea250dffcb",
+    "date": "2026-09-18T14:32:41+06:00",
+    "path": "/nix/store/4jpps19hcsmf4l97xqcs9kjvkqnhsd9z-brackets-refined-zed-4d0ba94",
+    "sha256": "00097n3dv9ksylh0vra1d481a3qv9w0p62zwb5vy0sji7zi57z33",
+    "hash": "sha256-Y/xT4j9RauB3WfwLcwFPGw8VEGlB5Q0g9Xqm3YY9CQA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

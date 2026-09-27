@@ -1,13 +1,13 @@
 {
   "name": "mach",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "src": {
     "url": "https://github.com/briar-systems/mach-zed",
-    "rev": "cbdde6718aa5810aa0603698c99d0d52678196c2",
-    "date": "2026-09-21T11:28:46-04:00",
-    "path": "/nix/store/zahvkvfhrmkslzlqpbwqy2dxq3jzkd0p-mach-zed-cbdde67",
-    "sha256": "05wv4k5gjw9aszwbz4mg1sr9fx3fd77rhqbhz5szlfqvm49zn828",
-    "hash": "sha256-SCD7E6kbO/p1+XBhmM9pbnSXsg6vkr/41ypx+cokmxc=",
+    "rev": "32a479a8ed68403983505abf8b62256299f2598b",
+    "date": "2026-09-25T14:24:17-04:00",
+    "path": "/nix/store/h6rhcwdyns8n73p9m7hgaldkxz814z0s-mach-zed-32a479a",
+    "sha256": "0495z2q48pb7amgs9l3wdx56kqxnir3c6400lzs8assm8ap3h8in",
+    "hash": "sha256-NiI4rkJVa4X0pwAQw0aOtuNpSm980KRfVWddRLD4JRE=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-v2C663cCmUA8vQursPq/Hp2QbnZju4TXhHi/s/tEXhI=",
+  "cargoHash": "sha256-Nd1y9jlXtlREMMNXt71xDQ6oAr919g3cc6A/hH+WWHA=",
   "cargoLock": {
     "lockFile": "/generated/extensions/mach.lock",
     "outputHashes": {}

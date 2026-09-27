@@ -1,0 +1,18 @@
+{
+  "id": "fun-lang_fun",
+  "name": "fun",
+  "version": "0782a96add9f61885690ff229a634000c94a5a3b",
+  "src": {
+    "url": "https://github.com/omdxp/tree-sitter-fun",
+    "rev": "0782a96add9f61885690ff229a634000c94a5a3b",
+    "date": "2026-09-25T10:54:14+02:00",
+    "path": "/nix/store/j3wklz4rpvg1m89dzxvc873yjyi6dz00-tree-sitter-fun-0782a96",
+    "sha256": "047w0xr9005cmz8dgcl4qrf6kfpb5gylg6l3kawp4hw7qdf5hv13",
+    "hash": "sha256-I2xYXMOHQ3K5moOaR/0r67ppXMaEstfQr6wAkHIH/BA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

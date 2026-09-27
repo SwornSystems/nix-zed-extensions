@@ -1,0 +1,19 @@
+{
+  "name": "oxide-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/oxidescheme/zed",
+    "rev": "465c3a67b5483742c712bc3f260caf3337f2c3c6",
+    "date": "2026-09-26T11:08:10+02:00",
+    "path": "/nix/store/47inq4d9snxggmnwq35nj0c8kh6k3sm1-zed-465c3a6",
+    "sha256": "1pz0mqlylsya1ymz57c6jyk6dz67xbr5bark1a0cgl26pb1j0zlb",
+    "hash": "sha256-i34gw7pG0MeACjOrVfLqx/xmppeGnfKrD8pr6imu4N8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

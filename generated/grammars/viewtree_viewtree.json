@@ -1,12 +1,12 @@
 {
   "id": "viewtree_viewtree",
   "name": "viewtree",
-  "version": "master",
+  "version": "97b1fca292f85c384e76d2e1868b63dd5764d2b7",
   "src": {
     "url": "https://github.com/Dev-cmyser/tree-sitter-viewtree.git",
     "rev": "97b1fca292f85c384e76d2e1868b63dd5764d2b7",
     "date": "2026-09-25T18:28:49+03:00",
-    "path": "/nix/store/i0rwdf6gwi49ma9farya3qpkyvgyyfdj-tree-sitter-viewtree",
+    "path": "/nix/store/vby5d7qryxxwk6rwwg7ksnjw63g5j79w-tree-sitter-viewtree-97b1fca",
     "sha256": "106f45hn0bl1sg7ks2yxfkx1dgjqx3rpr9f5ajddpaj1py4zyiz6",
     "hash": "sha256-5kf/ib9BqtuaVMWlfPPoWL4W+nTdCz3P04EuYGEhzoA=",
     "fetchLFS": false,

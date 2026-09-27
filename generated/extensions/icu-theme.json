@@ -1,0 +1,19 @@
+{
+  "name": "icu-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/dbkarashev/zed-icu",
+    "rev": "fa9379262e4106e1f2f490726e001db75bfd64ca",
+    "date": "2026-09-26T14:30:00+05:00",
+    "path": "/nix/store/pmwp6qg9ar674yavyfkl2y6gdkp1cc7x-zed-icu-fa93792",
+    "sha256": "1gpf14zbja0ky9cxf7xc8mn7g4h1487i8sp4fyj8m7d1b0hhlgpq",
+    "hash": "sha256-+D4KIVihnYqkd+RqFA8iAZJ3bEWsH9dZ8hMouT4J7r4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
