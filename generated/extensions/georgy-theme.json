@@ -1,0 +1,19 @@
+{
+  "name": "georgy-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/GeorgyDesign/georgy-themes-zed",
+    "rev": "47db82f9dccb7da3ddc230dc5ac01a8b3b8bbc59",
+    "date": "2026-09-09T17:26:22+03:00",
+    "path": "/nix/store/i4jb5yf34b0c1j9mjaahq9ayxp11c8va-georgy-themes-zed-47db82f",
+    "sha256": "1q9sw2c3z7d78nx83b8g73ailk5dy2z344jpahq8bpbgm9mddbgp",
+    "hash": "sha256-963Waqpv3YUwVFcSMr7wrUwa1TgPrYG6RaedP5jgOuE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

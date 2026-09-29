@@ -1,0 +1,19 @@
+{
+  "name": "nordppuccin-theme",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/franqong/nordppuccin-zed",
+    "rev": "86ca7431af9efe30499d579350b915ca8428a196",
+    "date": "2026-09-26T19:11:52-03:00",
+    "path": "/nix/store/f3pni1qgz0b68igg1rn94rb1czlckvhv-nordppuccin-zed-86ca743",
+    "sha256": "1rxvf77x9ylai9bd2wznm4vcwyvhnbwky6iv15hyr0ar3bk2fq34",
+    "hash": "sha256-ZGAn5hpZgexhCTsaP/mycHvONqn2c9FWior61M9xu+c=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

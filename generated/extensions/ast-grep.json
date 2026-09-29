@@ -1,13 +1,13 @@
 {
   "name": "ast-grep",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "src": {
     "url": "https://github.com/mathieulj/ast-grep-zed",
-    "rev": "832051b9b2c433bd819880ad3c2142ed097ebc42",
-    "date": "2025-04-13T19:57:26-04:00",
-    "path": "/nix/store/zdz0klvx3s7yjmsmd5k0xqn2fb76d5ac-ast-grep-zed-832051b",
-    "sha256": "1dl0721vgizwf9lkclxrsahk374v0x7rz3ivc9rl2mxcazh0r4wv",
-    "hash": "sha256-m5MM4FesV0FzYjuOn08Hm5wxodK5UzZpcvzHt4M4gLY=",
+    "rev": "cbd9528e228d6a08c992b2814121b79f7228ca38",
+    "date": "2026-09-27T14:20:52-04:00",
+    "path": "/nix/store/7hn37hc8yr1frj9y2mklxhkgv130daj8-ast-grep-zed-cbd9528",
+    "sha256": "16gar03v9z2rn0x626j0rl8cyr5ggc7vj3wrw9hmxqnsapshffvj",
+    "hash": "sha256-cjsH9VXa4l5h4pkPuQ97r2TPEM1AGmE6sFn8tAfI6pk=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-xtqbPf+ajLQhxjvZBkIf7GWKPMrAPKae6iF+y5f5t2M="
+  "cargoHash": "sha256-TuF25ScJnZTqUGkNiTcPB18hh7GE9mvWa5Vp3lv1Dr0="
 }

@@ -1,0 +1,21 @@
+{
+  "name": "hexaly",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ashenwolf/zed-hexaly",
+    "rev": "f333412e3cbe8fd19cbd4416438c4c1ee42a554f",
+    "date": "2026-09-10T02:06:07-07:00",
+    "path": "/nix/store/ab1dxwhrplqnvw0p72hivkxnjw8sb91m-zed-hexaly-f333412",
+    "sha256": "0vyr4vq63qbvg4mq7hf7dbg75n7a66pcpf1whsdnj3kn77fwy2b8",
+    "hash": "sha256-aAnP3Tl2Dmmbhjy4y64x6thy3mrHwYMreXvhYfAm2W8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "hexaly_hexaly"
+  ],
+  "kind": "plain"
+}

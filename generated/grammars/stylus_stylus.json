@@ -1,0 +1,18 @@
+{
+  "id": "stylus_stylus",
+  "name": "stylus",
+  "version": "38de08cc3f6c7d5284280312a5181d4803df63c0",
+  "src": {
+    "url": "https://github.com/WMikhail/tree-sitter-stylus",
+    "rev": "38de08cc3f6c7d5284280312a5181d4803df63c0",
+    "date": "2026-08-10T22:48:35+07:00",
+    "path": "/nix/store/7dbfy4db4ab2jdbc7j98cfr66wxrkmcs-tree-sitter-stylus-38de08c",
+    "sha256": "0rx6knz33g8an2pmmrasdc8b9jwm1w1gfpmbzagg41yk562pyiq1",
+    "hash": "sha256-AUd/hSnTB/Ke+qte9wIPlcu0EGta5VqvsAq9Mb6dpmc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

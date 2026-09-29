@@ -1,0 +1,19 @@
+{
+  "name": "azulejo-brutalism-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/VerticalHeretic/AzulejoBrutalism",
+    "rev": "a91c4b3704f4b34e432f4f9d95a61cf075393903",
+    "date": "2026-09-27T09:01:00+01:00",
+    "path": "/nix/store/c9sljj89bvw77r7mimcilq8cz504s4ir-AzulejoBrutalism-a91c4b3",
+    "sha256": "0ydnlg3zdvrbbmcj0k73snah0d53sb43kc976ycicyjx7120d27h",
+    "hash": "sha256-8IgGRDhdehaZNyexOcjSozQAldXjTCBZXSvv9sejtnk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}

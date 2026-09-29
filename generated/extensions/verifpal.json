@@ -1,0 +1,23 @@
+{
+  "name": "verifpal",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/symbolicsoft/verifpal-zed",
+    "rev": "fbb5738eb0ba5aad9e70903959ea8fe73f6e0356",
+    "date": "2026-08-22T17:29:26+02:00",
+    "path": "/nix/store/fp70pfc9p8fb7dngz2kp5hps8z55r3a9-verifpal-zed-fbb5738",
+    "sha256": "0iwdyrjns0b43m1n30br8a6manv7l8m4m728ym6j4dc9zgi310cj",
+    "hash": "sha256-koEw4vuJNSJN9UicSiqiZ1tVjUJ5gWFDHWQBbWX2jUc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "verifpal_verifpal"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-RImUst9EeFrTHTAjCr6MRqa3tmnAv/EGeb3bdiL9V3Y="
+}

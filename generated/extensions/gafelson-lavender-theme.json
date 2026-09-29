@@ -1,0 +1,19 @@
+{
+  "name": "gafelson-lavender-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/devmor-j/gafelson-lavender-theme",
+    "rev": "49ecd441bd717744dc99078fc8452fe2aa5c053d",
+    "date": "2026-09-28T15:54:21Z",
+    "path": "/nix/store/19767dzvqc93354670j8awrilw6knjlw-gafelson-lavender-theme-49ecd44",
+    "sha256": "0xq9fix8jqzhhis02p2a571kc8g5xwfq4qk692y6x2lbpq5mfcy1",
+    "hash": "sha256-wTNXC76Lim68SGZigh3v5SE2wylKXAF0hPBjiXp0CXc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

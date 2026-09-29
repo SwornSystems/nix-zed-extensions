@@ -1,0 +1,21 @@
+{
+  "name": "composer-lsp",
+  "version": "0.2.6",
+  "src": {
+    "url": "https://github.com/BastenIT/zed-composer-support",
+    "rev": "07d9bcd166685e19428b05d97e68fee3939481a8",
+    "date": "2026-09-28T14:11:57+03:00",
+    "path": "/nix/store/74np83ylscwkf2ilvvlv5vyicggg3wni-zed-composer-support-07d9bcd",
+    "sha256": "0pk61m1pw29ddy8q45fj89rflc6wmq5qfbkwk7w9yhqpqshspdz2",
+    "hash": "sha256-4rerocYXQ5/4mXwuhwuu3DDqckLSFYKRby0JfkMNZl4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-8fMGa2wPRuYOpSeE3mFJGFuk1TMXZTp/FB5E64cSt9U="
+}

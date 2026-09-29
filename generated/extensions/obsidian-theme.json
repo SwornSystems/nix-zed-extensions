@@ -1,0 +1,19 @@
+{
+  "name": "obsidian-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/narcilee7/zed-obsidian-theme",
+    "rev": "12122783041337f26c893085c4072655a93e0d15",
+    "date": "2026-07-26T20:35:47+08:00",
+    "path": "/nix/store/6wnj5xwj9x4jsacvadc7l7gq89y903xs-zed-obsidian-theme-1212278",
+    "sha256": "17qx5naqpcgkhz76dh8ric2qv6inbmap1bfk799h36dx7y02dia1",
+    "hash": "sha256-QcUmgD+9mQFTOtOtcFVdNpqNBYsZwWbOh/Oxi5UtHZ8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

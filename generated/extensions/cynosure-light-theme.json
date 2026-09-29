@@ -1,0 +1,19 @@
+{
+  "name": "cynosure-light-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/SM2507/cynosure-light-theme",
+    "rev": "36e36418b3a30eaad71584f9ada7b60997945f11",
+    "date": "2026-09-28T17:37:55+02:00",
+    "path": "/nix/store/0c6zsgbp29w06nyg4634ascb98scasks-cynosure-light-theme-36e3641",
+    "sha256": "1qcw329kazy0h2gv3rfa629cj09d3vxgdazzlxnws21bps58x2z6",
+    "hash": "sha256-5ouOir4rCM1tp/+r9voeLQHJkjDK5bGfgMB/NZMYnOE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

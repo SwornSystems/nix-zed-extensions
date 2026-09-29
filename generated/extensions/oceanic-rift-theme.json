@@ -1,0 +1,19 @@
+{
+  "name": "oceanic-rift-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/jeffschuil/oceanic-rift-zed",
+    "rev": "e5ff2a71606fd8b7f6b0c7f44dd786d1793387d5",
+    "date": "2026-08-21T11:46:10-07:00",
+    "path": "/nix/store/lmd3i02inbww7qpzfz0a4xspjxrni64d-oceanic-rift-zed-e5ff2a7",
+    "sha256": "0dqiqvcqq1km7843ywipbs1xwmjj5cda2mamxwpz5k5k14x1vkyy",
+    "hash": "sha256-3s8dOgmzzPIv71VVoRorUlbeg143cj8IOnUGjNnGETc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

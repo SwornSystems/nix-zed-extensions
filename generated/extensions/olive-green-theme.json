@@ -1,0 +1,19 @@
+{
+  "name": "olive-green-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/dalpat/zed-olive-green",
+    "rev": "15bf35c27e6c328954e5987de21894fc0d6ba38e",
+    "date": "2026-09-25T18:38:02+05:30",
+    "path": "/nix/store/b6c3i05svi5awmd4bn9cka32an8lpsfx-zed-olive-green-15bf35c",
+    "sha256": "008l658qy61ns5pzkmw7v8ia1jsgw2crhk8kw7az8m3gzwsj9wa5",
+    "hash": "sha256-RfEkNf9vVPTV4RNNmJngT8ugItqH1/lv0TYYj1ExFAE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "42nd-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/fawkes42/42nd",
+    "rev": "364e89e260568899529d6e12676ec406498dea1f",
+    "date": "2026-09-27T13:22:09-03:00",
+    "path": "/nix/store/cfkkj21h4w4xa5vkdrvhb3h9kapsjmwa-42nd-364e89e",
+    "sha256": "0zqir2dvn9011ij3dx7qm1yc2a36744c7zrn51i9m609aqknxs9c",
+    "hash": "sha256-LOluJ1YJmJpiKDb/wwg5ZijBfKj49DZkDAEku5vIEX8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}

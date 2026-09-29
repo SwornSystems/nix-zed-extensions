@@ -1,0 +1,19 @@
+{
+  "name": "monochrome-amber-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/yusefkarim/zed-monochrome-amber",
+    "rev": "3f31467d9ad26a2afd4369f4d84967e92576e98c",
+    "date": "2026-07-09T20:28:40-04:00",
+    "path": "/nix/store/8x2nkl24qgxw4mjypr2ipl537ljs3wwi-zed-monochrome-amber-3f31467",
+    "sha256": "1v4lrrd5ynpa9cqjgzn8gqd889l2yv51awvm06w3fasnc4cngkw0",
+    "hash": "sha256-gM9nGWFWKze4AXVzFcr2giaEGn7I/icxS+paX1rOlOw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

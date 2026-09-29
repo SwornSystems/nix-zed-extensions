@@ -1,0 +1,23 @@
+{
+  "name": "silex",
+  "version": "0.51.0",
+  "src": {
+    "url": "https://github.com/Matanek/Silex-Extension-Zed",
+    "rev": "03b111f748ce799e36e5c5f7d7b8c96c11f97f93",
+    "date": "2026-09-07T22:31:54+02:00",
+    "path": "/nix/store/prph7f4r4flrzk7pw8rpcmwga9pfnc6h-Silex-Extension-Zed-03b111f",
+    "sha256": "1ibks7nvlqx09xj5gz6ga4fsblc8pzm6zbazj6bmi2375ch2fqz1",
+    "hash": "sha256-4WMnICtniFiXkV+tb+q/iNGlHVHP/FdkT6Bjuu3Rc8U=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "silex_silex"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-FjpYJojyPgMz4fJ3XY1KJDge5w+zW3EkviZYm3k/lyk="
+}

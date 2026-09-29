@@ -1,0 +1,18 @@
+{
+  "id": "hexaly_hexaly",
+  "name": "hexaly",
+  "version": "4dd3917847d9a15cc3bd50bf32e267a99e12288e",
+  "src": {
+    "url": "https://github.com/ashenwolf/tree-sitter-hexaly",
+    "rev": "4dd3917847d9a15cc3bd50bf32e267a99e12288e",
+    "date": "2026-09-10T01:12:54-07:00",
+    "path": "/nix/store/hi6s9lyg900gs1pjqxf9fq290sdm1if5-tree-sitter-hexaly-4dd3917",
+    "sha256": "10gq0bsy9siqibz4px4brkvh687dic7s4qziybryrs2vv2n93vmc",
+    "hash": "sha256-rO6RrNhb6Ozz8vFjog+L7SAD98yL9Ev+ijjq5PUC+IE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

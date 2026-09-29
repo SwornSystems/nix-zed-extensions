@@ -1,13 +1,13 @@
 {
   "name": "word-highlight-lsp",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "src": {
     "url": "https://github.com/0xdea/zed-highlight",
-    "rev": "eb73c905f6040a0619d436699ce8424f0b70720d",
-    "date": "2026-08-08T18:12:34+02:00",
-    "path": "/nix/store/fj1018rhn02dg9vvc83njdw6gh5lbyfc-zed-highlight-eb73c90",
-    "sha256": "1k4xc4vxhk45f4ma4ds2gzm00f89pgkwn2bm5npvswgnllv7nr1l",
-    "hash": "sha256-NGR7NqX2cb2vLXUJy+e7CTkA6n9CN6IqcYVM2Ddhncw=",
+    "rev": "3f408d974254554af99fbb8fb1a6e2066b51e243",
+    "date": "2026-09-28T09:31:51+02:00",
+    "path": "/nix/store/9437ih74wrkhvn4vxg8vw9y2p2bpdacq-zed-highlight-3f408d9",
+    "sha256": "0941pgaylg733bkp03fsha4cwv4pzbpb9fwc7ihfx3x05f8g9z1a",
+    "hash": "sha256-Kvz0kCugj+5gPIy7tO76l2zOiILaDXDnGuM86tW7gSQ=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-yhZlHDzZH9VUHA74ZGOiAjG7OkwFng0hemCBubPt540="
+  "cargoHash": "sha256-gsTzStySNxIxajH8pcV/BW9eeoDAjUfKCnRCx5bxzmc="
 }

@@ -1,0 +1,19 @@
+{
+  "name": "clockwork-gold-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ClockworkNet/clockwork-gold",
+    "rev": "051054c3561561bda6573583e3a1a715440cb844",
+    "date": "2026-09-28T12:11:04-05:00",
+    "path": "/nix/store/6mhja98f8w0g18xfgy8c9brh5jp366ig-clockwork-gold-051054c",
+    "sha256": "1516dj05qhaply3ppzj87b0i8wklpyrslayiis74hdhygzj8vy2z",
+    "hash": "sha256-X/iN5H8eNkiOjtErqrO/dHIUwTpI/nuHp1dBXIBsJpQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}

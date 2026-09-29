@@ -1,0 +1,19 @@
+{
+  "name": "forest-night-ethereal-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/bashln/zed-forest-night-ethereal-theme",
+    "rev": "71b44fefe3d1e88b0bf7812852fb00457dd3bc78",
+    "date": "2026-09-03T07:03:12-03:00",
+    "path": "/nix/store/k46dxamln9xiyhkgq1p06wypsivj637a-zed-forest-night-ethereal-theme-71b44fe",
+    "sha256": "1p4cv57kx0fhfv6sp6b3qa75rzjc6l9fg4s8918gi7pk186gkyzq",
+    "hash": "sha256-+Pv5DArznvhQSEiT5xI1TP5cjsJjmavNdtCBPk/ZjNw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
