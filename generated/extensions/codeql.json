@@ -1,0 +1,23 @@
+{
+  "name": "codeql",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/Fruit-Guardians/codeql-zed",
+    "rev": "31105ac347ba128d6baee357056e90a1a509fcf1",
+    "date": "2026-08-24T21:46:48+08:00",
+    "path": "/nix/store/06464pp65js7g99i3cjlpigr2ry2gdsa-codeql-zed-31105ac",
+    "sha256": "0wch001kx0f6n2h0xa2ka2dx1gqrb5k2fk26rlqac14nisfd26j7",
+    "hash": "sha256-RxrRnI6WBKYwzUZMJ2ZZGb/Qm1BTqA6gsMaBPgMAkHE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "codeql_ql"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-HIftnxxp5EjhzEdSEbcrrFuUbH06k4Z7UPrLSH4efQg="
+}

@@ -1,0 +1,19 @@
+{
+  "name": "zenith-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/zepocas/zenith-zed",
+    "rev": "a507d98f6bbc80678904c922dddc0f6b64d7507a",
+    "date": "2026-09-29T10:32:44+01:00",
+    "path": "/nix/store/p9nrzwibmrg1fsrrg6fpslkjwykc6vkz-zenith-zed-a507d98",
+    "sha256": "1yy5i1yprm8cm2spncvjjkcrbx5949arnx1rh0rk7y02qhhyr1sp",
+    "hash": "sha256-V4fsIcQC+DMzgDl0m1UiqfSV2ZRyM3u1qAzVfH2Ixfs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

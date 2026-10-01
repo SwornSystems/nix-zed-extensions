@@ -1,0 +1,19 @@
+{
+  "name": "macvim-classic-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/JuanVqz/macvim-theme",
+    "rev": "f9d41f78325d6dfd6dbe15a43802c534cacb0cf0",
+    "date": "2026-09-29T15:50:06-06:00",
+    "path": "/nix/store/v0p7nzh58hdz23dvlk0dxgg6n02rizcz-macvim-theme-f9d41f7",
+    "sha256": "1g5wv9cy70qz04r51ffdlqi9rjz4h2z9rjp560x2r1lwk9xq1dlx",
+    "hash": "sha256-nbaAe5qchiw6MOXKnL6A5MucIqbNuVAyAR+D41navLw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}

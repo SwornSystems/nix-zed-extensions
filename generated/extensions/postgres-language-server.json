@@ -1,13 +1,13 @@
 {
   "name": "postgres-language-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "src": {
     "url": "https://github.com/LoamStudios/zed-postgres-language-server",
-    "rev": "a3e14880269d032231ea1a6c6fa35e349987fc62",
-    "date": "2025-10-02T10:42:21-07:00",
-    "path": "/nix/store/chy257mf1yzvgjwp46k5vc3kk49x2vkc-zed-postgres-language-server-a3e1488",
-    "sha256": "0z4fdrx6za9ggx942k12jvl04cqxs81s80q3a1yidk7fkrl0r2w3",
-    "hash": "sha256-g4sMaJ7uzBZ9UAMDpAPSHTMC6JYiTEFSfy+pb3pujnw=",
+    "rev": "776d9c7c3010bf679d019665781866901f398628",
+    "date": "2026-09-30T20:59:04-07:00",
+    "path": "/nix/store/cxs8dirbx7h2l63vl6zpvl60kij3a3ch-zed-postgres-language-server-776d9c7",
+    "sha256": "02dd1lc7g4mbvmrmnrsw8wd2bpx8xxla4l03dg969hsz88vfivl3",
+    "hash": "sha256-g+7oNkJfw2TSawNQomjvqN8lGkdcZ1tz3auSdxgNrQk=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-XFntZ9V8fq2/756hpKV7iFI5UqtG9tFYu9KqkSyPH5U="
+  "cargoHash": "sha256-uBLHlu1lDeczTpSTliFczp8ojJqlP2XJhbBLr6z7S/s="
 }

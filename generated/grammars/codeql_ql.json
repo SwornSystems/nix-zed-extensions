@@ -1,0 +1,18 @@
+{
+  "id": "codeql_ql",
+  "name": "ql",
+  "version": "5b8ee9adaa1f2a1ea958064b61f8feb0a5a886c0",
+  "src": {
+    "url": "https://github.com/tree-sitter/tree-sitter-ql",
+    "rev": "5b8ee9adaa1f2a1ea958064b61f8feb0a5a886c0",
+    "date": "2026-07-11T00:52:24-04:00",
+    "path": "/nix/store/q4pcsm64bpyxshaaplv5s80y0drbr9aq-tree-sitter-ql-5b8ee9a",
+    "sha256": "0bds8y6c453z0a34hnvigmvzdq07i44987dj13m5ff7b8d3za532",
+    "hash": "sha256-YhT1R0PrOFfqCLIdlAiJB+D2d31xW0iGAn8UwoxHui0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

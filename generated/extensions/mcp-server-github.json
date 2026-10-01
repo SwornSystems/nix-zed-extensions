@@ -1,13 +1,13 @@
 {
   "name": "mcp-server-github",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "src": {
     "url": "https://github.com/LoamStudios/zed-mcp-server-github",
-    "rev": "b92fd51f7d727b1b9cab0e30f2d0082a7e088d24",
-    "date": "2025-10-02T11:29:51-07:00",
-    "path": "/nix/store/j64s11ip36s54gcphp6p5slxv2q3qrf4-zed-mcp-server-github-b92fd51",
-    "sha256": "0dippsz3pl9dvfqb964rc9dxv0wfn30hk41z8h6iy66azc90l6g3",
-    "hash": "sha256-4xkKEvvKGB8NRD+QCcGwjoPdW2KZmLSw2y3RO76+NzY=",
+    "rev": "898709d6bdee72c79b3d256fd88f8c7cbe717f2a",
+    "date": "2026-09-30T22:21:24-07:00",
+    "path": "/nix/store/bk4svy21z235g1338v88hja7ijkj5r8k-zed-mcp-server-github-898709d",
+    "sha256": "0q50hayycb0826rrbv809ihdpgj7yan5ag46flk7q891zh7s5ix0",
+    "hash": "sha256-oMeiD/whIXwmdYY8VazyR77bYEwA7ZWzEQgs5r2CoGA=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-C21J984GVV7sctOXyow148ts/M7oBBYEAsccDUjoeSw="
+  "cargoHash": "sha256-CPdMocp0DB+1G9d3chZQq5loNgudkQBloEo+tMyL3EQ="
 }

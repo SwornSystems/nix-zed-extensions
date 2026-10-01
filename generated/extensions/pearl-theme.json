@@ -1,0 +1,19 @@
+{
+  "name": "pearl-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/olllayor/pearl-theme",
+    "rev": "bcefc3202428a892c76c5114a1f35e02cfc36a5e",
+    "date": "2026-09-29T11:51:50+05:00",
+    "path": "/nix/store/0inl518h7nrrifmj4bd4gdybrl7m0b9c-pearl-theme-bcefc32",
+    "sha256": "0jk7fvkb42k1l54k0c578w3dx4xg0k2syqw38770nvf3pxlmpr9j",
+    "hash": "sha256-MuVbab/DbQvOQYNjr8UEr5PeBkenMDBJoWEKsuZ2Z0o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
