@@ -1,0 +1,19 @@
+{
+  "name": "fun-web-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/omdxp/fun",
+    "rev": "1b92f2cee0759a626e17528c4de953b69d3fbce2",
+    "date": "2026-09-29T08:06:37+02:00",
+    "path": "/nix/store/q934j9mpnf872qjn97564k20slnl51fl-fun-1b92f2c",
+    "sha256": "025xnai6sq27qc6c9rb0pvkjbzqa35c3y76ixpply05qlyv4p2az",
+    "hash": "sha256-X4lLtqe4AE/v7dEcP1gZCv8l575g5cQMw0dgbaKyvQg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "editors/zed-theme",
+  "grammars": [],
+  "kind": "plain"
+}

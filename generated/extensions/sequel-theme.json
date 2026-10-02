@@ -1,0 +1,19 @@
+{
+  "name": "sequel-theme",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/sequelcore/zed-theme",
+    "rev": "32942be5ec720cd05d42a654147fb13934f4cbf4",
+    "date": "2026-10-01T06:43:51-07:00",
+    "path": "/nix/store/nkiznqf7s7k7q36dkb5x5hzc4f419l2n-zed-theme-32942be",
+    "sha256": "1fxhpwaaxh6fig4wb5aaa6byx1rnmjj08l7cnf82njga01vmff90",
+    "hash": "sha256-IDlXdwDqSSuQs+xQBKSsNoful1FKlcXJi87ArhS/sLs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "pure-black-high-contrast-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Dhanush-S-Gowda/zed-theme-Pure-Black-High-Contrast",
+    "rev": "b9053f400eeee377b3d94d80bb76378823fab8c4",
+    "date": "2026-09-29T10:18:27+05:30",
+    "path": "/nix/store/0jp7cbvpwmriiins5jjnzzin20qbnznk-zed-theme-Pure-Black-High-Contrast-b9053f4",
+    "sha256": "00wyarhbhvd6drijpiyvxr3yld9hxcg6i4yij4hhh1qn5chjixsg",
+    "hash": "sha256-T/coISsWBwghkdGTaB7rMDXqR+7bxytjbqZtuGBWngM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

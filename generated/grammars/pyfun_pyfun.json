@@ -1,0 +1,18 @@
+{
+  "id": "pyfun_pyfun",
+  "name": "pyfun",
+  "version": "64b6faa691d81883f80d377d1a5103858da97c42",
+  "src": {
+    "url": "https://github.com/simontreanor/Pyfun",
+    "rev": "64b6faa691d81883f80d377d1a5103858da97c42",
+    "date": "2026-08-02T19:34:18+01:00",
+    "path": "/nix/store/r6i787cnqwwrjdfj67lb2cgfa6dfivwf-Pyfun-64b6faa",
+    "sha256": "1b37fn4hbj0lyv0jhpd4x7qlmfky7hfhlbgzznlv3s42z2mqcjqs",
+    "hash": "sha256-GkuGq/iC6LGp/f8tCh08frpK8emkXSjB9hTIBYl1Z6w=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "editors/tree-sitter-pyfun"
+}

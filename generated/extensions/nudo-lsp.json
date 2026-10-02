@@ -1,0 +1,21 @@
+{
+  "name": "nudo-lsp",
+  "version": "0.1.2",
+  "src": {
+    "url": "https://github.com/nudojs/nudo-zed",
+    "rev": "715062c1cb4890bd03958b0c06c913060c7badf8",
+    "date": "2026-10-01T00:57:32+08:00",
+    "path": "/nix/store/pbvlr0c3yn4isngzscdcxgynlvh4cl16-nudo-zed-715062c",
+    "sha256": "0j32j211bbxhrf7byxyiahda6lh7q2ivk91jl87crrykv5aqi6kc",
+    "hash": "sha256-bJqIVdnT58wOojKkuaPAB1KjGlTRd7+Oy7CvFYKQYkg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-F/ePWVghmcB8b8LEcyk8FMNIoiYsrD5IaRRPf+xUTUY="
+}

@@ -1,0 +1,18 @@
+{
+  "id": "overpassql_overpassql",
+  "name": "overpassql",
+  "version": "01bf1e7de0e9c8eebbe8974c06634d846836cd1e",
+  "src": {
+    "url": "https://github.com/edwinkortman/tree-sitter-overpassql",
+    "rev": "01bf1e7de0e9c8eebbe8974c06634d846836cd1e",
+    "date": "2026-06-15T12:41:14+02:00",
+    "path": "/nix/store/z58mfaqj3i16d3rw7b5z0p3p88ix6941-tree-sitter-overpassql-01bf1e7",
+    "sha256": "08j37r4xsx86nakcam9nmpq547zjkdl2626sdz267d1dhx2ygd3b",
+    "hash": "sha256-a7TnRYcttGPEb9oII2ib8h9S8K02VcWmsgZ13Uk+QyI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

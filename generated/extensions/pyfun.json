@@ -1,0 +1,23 @@
+{
+  "name": "pyfun",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/simontreanor/Pyfun",
+    "rev": "3b06a1ecca568520fb4a691bfe8c19391613081e",
+    "date": "2026-08-29T16:18:09+01:00",
+    "path": "/nix/store/k3bklpskffi3hpdnyjr93jrf8fm8sxg0-Pyfun-3b06a1e",
+    "sha256": "1zca01fhxgcs8q39vin794pdp0njvbwfdbcn2yw6aqp1dcr4mm1h",
+    "hash": "sha256-MNRKMmvhYmW4F5at5vja0oLbLknHxp0GRpq9Dl0Aiv0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "pyfun_pyfun"
+  ],
+  "kind": "rust",
+  "cargoRoot": "editors/zed",
+  "cargoHash": "sha256-yomiFlHPYX6bET8GxlpEmdpcpH0+5hy5u4D4eJIGQzA="
+}
