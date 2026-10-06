@@ -1,13 +1,13 @@
 {
   "name": "vala",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "src": {
     "url": "https://github.com/FyraLabs/zed-vala",
-    "rev": "441a415c2a5df0a3b8b2d943ef7c71e32519a90b",
-    "date": "2024-08-20T12:26:55-07:00",
-    "path": "/nix/store/kinm4x44bggiqacs8wdra1i6xzgx85ml-zed-vala-441a415",
-    "sha256": "1xv9sbrajm2471lxhm1i546grhh42f25yn0p38vv9ci5f6y4hpq7",
-    "hash": "sha256-B19IvHElsrQ3GhdYX4QTBML8DCkxVNhpOERUqfLSafc=",
+    "rev": "a27f907292b1d858e7cba84e5582ab2c13c81cee",
+    "date": "2026-10-04T23:44:50-07:00",
+    "path": "/nix/store/nd2wc0025fasvhrnih58v4pzi0wvnkva-zed-vala-a27f907",
+    "sha256": "0scwj0qxd0i2nnhfdndffcsygidls9janv6qv309l95rc623vz17",
+    "hash": "sha256-J/w9hGG5JJrA2Nhsq2TStMXnNXOu2eagtSKC1jGQnGk=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-EXQTQnsOyDJlDUb2/4Riq8/MxwPruUdZkOlvPV3LYgU=",
+  "cargoHash": "sha256-gHo4DW0FOEZdV4k33Q9BceDdLsBPGO3QdBvH3EffvEo=",
   "cargoLock": {
     "lockFile": "/generated/extensions/vala.lock",
     "outputHashes": {}

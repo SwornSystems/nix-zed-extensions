@@ -1,13 +1,13 @@
 {
   "name": "mjml",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "src": {
     "url": "https://github.com/pataruco/zed-mjml",
-    "rev": "6e1867f37873fc0648cc58d24eb779de2f85d0ae",
-    "date": "2026-06-16T15:05:43+01:00",
-    "path": "/nix/store/bxl4s0z7imcns6nwrxh2zyfrdnmabapk-zed-mjml-6e1867f",
-    "sha256": "0246h91rh9660ynyi6232albsbkhmfvbh75i906gkd4wp142w928",
-    "hash": "sha256-SCQuSLictPkMSLEcuLarcC69qBJDmOitB8YkmEOChgg=",
+    "rev": "3f22de9058e328c5a3ef73fc16e94a167adb7b42",
+    "date": "2026-10-04T18:14:27+01:00",
+    "path": "/nix/store/iy2syf2bm3q8qr1jk53wz41kyjkk560i-zed-mjml-3f22de9",
+    "sha256": "0spqb17by62lz1vlca57m1w2sqflwf0ld8pk7qd7sz6qvznvc0v3",
+    "hash": "sha256-YwO27d/YfH0aPvOiRoHj1GEteKinKEZ3+FQYv05Y+Go=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-wPMHAxslVXTWbhW8tRMrErw3LdOnf++xlndxiU5ZXos="
+  "cargoHash": "sha256-dCTGiN4g4DZ1Htk9vl9I81DJ8P7LmXXcovorr0HblE0="
 }

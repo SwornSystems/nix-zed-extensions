@@ -1,19 +1,19 @@
 {
   "name": "pearl-theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "src": {
-    "url": "https://github.com/olllayor/pearl-theme",
-    "rev": "bcefc3202428a892c76c5114a1f35e02cfc36a5e",
-    "date": "2026-09-29T11:51:50+05:00",
-    "path": "/nix/store/0inl518h7nrrifmj4bd4gdybrl7m0b9c-pearl-theme-bcefc32",
-    "sha256": "0jk7fvkb42k1l54k0c578w3dx4xg0k2syqw38770nvf3pxlmpr9j",
-    "hash": "sha256-MuVbab/DbQvOQYNjr8UEr5PeBkenMDBJoWEKsuZ2Z0o=",
+    "url": "https://github.com/olllayor/zed-themes",
+    "rev": "7b71a918d105a2a5bf507cfb84c6606ea1f4ba34",
+    "date": "2026-10-05T22:53:01+05:00",
+    "path": "/nix/store/093mz85w848fxm08vars192clg6nh5sn-zed-themes-7b71a91",
+    "sha256": "0g33a6ax5swjna3d2p7abq2rrbwbxdn00ql1qyy76y66f1b19sai",
+    "hash": "sha256-UekUVnDGeHO8x4FiAGzri6+cBV7qXNGGspLr0pVRYzw=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
     "leaveDotGit": false
   },
-  "extensionRoot": null,
+  "extensionRoot": "pearl",
   "grammars": [],
   "kind": "plain"
 }
