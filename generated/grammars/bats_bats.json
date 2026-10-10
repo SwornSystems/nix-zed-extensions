@@ -1,0 +1,18 @@
+{
+  "id": "bats_bats",
+  "name": "bats",
+  "version": "680b1b0ae85f8126c83648822d2952565a151cc3",
+  "src": {
+    "url": "https://github.com/nertzy/tree-sitter-bats",
+    "rev": "680b1b0ae85f8126c83648822d2952565a151cc3",
+    "date": "2026-10-08T12:15:28-05:00",
+    "path": "/nix/store/n3q0dw7j57di08s2bf8nw1smqnq4znzq-tree-sitter-bats-680b1b0",
+    "sha256": "0rk2avp4i48xgh51y4wv0s4m162lsa89rm36vggjy18nq973czj7",
+    "hash": "sha256-R342TsIWBS/f22bUnJDSVJhQiQabEx8KfB2RSO5WYmY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

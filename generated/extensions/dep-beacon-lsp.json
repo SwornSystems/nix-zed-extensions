@@ -1,13 +1,13 @@
 {
   "name": "dep-beacon-lsp",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "src": {
     "url": "https://github.com/santi020k/dep-beacon",
-    "rev": "a09fee6eb1ec759fd434ca5746712d91f9b007d9",
-    "date": "2026-08-31T16:49:56-05:00",
-    "path": "/nix/store/fxw2py1y8fjr808s0zllyim4inph62zh-dep-beacon-a09fee6",
-    "sha256": "1b6vs6miqpgj169cz6n879hli67brl68ynp2xk70a2fqhgafqc7s",
-    "hash": "sha256-+jDs1IPYCQXO7OJajwzN65hIYTrIms+SCfJdHKvR26w=",
+    "rev": "2105e4efacd90e81b242bb058378382c9d03bdbc",
+    "date": "2026-10-08T15:37:44-05:00",
+    "path": "/nix/store/xhjyharfqyq979bfigka1wdm5s1si2f9-dep-beacon-2105e4e",
+    "sha256": "02a04bb0318nnfay4xflsmqf5gk2f6d10y1allhwvk68sh8vigmx",
+    "hash": "sha256-vb64EdTIzM0hpSp4EJpxYr7icNXUdeKVsxaFAdYiQAk=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": "extensions/dep-beacon-lsp",
-  "cargoHash": "sha256-0CdVWasN9C/+Zo/PxbxeWD8byI5Nthse/++TcxZek5I="
+  "cargoHash": "sha256-rOQSOmdTx2Ap3YgD+I32mGN1ynfOQpfV7ZZBRqlV6s8="
 }

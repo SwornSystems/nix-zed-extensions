@@ -1,0 +1,21 @@
+{
+  "name": "bats",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/nertzy/zed-bats",
+    "rev": "5b0c06b1787813a0b31f6e8d45fd6d83a50376e7",
+    "date": "2026-10-08T14:27:35-05:00",
+    "path": "/nix/store/v48djawmh0pv6fnry2pb3b6icrp2bna2-zed-bats-5b0c06b",
+    "sha256": "1jjnlgfag7qwxpgcra0zwdgkdgpnw6iyabnpmph0pr4y2bpzhlnx",
+    "hash": "sha256-3VL47xKe5Avgrdcu5aPh9r42X+MfqMze7Ryfp9yjVso=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "bats_bats"
+  ],
+  "kind": "plain"
+}

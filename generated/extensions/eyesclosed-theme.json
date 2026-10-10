@@ -1,0 +1,19 @@
+{
+  "name": "eyesclosed-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/thdxg/eyesclosed",
+    "rev": "9f60bc66b9eddd7b21f7584ed5d43b792dd9a4fe",
+    "date": "2026-10-07T23:20:44-04:00",
+    "path": "/nix/store/g5l9dpvfnpnkd96449r83zdv49ghk9bd-eyesclosed-9f60bc6",
+    "sha256": "07xcakrlyxc35r0lyw7xxqlinvwfx4jg7fjfi9l8156y2wg70ynd",
+    "hash": "sha256-zXpwHhfelIBoik668yTpjm8bKe79cE9BLoN1T/NUrB8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "themes/zed",
+  "grammars": [],
+  "kind": "plain"
+}

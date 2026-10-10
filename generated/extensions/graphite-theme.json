@@ -1,0 +1,19 @@
+{
+  "name": "graphite-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/lazyanubis/zed-graphite",
+    "rev": "91d49b5af8dfc283f690ed05172e87d94da9da59",
+    "date": "2026-10-09T17:41:53+08:00",
+    "path": "/nix/store/4bdbhllrr6kkyarxpf00dglz022rqqic-zed-graphite-91d49b5",
+    "sha256": "1l29941h2dxiy7dvm9dgngq0pklxs51mjpf7yl2cx2ib97r2c0gs",
+    "hash": "sha256-+gEm8kkris4E9cddWUPRnc4L8LOvpbrb8bE3AQNJSdA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "funky-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/maxgb23/funky-theme",
+    "rev": "b5e283faad57318e0b2cac8d5c19629fc0960be2",
+    "date": "2026-10-06T16:08:59-06:00",
+    "path": "/nix/store/r84dhb0p40ilglc1daxxp2a0r3qifbqd-funky-theme-b5e283f",
+    "sha256": "0kxyfklg39mvxhqy815k97ahh3hh6ilyfsj7dq0n4b6agn2bi8rv",
+    "hash": "sha256-O6O4hH3KLGIBbkdq52k0EA4I1UmzBOQx7Lum8eh0vk8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}

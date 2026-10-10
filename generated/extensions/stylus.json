@@ -1,13 +1,13 @@
 {
   "name": "stylus",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "src": {
     "url": "https://github.com/WMikhail/stylus-tooling",
-    "rev": "a1cd8fe1865cb60dd7c4cde940c0b2514da409a6",
-    "date": "2026-10-04T16:17:03+07:00",
-    "path": "/nix/store/7yjnbnfi8b6yymwv0aicwmbpqbk6hiv1-stylus-tooling-a1cd8fe",
-    "sha256": "06h0mwsj96n303y381a0jws9yhwyy7wbn68alimf2y8pvji96fwk",
-    "hash": "sha256-kzuTotwXeeFqpAoZu/jxnkOfNJdABTT8AMOaJDWvABo=",
+    "rev": "c7a8b0a8f47a9caa288f9f4d84735268c072bf62",
+    "date": "2026-10-07T13:46:29+07:00",
+    "path": "/nix/store/s5iaxxpbjjv2nwad06anzimga78bs6fk-stylus-tooling-c7a8b0a",
+    "sha256": "14jf32m5hplc4vhi6iggfwh5xyxcc11mzjf5rfqqgz18bwhah82q",
+    "hash": "sha256-WCCoIF8o/Iexy8XJX0NgrPteIHfvRRPhJoxeWKoYTpI=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": "editors/zed",
-  "cargoHash": "sha256-MT9o2CR60iNqbXLVa7USwdBllhy3MSCCXfGuNpoVlbw="
+  "cargoHash": "sha256-A56TnaZ0YcMPWFHIJmQKMLgavrOTHi7a4/E6+GC4Nng="
 }

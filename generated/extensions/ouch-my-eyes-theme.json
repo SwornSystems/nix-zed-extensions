@@ -1,0 +1,19 @@
+{
+  "name": "ouch-my-eyes-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/KevBeltrao/ouch-my-eyes-theme",
+    "rev": "bb8d390afe9b92c2bd67fc98b8acc7f2cab4adb3",
+    "date": "2026-10-07T16:02:15-04:00",
+    "path": "/nix/store/qhhwnm6lsy2g5szyi8khpkzp0xgdmzqd-ouch-my-eyes-theme-bb8d390",
+    "sha256": "1899c9fjnykrbav60sgzmdpl9ri294zlbis9nzdji4149ijsg9yb",
+    "hash": "sha256-y6enZUwkkCjbt0nHRT9JIuZEb6v/aWC2Wnl6K11iKaE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}
