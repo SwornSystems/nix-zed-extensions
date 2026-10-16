@@ -1,13 +1,13 @@
 {
   "name": "cargo-appraiser",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "src": {
     "url": "https://github.com/washanhanzi/zed-cargo-appraiser",
-    "rev": "0473314986d1c744d675a77cd4218768a5587774",
-    "date": "2026-01-13T21:49:55+08:00",
-    "path": "/nix/store/p3ydagsqjr65nnxvshbhf6li0fkhsl5l-zed-cargo-appraiser-0473314",
-    "sha256": "1vxlzn8jfyl8zj92vp5ybc87c64j5f7v6xc7cqh5mfq71zlk2fp4",
-    "hash": "sha256-5Dox6Q8Hu1ogZod1s48rkhh2EFu+3C2S/Ih6J5H9tO8=",
+    "rev": "de781dc946116a02bdcac933f669fa5f5e42f7aa",
+    "date": "2026-10-09T20:12:04+08:00",
+    "path": "/nix/store/f8mrpp1h2gnfha1fnldxh88n931m5bzg-zed-cargo-appraiser-de781dc",
+    "sha256": "08h7ig5pzk17jdr7csrjmns222kjfawqd9wky8jrf45ib1a8hfr7",
+    "hash": "sha256-JzuIVFixEJcl8pOnhrlycgohtK0ya3ZykyfMf8uLByI=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-zm4dIyb34QK1tUtNaltHyWgmWsLi4b3n4HvGL8zx9II="
+  "cargoHash": "sha256-c0wbm3Dm14jAK0PEA7+gv2sE2fiWEVRPsPuDjYUtZxI="
 }

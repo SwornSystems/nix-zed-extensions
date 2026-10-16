@@ -1,0 +1,21 @@
+{
+  "name": "odoo-lint-lsp",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/bosd/odoo-lint",
+    "rev": "a762ddbccf269563eea8a40135d6cdd36dba0e3f",
+    "date": "2026-10-12T13:14:35+02:00",
+    "path": "/nix/store/h1wjfwlwpvb4k1qp63shgh1gqwrhk968-odoo-lint-a762ddb",
+    "sha256": "1kb54hrwj95izb8n0zjslz34527qi1kndqq4nn0hqks7i7h9m1sm",
+    "hash": "sha256-VYea4IlHTwyBtQTjZmeI+IhCxqdafmDR+rEkyTMkZc0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "integrations/zed",
+  "cargoHash": "sha256-eJmR4acF9JkatEf8UW7QTSvBfjYiiaVb9V6E+QvDtDg="
+}

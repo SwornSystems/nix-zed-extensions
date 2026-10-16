@@ -1,13 +1,13 @@
 {
   "name": "beast",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "src": {
     "url": "https://github.com/phtn/beast-ext",
-    "rev": "deedc76867bf93c385fb5ef00ed03f64891e4d9d",
-    "date": "2026-09-15T06:01:43+08:00",
-    "path": "/nix/store/p0fd06xkbfnp84xl680r7q8kry4lwx44-beast-ext-deedc76",
-    "sha256": "188rgxbq80mg7wg9p90dv02ab25vkvzw11y7cim7xbjl89py6vr4",
-    "hash": "sha256-JG/jb0JUrn5qZMeHwP+eu4ilBNgNpJseP68ChFd/GaE=",
+    "rev": "5a6c21fe25638073b9b8a5acc2b95ee365daa6c0",
+    "date": "2026-10-10T12:24:41+08:00",
+    "path": "/nix/store/rj7k3cf8rrgk1wmkfbxkfixqvymnji9s-beast-ext-5a6c21f",
+    "sha256": "1lszl9ka519bbzbn164b6pxv3pz7fyi1rqd6cvgj8p45cbm2apg1",
+    "hash": "sha256-4V0l6mKFXCTfZqbhHKJ359+x+zWLmGDXXyuFomaiX9M=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-qpVYAN9pEjaD4vQndSx3kgKU4dCLyJfUYKAWrkUaaaI="
+  "cargoHash": "sha256-9u4TJMzBAUwImkjMbvxcvJ10vyVDi8Omav7UZP/8ceg="
 }

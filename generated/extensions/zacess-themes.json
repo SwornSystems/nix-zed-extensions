@@ -1,0 +1,19 @@
+{
+  "name": "zacess-themes",
+  "version": "0.1.4",
+  "src": {
+    "url": "https://github.com/zacesshq/themes",
+    "rev": "02ea3303e1a5da0772a130aa8cf21e0b7a7a3695",
+    "date": "2026-10-14T02:08:11+01:00",
+    "path": "/nix/store/5aky1mzlwiy9d4brf4ynkv0f57hq56qj-themes-02ea330",
+    "sha256": "0ryyx6h6clb0qb1dy646dxh4xsr4v21gbk2g2qr9fmxhmfwi9yvc",
+    "hash": "sha256-bPsUuauwV5cyFk/M9YLYJOtOYG+GGN/CwmBRZqDp3mc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "editors/zed",
+  "grammars": [],
+  "kind": "plain"
+}

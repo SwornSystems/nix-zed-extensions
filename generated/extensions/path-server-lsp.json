@@ -1,13 +1,13 @@
 {
   "name": "path-server-lsp",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "src": {
     "url": "https://github.com/kunlinglio/path-server",
-    "rev": "42ab7bb0938b8cc0f6b351727035861490a77dee",
-    "date": "2026-10-02T12:15:26+08:00",
-    "path": "/nix/store/8n152vwnxyz3sqnm31x7mz4ypy8h2vn3-path-server-42ab7bb",
-    "sha256": "1dzv6vq9vm3m9xdidi5mgifkiyccn3gkc79azf8g5z06zql0v031",
-    "hash": "sha256-YYANKP4G/PKQ+yodNt+wjPk4XXy1xBZbT3XUnfA2+7c=",
+    "rev": "32cb8cf6442eacf921a915e811cfa0fa50a5530d",
+    "date": "2026-10-13T22:39:44+08:00",
+    "path": "/nix/store/f3njc4ac8k95fgg4qb3cyjl3p072nmhy-path-server-32cb8cf",
+    "sha256": "0cfvm5rmfqj4fp0js4h8ya7hzf11qs32lc8sl30dn1iwinr9czw0",
+    "hash": "sha256-gH+Wso08BtvAoBoxKobGIbgPj/IIEi3BdURiV3Op2zE=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": "extensions/zed",
-  "cargoHash": "sha256-rJeviYj4KjxOSBuX9D1DwsoAZCWF8UvkdSr4OcYFRY4="
+  "cargoHash": "sha256-FcftuPC/orD1YHVT6n9dPeA3+5SqUSmGVpieG0FrOHo="
 }

@@ -1,13 +1,13 @@
 {
   "name": "clice",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "src": {
     "url": "https://github.com/clice-io/clice",
-    "rev": "8f74adf2b9537e37ea5ea556f6e6a27a38e853a3",
-    "date": "2025-11-28T01:46:51+08:00",
-    "path": "/nix/store/awxlihkpj5i98gmfv1x7ksdyxh0frrv2-clice-8f74adf",
-    "sha256": "1yi9gcrbpzfgqs5ag29r0fnql5vkkl4ki9p7m4wzmydwbqg1d6jd",
-    "hash": "sha256-TZoWHl68+fo5qeemOAmdcxeKrQM5iaeKxs/9uzJ7Kfo=",
+    "rev": "37c2351cf6fc9dbdcb1a068196f2e88d735af896",
+    "date": "2026-10-16T13:38:28+08:00",
+    "path": "/nix/store/706fbz80d0plbqk83cj2gim6f812ywhd-clice-37c2351",
+    "sha256": "0333v802472a7b247cdkjg05czhr69pxzz9b230029dxl9cx3sjp",
+    "hash": "sha256-V+rRWaK9JQHAECv9328yGX5WwJOzsUPEOkocIgDaYww=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": "editors/zed",
-  "cargoHash": "sha256-pV2pUTJu0qe3744OzlUslAsgN22U5xiAMxDnsKy84dg="
+  "cargoHash": "sha256-s/ydKhrIeDBYtgaBG0jeqdgyTu2Mfq6Y0nZ8aDPgDgc="
 }

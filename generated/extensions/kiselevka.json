@@ -1,0 +1,19 @@
+{
+  "name": "kiselevka",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/kdubrovsky/kiselevka",
+    "rev": "0fe47f94bbfdf91fc9436c4113792d03b2f7a150",
+    "date": "2026-10-14T13:05:05+02:00",
+    "path": "/nix/store/arfq1jpga4my247wh9rmxx5q8zn8bpxc-kiselevka-0fe47f9",
+    "sha256": "0q96sjnvl51z6kpvr13k83rn2v69fhx7wjl12l6lxgbvfl7ki09a",
+    "hash": "sha256-KoE4D3V7vU4NFYFKfjp0yWxh80BzhLzvND8Uuq3UJmE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

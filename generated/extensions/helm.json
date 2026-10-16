@@ -1,13 +1,13 @@
 {
   "name": "helm",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "src": {
     "url": "https://github.com/cabrinha/helm.zed",
-    "rev": "37c68e4286037fac5df26fbfbebaab8e8a5de2b5",
-    "date": "2026-09-03T09:41:41-06:00",
-    "path": "/nix/store/g480nddnrfr6kjpp50fjahwhndnb6rhd-helm.zed-37c68e4",
-    "sha256": "0w25y65zq1qskbq2nyikwg1k8q8jy7mg28qadn7r0vyjkip8j4b2",
-    "hash": "sha256-YhGJbpzSb5CPbQoj8erxEmE0w+MzeivwmhoH/IvxRXA=",
+    "rev": "fea532873fb5102d99260a71ed2e6be515919afc",
+    "date": "2026-10-12T21:02:14-07:00",
+    "path": "/nix/store/y6y1n90528xa5izf3iwimavpwk6dbid7-helm.zed-fea5328",
+    "sha256": "1wfz3g5cax7007qj54acd6v8kybi8z920fpgj7qsvivjajrhi210",
+    "hash": "sha256-IIgIs1Ryx63xke86INJHcfmJtmlMkSLxAeB0xcob3/E=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-js/hYjP17W6jNLfvEu4Z0WvLSAXTwy1sal+JQRhExKE=",
+  "cargoHash": "sha256-VG0oWJE7h5JTmxaxrkoyEk7Fgg7W3JFjIF7pVEsR8BQ=",
   "cargoLock": {
     "lockFile": "/generated/extensions/helm.lock",
     "outputHashes": {}
