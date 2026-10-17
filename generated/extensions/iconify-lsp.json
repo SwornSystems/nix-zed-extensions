@@ -1,0 +1,21 @@
+{
+  "name": "iconify-lsp",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/PleahMaCaka/zed-iconify-lsp",
+    "rev": "ea3482f4458b60c5758924a7ff74550bba3f423e",
+    "date": "2026-10-16T19:58:52+09:00",
+    "path": "/nix/store/bkgy0wm8ig218g4bq1vka80qzpi1pd9z-zed-iconify-lsp-ea3482f",
+    "sha256": "025a9fb8zv5mvqiv7gc8045f82byvc59wbxzhrs3ax2izyg8s5qq",
+    "hash": "sha256-GBeNnv9RdDV0hr8vngrbfgnkCgGIvbMj3rXsj5ZLqgg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-zwh15owJqexwHtEzUL1Jl7a32aZUO9ahHdmWLVN+AV4="
+}

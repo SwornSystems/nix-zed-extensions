@@ -1,0 +1,19 @@
+{
+  "name": "magreen-theme",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/sunaipa5/magreen-zed",
+    "rev": "eec541b8136ae6f664bd9cfc8c6d432cfbd67bd2",
+    "date": "2026-10-16T14:49:17+03:00",
+    "path": "/nix/store/m2jxg5mhygdccc9jayz888z2d5r14yg6-magreen-zed-eec541b",
+    "sha256": "03wl9af38klfbvfhx4jp88bgndyh895rlzv7b58nfb0k1clb1b6f",
+    "hash": "sha256-zqywKAsTLGdRWWd/mktC0Df7FkJXkg7dXo5ONJxKlA8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

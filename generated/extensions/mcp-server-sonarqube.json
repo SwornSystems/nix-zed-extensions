@@ -1,13 +1,13 @@
 {
   "name": "mcp-server-sonarqube",
-  "version": "1.10.0",
+  "version": "1.29.0",
   "src": {
     "url": "https://github.com/SonarSource/sonarqube-mcp-server-zed",
-    "rev": "168942829e5ee33892268a98820683335c337db2",
-    "date": "2026-02-23T10:38:29+01:00",
-    "path": "/nix/store/bfks5ggy1z5a3z7hgvmj4zcya1lx7h77-sonarqube-mcp-server-zed-1689428",
-    "sha256": "1cckhyin0fajf9gljfxk74p86r0pb7892gm2a5yp5fl6k37ixcmz",
-    "hash": "sha256-v7Iez5iGunJ9UaI+kdBZF2SDLjmzO0lfclI5YKOHk7E=",
+    "rev": "81a17e8fdc12312df45e61df96aa530d46a3c044",
+    "date": "2026-10-15T12:04:09+02:00",
+    "path": "/nix/store/8vy5rhcygr3hrhgxarplh9cy6jshmss9-sonarqube-mcp-server-zed-81a17e8",
+    "sha256": "139yiw2ngbwnlmvq0av04n3a36rjrfw3ijm8iggkfnazvymllaa1",
+    "hash": "sha256-QSlKq99fWTffi6jKOLjLMpuhhiVgK4B3pZavZwWPPo0=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-5LmihdHtHIekQ373avbeTUD++FueO7/5WJvphuZ2zGs="
+  "cargoHash": "sha256-lrvh4v+RTwmQN8KGTDug2Qg9/QyGLeofh7q3VIfxNoY="
 }
