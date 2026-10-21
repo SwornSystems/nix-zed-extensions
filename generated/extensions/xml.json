@@ -1,13 +1,13 @@
 {
   "name": "xml",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "src": {
     "url": "https://github.com/sweetppro/zed-xml",
-    "rev": "81e5440c70135e1783ad8bb8f260e41bce0a6b35",
-    "date": "2026-07-29T06:43:18+02:00",
-    "path": "/nix/store/zc05sh9d9rccmpfwjrxbglf7lhmjdrw7-zed-xml-81e5440",
-    "sha256": "1jf693a3rpyawm5qjw4ljlr4552jyjnryc9svs7bhvyp6by5ivaa",
-    "hash": "sha256-Su1Y/DLXb7iO3joxn630UpRCMpWUcIlL5crfPNRIxsk=",
+    "rev": "d4750d4ec15f8bcaae5db512e6beb00aac586aaf",
+    "date": "2026-10-15T21:32:34+02:00",
+    "path": "/nix/store/8clqbckpnhdad1q754iz03jlqsjvrg1g-zed-xml-d4750d4",
+    "sha256": "1ip1ih2qczavd5pdxpxzn0ndgyhh9xajpsradl8kfqk6d1ncnb8g",
+    "hash": "sha256-Dy3LbGhmYjcRbSrrK1VPEPrXLLC/395uaVt9hgWM4cY=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,7 @@
   "grammars": [
     "xml_xml"
   ],
-  "kind": "plain"
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-NJ+GM6DJDwLwWSuCOd6nz3dTcfRuIV5E64YSpmgZe2I="
 }

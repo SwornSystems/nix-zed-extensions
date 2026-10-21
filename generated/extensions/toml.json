@@ -1,13 +1,13 @@
 {
   "name": "toml",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "src": {
     "url": "https://github.com/zed-extensions/toml",
-    "rev": "bf828c56c90b1fd6f32ef5786ad5af99c20b47bc",
-    "date": "2026-04-22T09:22:48Z",
-    "path": "/nix/store/3pkf1i1bjfag4diw7dph7d2iic5p31ig-toml-bf828c5",
-    "sha256": "102cgjaiz587bddrn16mcxm34a7awp75460kyqp8al6yrggikrz5",
-    "hash": "sha256-5ecZ38veUIUu9hMYUs7l6igyamfVBJtbWweVH5V8TIA=",
+    "rev": "8e18e5045841f0f265f9c8b89f138c7f7dd09e2e",
+    "date": "2026-10-20T20:30:37+02:00",
+    "path": "/nix/store/l893jpcvb0x1j8kra8l7fk47lpn2ky3l-toml-8e18e50",
+    "sha256": "1mifzsy99v2y70g2m5gz51d6r5a9xi04z79l9hhrxl9qghkc0wjs",
+    "hash": "sha256-WnLAJnw40Z4hTDSdT0DsSZVsWij/lSoeOF7slLz+LtY=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,7 @@
   "grammars": [
     "toml_toml"
   ],
-  "kind": "plain"
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-i1EMVKDw/XRxWJTeknfj7Wch/MGccx312rHB0vBaIMw="
 }

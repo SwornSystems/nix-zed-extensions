@@ -1,13 +1,13 @@
 {
   "name": "rlsp-yaml",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "src": {
     "url": "https://github.com/chdalski/rlsp",
-    "rev": "070647fc7a8d23a6b77b17eff5383685bdef3316",
-    "date": "2026-06-08T14:04:51Z",
-    "path": "/nix/store/6y15zm0r078s06jahjjm3hm5ka8dlnad-rlsp-070647f",
-    "sha256": "15xy8pq3g9aqiiy43bsd4gzaqh524asdzc3im32dw8wvz2hg5qdz",
-    "hash": "sha256-v+HyoPibI97EqHGw37QiokCs/iNNr0F8jFilN/BFvpc=",
+    "rev": "9a614cfd4517d009de5a441d4692a8aca6440d21",
+    "date": "2026-10-16T12:01:31Z",
+    "path": "/nix/store/adb94grb3f0zchbyv47fscysrbyn8abi-rlsp-9a614cf",
+    "sha256": "1g7mx0fyn99z6y82qyg2sshv60q7z1y54mrgs679lh41z8kix1wv",
+    "hash": "sha256-m4ceJ/qBQJqO0S9XUnz4BwOzodbieSyQNz8l6x3o9bw=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": "rlsp-yaml/integrations/zed",
-  "cargoHash": "sha256-CeisFJQmXWf5ipWGCRu3wm0f9xrQ+lHttgBfsi2pslg="
+  "cargoHash": "sha256-DUY6rvTF9Q2zLkeEWbbo5D13hTKWKnNcu0NDhhJyOv8="
 }
