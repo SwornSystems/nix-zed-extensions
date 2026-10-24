@@ -1,13 +1,13 @@
 {
   "name": "emmet",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "src": {
     "url": "https://github.com/zed-extensions/emmet",
-    "rev": "b71bf38ae1bb7befea4a665a3e2c436598305352",
-    "date": "2026-08-28T14:41:16+02:00",
-    "path": "/nix/store/69kw84xhl4myhaky1ng23ljwl1lmx3m8-emmet-b71bf38",
-    "sha256": "1jwsq1myhzfv15wlqclgdvib05r902wxg8hsqmcbcl60ixi7ghvv",
-    "hash": "sha256-e8N3Yo/AULZYxRqi17kAKRew4m6PMkx5Cdt96GvAmss=",
+    "rev": "aa6ce76eda5cc267d0f8a54a8199fb0f104ec638",
+    "date": "2026-10-23T15:19:31Z",
+    "path": "/nix/store/z8lw14fsra6v4z0alja9wacwlq2zmlaf-emmet-aa6ce76",
+    "sha256": "09sss5ir2qgdyhlllk5bva9w7has1j26hfbipclbh38jvjl5zysq",
+    "hash": "sha256-WPtfqNwSDbgou3E5aIQMWsHDk9qrTEop9O1hkWPRWic=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-VfodlwH9JokJfVqFFkF9JrQkjPVH3cIJhvMztSBituw="
+  "cargoHash": "sha256-IaiVgLLwbum4mcbWCaWLtP68o32io0c7e0CrIPnbyAs="
 }
