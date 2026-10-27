@@ -1,0 +1,19 @@
+{
+  "name": "lucide-icons",
+  "version": "0.4.0",
+  "src": {
+    "url": "https://github.com/kjvdven/lucide-zed-icons",
+    "rev": "649d9b303b0ad0f487906b4f4055408b4026cd75",
+    "date": "2026-10-13T19:18:13Z",
+    "path": "/nix/store/674zdax4j96iljs9k9q8imszzfj913y5-lucide-zed-icons-649d9b3",
+    "sha256": "1y2l06dpmalf7wf089kz8pw33n7zr2kfywmdcgda8p2avg24v7i4",
+    "hash": "sha256-JJ5NxNtKXKTaY61y76bI/9gx+EV/JgQcP46qepsBVPg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

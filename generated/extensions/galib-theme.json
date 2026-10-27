@@ -1,0 +1,19 @@
+{
+  "name": "galib-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/galib-savar/Galib-Theme",
+    "rev": "11cd5c103d6f3592cc983379b478c3cc2bae7cb0",
+    "date": "2026-10-02T20:27:26+06:00",
+    "path": "/nix/store/nz2hmbn7ln0sz77wbvjwkwkm1cmblgwh-Galib-Theme-11cd5c1",
+    "sha256": "1zif30bxvhyrjlynfrz18dkg9li4b4q7xp7kwx4vkb2xyr1qayf1",
+    "hash": "sha256-wXmFQ/ZdrLlJ5/PcfjBZJNL0ZkPhZ2c9ldnD3RcYLv4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,13 +1,13 @@
 {
   "name": "julia",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "src": {
     "url": "https://github.com/JuliaEditorSupport/zed-julia",
-    "rev": "2919de95037653381c9e3f6fc03ee268745713bf",
-    "date": "2026-10-19T15:11:20+09:00",
-    "path": "/nix/store/frjk74cvn66damjmnlq0f97kzdqsk9rl-zed-julia-2919de9",
-    "sha256": "11fhdgyhl3idgsf94ja5vx30m8jxfbq2k532ng2msr20j4kqn86r",
-    "hash": "sha256-2SCLJ5FAZF3Fs2KUKfByXaIKRt9FSZKcfi0OCv1r0IU=",
+    "rev": "3bb336528703f719536de4d09ea7bcb143e03561",
+    "date": "2026-10-22T02:48:04+09:00",
+    "path": "/nix/store/l4kpddidzf35l6kbaa9lcbf0jnq2j5b7-zed-julia-3bb3365",
+    "sha256": "09lm2hpbx7nqk9pag0skvickl446i8m0gv5ggyqx58w07pp9lacn",
+    "hash": "sha256-lima7j2Ao9Kxf6/sByqKhhA6WdxTg6dumtievi4UlSY=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-Djnzc2VMHP7DH8sFTkupVTwU7quavepUQ9Ebbi0ls5I="
+  "cargoHash": "sha256-d2AuWQEP0PEsxnvoCdx6I8dd9Blu98B5P3BL2NgGrn4="
 }

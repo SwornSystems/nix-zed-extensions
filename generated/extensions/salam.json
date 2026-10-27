@@ -1,0 +1,23 @@
+{
+  "name": "salam",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/curedbylethe/zed-salam",
+    "rev": "363329f4b3d2672aa9e2e962ff605846dae52a5f",
+    "date": "2026-10-24T18:33:47+03:30",
+    "path": "/nix/store/hblyyj2n5c8mladgyykwpbddr3jkgb88-zed-salam-363329f",
+    "sha256": "0b9xqrlxx32xgswi4wpkwm82azs5i904q9zxg50cp65k981r3vdp",
+    "hash": "sha256-t+2RA0qzmMtAef0nTECKRX8lUOXzchK5fl2M3mnGPS0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "salam_salam"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-rEPO4hHzr2137fiDlUkR5JYjoGEGN3rqig+iKOX1m2Q="
+}
