@@ -1,0 +1,19 @@
+{
+  "name": "hallows-eve-theme",
+  "version": "0.2.1",
+  "src": {
+    "url": "https://github.com/fredmarques/hallows-eve-theme",
+    "rev": "24a2722873fe16838e2f754e695e36d852b815e9",
+    "date": "2026-10-26T14:22:45-03:00",
+    "path": "/nix/store/jxmjxsbxp6233lkrz2w0glykj45qr0y5-hallows-eve-theme-24a2722",
+    "sha256": "0l56pmyazhcisml5zlx6wddn5ks8jm8rwcw13hl5f42y4x6nqxdq",
+    "hash": "sha256-uHVsTSdeEFcoHIEznlGVSM9iW+Om019o1ZHBr3y9plA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
