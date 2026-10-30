@@ -1,13 +1,13 @@
 {
   "name": "rust-glancer",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "src": {
     "url": "https://github.com/rust-glancer/rust-glancer",
-    "rev": "cd3d160826e389a2c85cbdf3bd4276577588de01",
-    "date": "2026-10-01T16:01:12+04:00",
-    "path": "/nix/store/p7m0dwhnmxcm1m7i4cni8qjqwmq4shbc-rust-glancer-cd3d160",
-    "sha256": "0fx715cxkp5k9xp69r150f2hmswgcq25x54x0p7wfv0a3g4ll9yw",
-    "hash": "sha256-3CdKyRsKbMfPBZ2UXgRmj+sKhQMl5GRuT7Pc2VkJpzs=",
+    "rev": "3c36614b2b6f67e62ed167d90670ca03518b8f5d",
+    "date": "2026-10-21T15:57:58+04:00",
+    "path": "/nix/store/2icnhycx0byzvq17v8cp5i850h8cdibj-rust-glancer-3c36614",
+    "sha256": "1cacxvjg4shf2j4pbrd67dp4ir2fyg842pkqv2vkpq0jcs1v0ja6",
+    "hash": "sha256-Rkmwg2YS4Du32HheQdDzTuRIbjum5XWJFA5q8uTuTLE=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-88gs9H8HgK8n/Qx2nncJQ/FQEiSmk+7HK8iCxzM+1bA="
+  "cargoHash": "sha256-DhleQDl7IAnyhNkIfqbZSdKHEY7SVH8xzkYOKsgCbT8="
 }
