@@ -1,13 +1,13 @@
 {
   "name": "lean4",
-  "version": "0.1.0",
+  "version": "0.4.0",
   "src": {
     "url": "https://github.com/blackbird314/zed-lean4",
-    "rev": "22f5e1e3e566a0275c9730f74c16187cfc293af8",
-    "date": "2026-02-22T19:23:56+08:00",
-    "path": "/nix/store/mpgfnvdvbkbzcjvw5l17mh94q1g6izwq-zed-lean4-22f5e1e",
-    "sha256": "0c5aim9s2gf48cpdgp42bx3prwxk46pf5j0hga7qgzp19c2r6jv1",
-    "hash": "sha256-YUuTBUvh/oePehDI4q4hs/N8R1+C3NcuQ8Q9oVONqjA=",
+    "rev": "9a167fceef296f75d86d3c3f726a13cc9ae7806e",
+    "date": "2026-10-30T10:18:00+08:00",
+    "path": "/nix/store/8q343wrpgnjyxmwj26xzwgjl5xngvyb3-zed-lean4-9a167fc",
+    "sha256": "1fx847v5y9ls7g3fz3vx19p7bwrjip79f5cggdrvq5hxwig33hza",
+    "hash": "sha256-6sMxXuQdFrxze48Vl86NMvN1bgp9j+/GO5omX/YhqLs=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-11dXZP9Okg4XdaucTTcsyQLC9WrCKrRmc+/jPXK17J8="
+  "cargoHash": "sha256-3+7YFfAVxBnhX+3vhO+2on2jTv1bLNUNDP6KFagE/MA="
 }

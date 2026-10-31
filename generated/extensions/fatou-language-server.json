@@ -1,13 +1,13 @@
 {
   "name": "fatou-language-server",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "src": {
     "url": "https://github.com/jolars/fatou",
-    "rev": "8950753bc632459fc6e2f489ba8f56c64e91637e",
-    "date": "2026-08-24T12:48:28+02:00",
-    "path": "/nix/store/yiq0qwn6d9m9q9vb35x4rhxn4405rh67-fatou-8950753",
-    "sha256": "08cjq1ba8fa2rx8zz3x41rwwfmkwmjzyk5rq91ii1ll0z8fkw9mw",
-    "hash": "sha256-vCY+HfqA0hBjSDiX6b+sfFbHeQ6kj/9Rz0I5pFbAkiE=",
+    "rev": "ac1701099220719f810274af820ba1fb08430ccd",
+    "date": "2026-10-27T20:02:44+01:00",
+    "path": "/nix/store/xd6ny348bqb94ff0qf3s5rp5qfrsv1n2-fatou-ac17010",
+    "sha256": "13679il8mghh71k0851mg23r5pz9ymcwrxrhxq49jjaqa4jgkw4r",
+    "hash": "sha256-mfD5JFFYSZkI7jD3zFn16d+Sh3g1FARmOBC+imhMx4w=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": "editors/zed",
-  "cargoHash": "sha256-pfHmGewQZS1PAa60ia+VWMDaqkc4la1IUC59nZsvHqk="
+  "cargoHash": "sha256-wGre+jHfPlqEbVjPbOFgWft99lfsyD4eTOj63ew6Jmk="
 }

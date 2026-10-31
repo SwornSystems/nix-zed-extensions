@@ -1,13 +1,13 @@
 {
   "name": "panache-language-server",
-  "version": "2.35.1",
+  "version": "2.36.1",
   "src": {
     "url": "https://github.com/jolars/panache",
-    "rev": "b1da482d8dd5675778914472d47dfb45a110a8e2",
-    "date": "2026-06-15T16:14:23+02:00",
-    "path": "/nix/store/c1n0xsn3qbfr6zy0w394m5kcf0y8al73-panache-b1da482",
-    "sha256": "0r3knvq8sifcpwzz4gf9n3n2ikl634kc68hxm3yrrxmjrpkjlfdi",
-    "hash": "sha256-sTkq582y9pz9qB0iwyYZhs4o7LDJPfI/v8xFjfC2c2Q=",
+    "rev": "10ec7c173ce450f76b115ceb327a02da05990c3e",
+    "date": "2026-10-26T14:39:23+01:00",
+    "path": "/nix/store/rrwhq5vfr943p6r7awwz6hyxkihll6ri-panache-10ec7c1",
+    "sha256": "0mxmqbg1cbj74lhvhx5lvdplndvbvdjql79bbphp21z191zl3fvi",
+    "hash": "sha256-cbtBf0jhB3HhXSsdimXbazdLb9u0dLghJUcuFt7CtVc=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": "editors/zed",
-  "cargoHash": "sha256-hTv9cIyaUgaOUM5qT73CARuk61yYhXUxQ4zOahzQEbI="
+  "cargoHash": "sha256-R52m80Fy1GoW3K2jZQJrn3t9ShwIDVoCmpfrgk+/2vQ="
 }

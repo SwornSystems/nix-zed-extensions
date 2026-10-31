@@ -1,13 +1,13 @@
 {
   "name": "skill-language-server",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "src": {
     "url": "https://github.com/CyrusNuevoDia/skill-language-server",
-    "rev": "af695378657ec2987799395ca3e58f0e34318300",
-    "date": "2026-07-27T05:34:45Z",
-    "path": "/nix/store/54iphw3wh785x4n0k6giibfaqv45996c-skill-language-server-af69537",
-    "sha256": "0vspr9byabsf4a0sg8hxcrgccs287zqqwjd0rxb7kp3g9wjlxr50",
-    "hash": "sha256-oOROJU9v3HlWz6BJjvE/SGjGXmYdoqeBIk4v5VfKV28=",
+    "rev": "8c9ad4e5ddc31b25d243fd34602c37f67b3edd50",
+    "date": "2026-10-29T20:21:59Z",
+    "path": "/nix/store/n7ss36baf5an3xra4nk9xkb6bbazhl7d-skill-language-server-8c9ad4e",
+    "sha256": "0l693wnlbhg24ikdfdlfyzhn5rv14v70c4sv8ar5vaar6r9dy4qy",
+    "hash": "sha256-HhPfUjZZqV2yQlsTBs4mYedi4feONtdmJOLBRS0fyVA=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": "ext/zed",
-  "cargoHash": "sha256-5poq/j5HPQbghP6I5wqSSJcCETu2BihRtX+HyEHLrTQ=",
+  "cargoHash": "sha256-kWPZpvl4F3LIFy9ddYVSAQh+71Jud1rnGfRXKAVlkqo=",
   "cargoLock": {
     "lockFile": "/generated/extensions/skill-language-server.lock",
     "outputHashes": {}
