@@ -1,13 +1,13 @@
 {
   "name": "rockide-language-server",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "src": {
     "url": "https://github.com/rockide/rockide-zed",
-    "rev": "ec0081a4b9805ab507f3b992d13f67a3d1fb9fcc",
-    "date": "2026-07-29T03:11:02+07:00",
-    "path": "/nix/store/nnlg61bwpqsyw7yhxaw8ycfmbrnachj2-rockide-zed-ec0081a",
-    "sha256": "0krgqwiy1rxdl2a1hwim7m2ra4wm0v1h97z6g0rf5kisymk46lvs",
-    "hash": "sha256-elNDZvU6zuIyeOafBMMGlROVRT01chiUoK3n4CPHL08=",
+    "rev": "82d0f632c26662223a6fd846abe5317c25a8d574",
+    "date": "2026-11-01T12:15:49+07:00",
+    "path": "/nix/store/hikr2wapjy5cs1z1w3zmicghsrfz7n3m-rockide-zed-82d0f63",
+    "sha256": "1m227agwpbn97z4zdzgs78kzb11qii0vk8wmfj9zwrag79mrgscm",
+    "hash": "sha256-lemXazpPZf6TdJWjuUGMOIT1Jzr6/fbJP8muy586QtQ=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -20,5 +20,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-KUhQ5bFWaV/nar4pENE0FcWqukGeCNVHZ9NdqgNbz5U="
+  "cargoHash": "sha256-XCqQ5fsxgF6PgiS9+p4LTdxnYaPyJTwDGDFVHi4lh9Y="
 }
