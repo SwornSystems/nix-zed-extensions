@@ -1,13 +1,13 @@
 {
   "name": "depsy-lsp",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "src": {
     "url": "https://github.com/mpiton/zed-depsy",
-    "rev": "1ba4e9c17ff21619dcdf3b927e2972cc9fb0aa34",
-    "date": "2026-10-05T10:13:25+02:00",
-    "path": "/nix/store/z11mz06zjs6lfm1ydgcc6ia1xlg5m6a8-zed-depsy-1ba4e9c",
-    "sha256": "1lvrn4dw6j5dwb153m9r2cssswjqzzmiiiazraglb2ks6jkwgbyf",
-    "hash": "sha256-zq/HpzR6ikWfyl/FGOv/WHKtNRM51VHC4q1IwxuxedM=",
+    "rev": "bd159fba9ad47ef6191caa4891cc7a50370fe40d",
+    "date": "2026-11-03T07:35:54+01:00",
+    "path": "/nix/store/6p4y6sqrgw5qnvrfi02608y3h7ljpy9l-zed-depsy-bd159fb",
+    "sha256": "12gz8m33jpw2ndznabsvqk07k2ffwhp8pka9h4gyrb10jxmkxgvn",
+    "hash": "sha256-dr8+a5cgrOwfgUnNiy7kzol5wMRbL2V/s4JfOUZF/4k=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": "depsy-zed",
-  "cargoHash": "sha256-DbcyRgDb5MmOxBgMf7YHvtyka2fMLaInDec8JKE0fI0="
+  "cargoHash": "sha256-iIrgb/CnlLOeS+vIIdD3iHL3Zd+0OLtQGN4VNiFVJUE="
 }

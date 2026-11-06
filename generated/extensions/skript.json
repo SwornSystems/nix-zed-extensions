@@ -1,13 +1,13 @@
 {
   "name": "skript",
-  "version": "0.2.5",
+  "version": "0.3.1",
   "src": {
     "url": "https://github.com/DaisyCatTs/SkriptZed",
-    "rev": "c580169f1b0ba9b9c5f3205599364fb6b479f4e2",
-    "date": "2026-08-07T19:26:59+01:00",
-    "path": "/nix/store/cb3msmdc7psbnc6dpmld14kgsykfqmks-SkriptZed-c580169",
-    "sha256": "0hkiajswgb7z4ql1n63x9fyyrwbzghk84d4avc2km3ks7c5zjiq4",
-    "hash": "sha256-BEf5Czt6jjoF24o0giZ8f/HsvUt9GBsoJv+sx7VUcUI=",
+    "rev": "71c632a8d11579081d5097df1595b10a9ee941d4",
+    "date": "2026-11-06T04:41:00Z",
+    "path": "/nix/store/k3h5fhfy7azqig5wwc1cby1z98bmxz72-SkriptZed-71c632a",
+    "sha256": "0pxv6i5w9d92ip9ybkmdf85ybiyvbkjyy72ydl604hrzp7cy7hxf",
+    "hash": "sha256-rsPj2bk/QwIMbV4c7+Vc28flC3KtzuXTjSK1xEs0u18=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": "extension",
-  "cargoHash": "sha256-PEtRMYjof++taTmYDw0ljET3uKsz+AO+ssmmgtvFp80="
+  "cargoHash": "sha256-J667+eldD+PhPmndh8p2ib1AiubhZunwSB62WGxbT8g="
 }

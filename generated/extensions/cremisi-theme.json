@@ -1,0 +1,19 @@
+{
+  "name": "cremisi-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/vari-sh/Cremisi-Theme",
+    "rev": "8fa0bf12ce71671074e160de5edfdf1267f3dcf3",
+    "date": "2026-10-30T11:26:11+01:00",
+    "path": "/nix/store/sk21wg3by1wzz34gz6416f21fln6dq0q-Cremisi-Theme-8fa0bf1",
+    "sha256": "18xx8ya6ajv0q8n12g09rk3y3ikbhhfk28a52m66gm4naa8dy1wa",
+    "hash": "sha256-igffkFKW1GdMFUUhMR2Ea8bhx8wJPBEswmBLZZRHvaM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "ports/zed",
+  "grammars": [],
+  "kind": "plain"
+}

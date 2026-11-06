@@ -1,13 +1,13 @@
 {
   "name": "haxe",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "src": {
     "url": "https://github.com/Frixuu/Zed-Haxe",
-    "rev": "a43cf0ae7cbed56f779f794420faa938ffedd8da",
-    "date": "2026-05-14T22:56:07+02:00",
-    "path": "/nix/store/lf0hw8n2aijzafv0v3qb3dlzczsq3klb-Zed-Haxe-a43cf0a",
-    "sha256": "1p4l9xdk6qniv7m6i3fyd9b46bqxw0vj5z2h0xfpkhy1v3hv99fd",
-    "hash": "sha256-zaW04djBw3ldB1D8IjfgHS9DVmrejWjq2dFiM1tPlNw=",
+    "rev": "50b6bd2d2b54d907e783a7e3a0deac75d29101e1",
+    "date": "2026-10-27T11:52:15+01:00",
+    "path": "/nix/store/m1mcn061k5izxbhvs78w01frv04kj4c6-Zed-Haxe-50b6bd2",
+    "sha256": "0vrpfv6k3a1gi5lcf50hcr2sj5v6r5zj24fwhs1rh6yvxj76gkqg",
+    "hash": "sha256-D89njuzbG5iDhtwRIX/JZhepRWYQFMdoiS+oMc12N28=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -20,5 +20,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-KJXSmrEV0ACaNP1KVWPPtali01/UrtsHNIM1I06OtN0="
+  "cargoHash": "sha256-8INZ4Eb9uMiuxe/kIVyhYg8Y3Vg+jsFc3nD0GyJ12t0="
 }

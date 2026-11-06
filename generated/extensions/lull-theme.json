@@ -1,0 +1,19 @@
+{
+  "name": "lull-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ihormanzii/zed-lull-theme",
+    "rev": "aa226779c54e9be4f6cf7a8fa8c0c106ab12170b",
+    "date": "2026-11-02T03:49:49+02:00",
+    "path": "/nix/store/b4ksx9y5cfsx68ym2yx5pbqj2lbjh7qs-zed-lull-theme-aa22677",
+    "sha256": "1dvj5k2hpc60gia4qlkqwvg59rbkc9kq8aarganvzwi5cg8ixz8v",
+    "hash": "sha256-G/0e0WMl8r+telkphGdic+VU3uZ4UkxUfMCwC8Uscrc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

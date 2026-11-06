@@ -1,13 +1,13 @@
 {
   "name": "jsonnet",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "src": {
     "url": "https://github.com/narqo/zed-jsonnet",
-    "rev": "e7c2c217e4bb5de1d811cd198e838d98713f71f9",
-    "date": "2025-06-07T23:48:08+02:00",
-    "path": "/nix/store/p1swx3km6brh9galdflwlpwqrvbkl80y-zed-jsonnet-e7c2c21",
-    "sha256": "1assh0l3ls9m04lscv5hw56jc34gim01iyp7k9i0nyrm0b5hf02v",
-    "hash": "sha256-WwAHywI1ewtimuf6GECNjwwmTeGwbKYpATVpOiiAWqs=",
+    "rev": "a95591c4afaaa995386a10a9fcd587848e694fdc",
+    "date": "2026-10-31T11:06:43+01:00",
+    "path": "/nix/store/5b47mnmcxc9zh9hd30jb42alc8jbvz1g-zed-jsonnet-a95591c",
+    "sha256": "00768q15vkkhd6wnp6pc6nh7rfy6gzphp6h1s8q415zhr8dimxqf",
+    "hash": "sha256-DvcaG8rwl0Aw0gGaC+9/xrt8oDXsmmu5aXDOXQJG5gA=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-XlC6FbEPoldM67TiOxrX9uF7hTmQAgveo5bZeA5Fo9Y="
+  "cargoHash": "sha256-hHTNwePZr4N3werqwN2E2MaHdyE4Plxf5hGaoJwNcyU="
 }
