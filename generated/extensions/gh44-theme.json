@@ -1,0 +1,19 @@
+{
+  "name": "gh44-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/gentrithalili1/gh44-theme",
+    "rev": "1235ac78338ec68964796501e66fc65e6a10a806",
+    "date": "2026-10-28T15:18:44+01:00",
+    "path": "/nix/store/802w98krrd04gwslpx5gcdk44lzj5sj1-gh44-theme-1235ac7",
+    "sha256": "0p0kxqd4sw52qyxdili5lzrsgjw2nx0hp0wgj8qnqc8hqszz827v",
+    "hash": "sha256-+wj0v8YQMWwxko+DC0G3gsun86cl0ti6x6JwTRruE1w=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}

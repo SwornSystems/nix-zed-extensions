@@ -1,0 +1,19 @@
+{
+  "name": "heritage-theme",
+  "version": "1.3.2",
+  "src": {
+    "url": "https://github.com/heritage-themes/heritage-themes-zed",
+    "rev": "be23de6bbc0beface89e2005e46ba037e525acbf",
+    "date": "2026-10-23T21:11:36Z",
+    "path": "/nix/store/21xszi81iqqlfws71qr7hmfjhgxlq57q-heritage-themes-zed-be23de6",
+    "sha256": "0qz4dh4npibk15jwv516c8qgw8bga4vdppcc099d7jnn32ql4n53",
+    "hash": "sha256-o1hCsRjWytNSAozd2zZRbyH+MGImlM1lCXPFawls5GM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

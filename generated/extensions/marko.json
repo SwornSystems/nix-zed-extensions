@@ -1,13 +1,13 @@
 {
   "name": "marko",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "src": {
     "url": "https://github.com/marko-js/zed",
-    "rev": "e2011f67fa566e225cb46f708718842d7264e4e3",
-    "date": "2026-06-26T10:39:11-07:00",
-    "path": "/nix/store/b51pkdkz683jakvlijqr33f8xmirdxa2-zed-e2011f6",
-    "sha256": "0nnvjz7hnzi317w33rmjsdb9q56p4hr282200ran4hk3m1ynpsk9",
-    "hash": "sha256-aeprfahjQmJVBkAIJDIk1xScVtOy5jH4CSN+C8+X21o=",
+    "rev": "67f9886fd9fc32d17547672f60547364c41460cd",
+    "date": "2026-11-02T18:31:17-07:00",
+    "path": "/nix/store/7dfd8n6f3clbg5mgip6w1addw5hvnn99-zed-67f9886",
+    "sha256": "1mq5kzgm1qyrj3m9y73hdqblk61wj4z5pypgz0j9vzm7v2hb3rjv",
+    "hash": "sha256-W+axoNin/p0k+O/6Wz6RPJhJF25wHJ/qkNnjUN+fBdc=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-SvgFFJN5yNrW3sQjMhORxlBvLHfy+oKzBQFzSgixxSk="
+  "cargoHash": "sha256-VARao3xiHdNYB1oYIEScLPekF9I4Xr/If6ONYzld5WQ="
 }

@@ -1,0 +1,19 @@
+{
+  "name": "verdula-theme",
+  "version": "0.0.5",
+  "src": {
+    "url": "https://github.com/LucasSouza76/verdula-theme",
+    "rev": "a8365c34843788758f52f25513bea8325e0445e5",
+    "date": "2026-10-28T22:25:45-03:00",
+    "path": "/nix/store/42mgc15357cmab0wcywkv5xi3j8rjjiv-verdula-theme-a8365c3",
+    "sha256": "16mbdgpip6xijqkiyzw07mgbxwspjy7alpxzqz5zybizl15y2872",
+    "hash": "sha256-4iDhS6A/Lv/Lx79fqo6XV/O+Xj2Afx8nlrGbG+9rq5o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}

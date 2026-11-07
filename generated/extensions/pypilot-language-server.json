@@ -1,0 +1,21 @@
+{
+  "name": "pypilot-language-server",
+  "version": "1.4.0",
+  "src": {
+    "url": "https://github.com/pypilot-dev/pypilot",
+    "rev": "5f8ecf567145cb5832387dd21758f90735c5543b",
+    "date": "2026-11-04T22:08:32+05:00",
+    "path": "/nix/store/8nwrdcb41qvc7yj086qf7xhnshwy5fqv-pypilot-5f8ecf5",
+    "sha256": "1sa9mfk8h9i4c34qrj9a679w1j90vcx64l3bj56xy71dr98kghyr",
+    "hash": "sha256-2cM3UcotHN9NkWtQYjrbIMnA0zEqyYzJYCQmiKarSek=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "extension",
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-xFJSGDLY6h+Z46kM8A3W0FA49/B6kl1r9yur8LnHLcg="
+}

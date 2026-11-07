@@ -1,0 +1,19 @@
+{
+  "name": "verdandi-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/emeraldsanto/zed-theme-verdandi",
+    "rev": "03e4be8e071f8c18421ff03a7ad339480a311c55",
+    "date": "2026-10-27T10:56:28-04:00",
+    "path": "/nix/store/j59fgmbai9vhbzsrvqi2nd3cygyqjhks-zed-theme-verdandi-03e4be8",
+    "sha256": "0ns1z7r3pbbzgrgqhkq9s8247894jxadj89iiyz9ak89k9vmj8fw",
+    "hash": "sha256-3CFZd5oJTZW+jzEh2VSXJKFDBNIJT4hffn+tO/L5QVs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
