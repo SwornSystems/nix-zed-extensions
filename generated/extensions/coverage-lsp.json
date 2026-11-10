@@ -1,13 +1,13 @@
 {
   "name": "coverage-lsp",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "src": {
     "url": "https://github.com/fargies/coverage-lsp",
-    "rev": "4c06e527055ac5a6d05d7dce8fcf1a5a120b0476",
-    "date": "2026-08-10T16:58:42+02:00",
-    "path": "/nix/store/hzf5vxswb7d1ib7wzdyzgz4q545qmzid-coverage-lsp-4c06e52",
-    "sha256": "14b0ab9bp57q36cwpmzdma6ll56xsyg3lyvms8p5vbiw2iqfqn97",
-    "hash": "sha256-J1nscBQ8rl0u0nV7Op7X3RRKjart18uZGfiUu9JSYJE=",
+    "rev": "6922354f53fd66260cc79865b4cb28061af8cc2c",
+    "date": "2026-11-09T11:27:58+01:00",
+    "path": "/nix/store/9wrd3hx742ngwsh97aqzqxpv53q6dr15-coverage-lsp-6922354",
+    "sha256": "0fjxiizpp8lxas5kh1cy5vaaf2xsnjcir4d5nwx2n4qbj6b7bnkp",
+    "hash": "sha256-d9p1lpELEys6t6WRHJm0ugun1C6eBTiLVp2ie3+MXTo=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-shSbkZgRSnz1N1kI8LQdhypY1EKgEaKlAT/Tgxc0AGo="
+  "cargoHash": "sha256-SXVPJIGnsdW0X+LZDZmWahHD8Rw8gAyJhy6Wc0Mr5+M="
 }
