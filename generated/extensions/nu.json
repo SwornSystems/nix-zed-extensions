@@ -1,13 +1,13 @@
 {
   "name": "nu",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "src": {
     "url": "https://github.com/zed-extensions/nu",
-    "rev": "6b83a0f8985efcab61e2914eb5cabbdb1dc3f5bf",
-    "date": "2026-05-14T16:20:16-05:00",
-    "path": "/nix/store/zgvf059pswmsg0h41k5r5dr44w4xw1ah-nu-6b83a0f",
-    "sha256": "1h5y8554r80q8z79994rv3blfdkk6dincfl1lp5l9lsz9c5670bz",
-    "hash": "sha256-f4FjCktf00TLpYE6ZmMzczZH19iZpJTORxigTEpBvsA=",
+    "rev": "741ae6792113fc9230b8947446daf2023995426e",
+    "date": "2026-11-15T13:47:00-06:00",
+    "path": "/nix/store/hbxr2c2bl2whddrb8wnz6shkzszd6mw3-nu-741ae67",
+    "sha256": "172r8gs4wprgpwih2xkp5vc3whphslhgb4341lf0a6yjxm5h5sji",
+    "hash": "sha256-UeoCS+3SGwUcDWSQ9SDV8EI+2C53dgEjvy9fTvRDWZw=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-6P0qYa18RKAQowrDJVejcfP6zm0mqi1hvXv6Xc9rCek="
+  "cargoHash": "sha256-jzSciEWy0V2vDhO0/sv78HOWHOV4Drs79SYJ9T64oXM="
 }
