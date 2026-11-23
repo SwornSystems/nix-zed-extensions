@@ -1,13 +1,13 @@
 {
   "name": "emoji-completions",
-  "version": "1.4.0",
+  "version": "1.5.1",
   "src": {
     "url": "https://github.com/ahockersten/emoji-completions-zed",
-    "rev": "65d74130ff978aa7a1c97e1fe288a06932708f70",
-    "date": "2026-10-14T22:52:12+02:00",
-    "path": "/nix/store/3glrjx3fwx2xw3fyix4him1ys05109mc-emoji-completions-zed-65d7413",
-    "sha256": "00gxipn7wmp493iy9wscixs0aa9f3csrf5ikm1p1xx29azgszav0",
-    "hash": "sha256-YKuv31dJ9B5uqDMWlzUbLikFdI9M8+TjSORWfuyN/QE=",
+    "rev": "3197c285c9598e06eaf59ecef7794ed6c17788e0",
+    "date": "2026-11-23T07:23:43+01:00",
+    "path": "/nix/store/jybdzaajr1xdnh22n7n6083f1qdyd3zb-emoji-completions-zed-3197c28",
+    "sha256": "0gi1wik07rdwcn85smwmalk4gwd5v2m0yqllpnpx1yzb4j0lgk0c",
+    "hash": "sha256-DMxHgSTr+9CvvZRiD6rYpfFHJlWVV12QZbzlA2bkIT4=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-2FctGo9xHMQabPj/Q/wTgsV4LFTbYJPsdi8Ua0rkuYY="
+  "cargoHash": "sha256-sGvRi8LWjOvP1I8MiHVatBkVw/4HNblqeUHDf+ws0KY="
 }
