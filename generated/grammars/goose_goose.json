@@ -1,0 +1,18 @@
+{
+  "id": "goose_goose",
+  "name": "goose",
+  "version": "9412b80f52d833c4697cffdbbf1f4eeb5195cd41",
+  "src": {
+    "url": "https://github.com/aardappel/goose",
+    "rev": "9412b80f52d833c4697cffdbbf1f4eeb5195cd41",
+    "date": "2026-11-18T12:49:50-08:00",
+    "path": "/nix/store/y27xszkx0npzq70mw79mr94wzw99al7c-goose-9412b80",
+    "sha256": "0mx20647frcxbgg2jqk0s5bgyj1jsndgz22s1v7wh6cdg8w17m9y",
+    "hash": "sha256-PtUTOHqNGcjPDlqI/5rVMkj/VtFgYineW51ld4gBolc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "tree-sitter"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "mineral-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/HarryC919/MineralThemeForZed",
+    "rev": "47ac149ad5cd8157119186fcd07aae9a98c4fb66",
+    "date": "2026-10-24T19:02:14-04:00",
+    "path": "/nix/store/yrb4822xdqs3riqpmkfk5glv1652hyg1-MineralThemeForZed-47ac149",
+    "sha256": "1yvf3kbmf61q3y01sc4fkj3wr31qz5r2zcgks73z82bn73xcv19a",
+    "hash": "sha256-KoXN+jh2CfTH0fOxL3L5OIzMh5yOMB2AHzgYV9ccbvs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

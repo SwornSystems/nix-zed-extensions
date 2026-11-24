@@ -1,0 +1,19 @@
+{
+  "name": "codigrate-themes",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/codigrate/zed-themes",
+    "rev": "0c668b56a0365cd77aae6fafd1147fa3b583401f",
+    "date": "2026-10-13T19:04:46+03:00",
+    "path": "/nix/store/gbpvyilz9y77mpl4hgsrf5h5ylzmz1g6-zed-themes-0c668b5",
+    "sha256": "03yd6zv4xnq2jb29am3wp2dwg6xxvpcskm3bs6s8iir990lp8y3p",
+    "hash": "sha256-d3h0KUgpx4i00WvUqdndvZvHm7h8VJXEkgLbTvY3zQ8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

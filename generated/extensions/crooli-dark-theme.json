@@ -1,0 +1,19 @@
+{
+  "name": "crooli-dark-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/xandertaylorx/crooli-dark-theme",
+    "rev": "f8bd9823cdeaf3beead93e64c6f34dc3b40bc87f",
+    "date": "2026-11-09T01:08:58Z",
+    "path": "/nix/store/lr0jz1l8398pm65653zxpnld3bhwq4jp-crooli-dark-theme-f8bd982",
+    "sha256": "1b94bjls5j2j82dam6m4c2w08avinvayzshcypd149ha07w4q5y8",
+    "hash": "sha256-yBdM+AEKJhLa9Qzq79W2cSsEuGCkmqqaQFLIoqlcJK0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

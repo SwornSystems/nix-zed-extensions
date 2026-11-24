@@ -1,0 +1,23 @@
+{
+  "name": "goose",
+  "version": "0.2.1",
+  "src": {
+    "url": "https://github.com/ZHENGSY/goose-zed",
+    "rev": "124d638eb261469318ef3a2cef228d0bc5fb510e",
+    "date": "2026-11-19T16:41:23+08:00",
+    "path": "/nix/store/77958nxhwxsgkb77scr9rhv24wvpqrwm-goose-zed-124d638",
+    "sha256": "07mw86vk55d0hm3r2mkh6mqqjb2liw9cn7hcycwgydbsvxx3vhpx",
+    "hash": "sha256-/cI9et96Nf848wweyxKPVCyJcTVwVpFHhaCVMrdBvB4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "goose_goose"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-7YXeBGPIoaMyFxp4DRl5YfhAg01D6/AnwdPWXsojnk0="
+}

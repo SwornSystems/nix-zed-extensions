@@ -1,0 +1,23 @@
+{
+  "name": "zamak",
+  "version": "0.2.1",
+  "src": {
+    "url": "https://github.com/VeyraLux/Zamak",
+    "rev": "38146f3a8d5ac9828afd70df808dc709f0656d9c",
+    "date": "2026-11-10T21:35:07+08:00",
+    "path": "/nix/store/y0mpm0168561q86jmdd40037di6pqph2-Zamak-38146f3",
+    "sha256": "0gizqh5l1h1wds5ryn94xkj00jn40341fvni3514r5vb362gz66d",
+    "hash": "sha256-zZj/hBlrl0xCGdFuF8gAxEoA5OwkWZ+LbjzAQAvEPz4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "zamak_zamak"
+  ],
+  "kind": "rust",
+  "cargoRoot": "editors/zed",
+  "cargoHash": "sha256-4KrSEOmlwAvzCO4BUDn2rlnN7kvLoudmIydsd+ltBJw="
+}

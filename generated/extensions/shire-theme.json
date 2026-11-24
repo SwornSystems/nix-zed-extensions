@@ -1,0 +1,19 @@
+{
+  "name": "shire-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/Emestie/zed-shire-theme",
+    "rev": "807b49c85fcfa6a04765f666e28fefbe760ec6bd",
+    "date": "2026-11-09T14:49:03+03:00",
+    "path": "/nix/store/q01mdrq0x576ji4iflsrncd4k9xvbb6y-zed-shire-theme-807b49c",
+    "sha256": "0nz16ba45ww4vnfb8wy2cqnii3gjww0z8x5ia655h85w72lmsihk",
+    "hash": "sha256-E0ZdqTi8IFiKUbF09AHn8o0YLWbCc7Sc3YTzQtQy4Vs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

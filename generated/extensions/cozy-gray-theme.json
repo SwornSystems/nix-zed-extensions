@@ -1,0 +1,19 @@
+{
+  "name": "cozy-gray-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/marsolab/cozygray",
+    "rev": "f8c63eacfbe9aa1906d4b3c918e23ce99675622f",
+    "date": "2026-10-20T10:43:22+04:00",
+    "path": "/nix/store/p9991mgqyw1san4dbbyy29rhp6giirss-cozygray-f8c63ea",
+    "sha256": "110z1rv5lvxc8ak5lw37808mzc1ama6hz1hfg128f4wxb85gxf15",
+    "hash": "sha256-Jbj+ClqdE4dEeA6GD42qKrBfEUBncFqmQqxvWnYOH4Q=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "extensions/zed",
+  "grammars": [],
+  "kind": "plain"
+}

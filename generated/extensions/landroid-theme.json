@@ -1,0 +1,19 @@
+{
+  "name": "landroid-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/kerneldroid/Landroid",
+    "rev": "e6ea733cbef36074cd94aba53f0958590e4367ab",
+    "date": "2026-10-22T21:54:30+05:00",
+    "path": "/nix/store/1jfxh8dm5sl4b30lmljc6cvjb2ps6awc-Landroid-e6ea733",
+    "sha256": "1xrjsvg5a4ra5dgn14whvsdj675n2wr6j9xavl83j1hj5pfdb62h",
+    "hash": "sha256-UJjV3C0SBjkQ3aonaTIXthwjm96Qk2BfKyoTVd7WMvc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "carbon-ink-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/small-frappuccino/carbon-ink",
+    "rev": "770c63e96bd56a0083176585d583e805e89633e2",
+    "date": "2026-11-03T02:14:29-03:00",
+    "path": "/nix/store/mzf8rag7kdw9r11syjr3xfrn1qq0mvh9-carbon-ink-770c63e",
+    "sha256": "07vhmzidzqwnpxflzh96lpwrksp9x0fw603x54329y9sk0xhhfng",
+    "hash": "sha256-zzoIO5g6+SQGKX0Awx3o6eqZ+aUmwU9dv5bj3+KvcB8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

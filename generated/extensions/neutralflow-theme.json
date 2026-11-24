@@ -1,0 +1,19 @@
+{
+  "name": "neutralflow-theme",
+  "version": "1.5.5",
+  "src": {
+    "url": "https://github.com/JenuelDev/NeutralFlow",
+    "rev": "319f5fccfe04d3748814116ecb1866b8fa24177c",
+    "date": "2026-10-23T20:14:33+08:00",
+    "path": "/nix/store/7yr3swdh2rnqnkk3wqi2w1w1siw0sisw-NeutralFlow-319f5fc",
+    "sha256": "1z7jwx5d327q253h2gi651a8k9c95xjhyf3h2dxy237avbqxlqkv",
+    "hash": "sha256-e2La8drqDOF7E3A4D2UviaWJVCgmPgFHEfiI0Urn8vw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "living-code-theme",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/living-code-theme/zed",
+    "rev": "ffeecdb963535defc4335b431df4e175f2aef53b",
+    "date": "2026-10-22T15:36:22+02:00",
+    "path": "/nix/store/gfg9gg6pzla2a84i4h1q6vddgwljg4qz-zed-ffeecdb",
+    "sha256": "180j20vi2681dq9r8xhnw99vpaphmwxy6qdzxnx064dsc0dbw2rh",
+    "hash": "sha256-MAu+GmC6EQO67b9h4zuv8Kq7U+IWdpQTbgEZETcQEqA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

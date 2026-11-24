@@ -1,0 +1,19 @@
+{
+  "name": "ember-tide-theme",
+  "version": "1.2.0",
+  "src": {
+    "url": "https://github.com/23hoanggg/ember-tide-theme",
+    "rev": "976d0b148ea9de17b702c26f147e47ff5db7fed0",
+    "date": "2026-11-23T16:27:59+07:00",
+    "path": "/nix/store/h2hr58jqrxhkki591v5zd9zppq6wqwfr-ember-tide-theme-976d0b1",
+    "sha256": "0y9zj2qmwrczgp8sf7p6xldf78z38ggkrwhj0ijpllbnpi12dn5d",
+    "hash": "sha256-rdgmQrx2UXplBBLyPN9D46PjGu3mHqfRfZ9lXrGQP3k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,13 +1,13 @@
 {
   "name": "gem",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "src": {
     "url": "https://github.com/mantou132/gem",
-    "rev": "818cdf3e1910a93876856f6fc09d83857d7c16bd",
-    "date": "2026-06-07T20:55:03+08:00",
-    "path": "/nix/store/0sablqwz0w7ki7cq0fgk3jrk04yvy9ax-gem-818cdf3",
-    "sha256": "0947hwyw08wipcfbfr5ir2nlydhrizlm20fq1ndd4hls04iyjs1z",
-    "hash": "sha256-P2jpIwGaQtKaDdgBUemPGTZPrcixZLccu5EjwD2HhyQ=",
+    "rev": "f84deccb9687a204f758febf34610476f49c9447",
+    "date": "2026-11-07T09:59:01-05:00",
+    "path": "/nix/store/j24gyncppnsrq51d3h38rpid0ldayy4r-gem-f84decc",
+    "sha256": "18i5c9dxmwxm71pn14aqjybpg3y66mxcq2z1rsghikq7lzrg2k7v",
+    "hash": "sha256-+0zx8qcHzwifzuELzHo1xo93l5dYkWBvOLXz2ltiJaI=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-Bz69Sklr4uOQz5v6SfOMfmLzxsJ958dJn1m2Husjtys="
+  "cargoHash": "sha256-lCBEejemq2XyMHBVcgj14KmE1euEXSjNFUHZi3qCaq8="
 }

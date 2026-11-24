@@ -1,0 +1,19 @@
+{
+  "name": "beyond-the-walls-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ihssmaheel-dev/zed-titan-themes",
+    "rev": "0860017b25cf1902b0e2bb767c246e209f7bc618",
+    "date": "2026-10-15T12:53:04+05:30",
+    "path": "/nix/store/23j9s4h2ass7vjsprvr4wqr5ki4gd0n4-zed-titan-themes-0860017",
+    "sha256": "1lrw002h5aynvwvqyz7mz1a90k5w8hfybf2r4j4gi4h1l15lfpcm",
+    "hash": "sha256-lV1HS6ABkviIJFm45R1EvEyQVPj1fI8339arAgUAPNM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

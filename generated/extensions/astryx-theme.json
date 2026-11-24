@@ -1,0 +1,19 @@
+{
+  "name": "astryx-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/BrankoSlavkov/astryx",
+    "rev": "affa89e707cdaab8cef6c07561b2966add0edd30",
+    "date": "2026-10-15T15:59:16+02:00",
+    "path": "/nix/store/234p4a3jh53cq7aqpjxpgcb1m1n9wn8h-astryx-affa89e",
+    "sha256": "0yh8fqams4rvqji30p8in1d22ny6p3bmglzz0qd06dazqzh5r0wd",
+    "hash": "sha256-jYNc4MdfNQMaBv/TV9e4xlshWrARXTCixDsTXRV2CHo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "gopher-burrow-theme",
+  "version": "0.7.0",
+  "src": {
+    "url": "https://github.com/mg0x7BE/gopher-burrow",
+    "rev": "764dd73d34e925fb9704f9dabad060bdd8dbf7e9",
+    "date": "2026-10-23T14:59:22+03:00",
+    "path": "/nix/store/zwdgqfiwnizxi860lxyhjy3jirkmghin-gopher-burrow-764dd73",
+    "sha256": "1myz7p346dbd3lhk9f91m27cb1yx04ybn05z3nzppdzq7lzma7vz",
+    "hash": "sha256-fx9VPz34t3u/Hb8AuzwB3YfFjqghuTQhHW01Q8Y939c=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "build-zed",
+  "grammars": [],
+  "kind": "plain"
+}

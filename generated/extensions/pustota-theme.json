@@ -1,0 +1,19 @@
+{
+  "name": "pustota-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/skatromb/pustota-zed",
+    "rev": "bf8957604dfb80149805587981c6ee6c674f8328",
+    "date": "2026-10-23T22:58:38+02:00",
+    "path": "/nix/store/5l2g1kbxbliwf0449nrdj4g90g2jm5k7-pustota-zed-bf89576",
+    "sha256": "1riz4gi7719q19by8njvsxnqzz1yip8hf6lvvy1yymmx8yc2vvi9",
+    "hash": "sha256-Ke4tmEe9Vu+D35saB9GNPvyPbddbWuRXCjiFc+IjP+Y=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "extension",
+  "grammars": [],
+  "kind": "plain"
+}

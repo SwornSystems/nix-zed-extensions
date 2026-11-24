@@ -1,0 +1,19 @@
+{
+  "name": "max-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/nricardoba/zed-max-theme",
+    "rev": "b50a9968f5d0ba82edbf142fd7980f2866fd729b",
+    "date": "2026-11-10T15:16:08Z",
+    "path": "/nix/store/2xgj6vc12f76wc36f299qk7rvbsqpnx1-zed-max-theme-b50a996",
+    "sha256": "15jrqnghfd23qqp1c3qd88k4kl7zx7w7y45lsl4bkvsvnsaw03yq",
+    "hash": "sha256-2A/AlbZb77kI1bQQf/jp/9BJJkINDxYuxkM0B5/FWZY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,13 +1,13 @@
 {
   "name": "aptos-move",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "src": {
     "url": "https://github.com/0xbe1/aptos-move-zed-extension",
-    "rev": "4ceeee9cca5907292ab183aabc0104e4753558e2",
-    "date": "2026-05-12T10:35:44+08:00",
-    "path": "/nix/store/yyjgfxkqx0xm9bx0x6n7c1zna1d40m2p-aptos-move-zed-extension-4ceeee9",
-    "sha256": "1ac5pgmfv3whw5nswalmlv4ak6xa7m2wm21vdnirija7f73qjdmi",
-    "hash": "sha256-sTaJx3FHyZijbTuIykU9qpupyKaVKq5t4ZCP7eq7hak=",
+    "rev": "e3179827fa3b77cb5d113afb6094d59a6826745e",
+    "date": "2026-09-06T00:17:26+08:00",
+    "path": "/nix/store/7nv17m0q9m009mvfc16fpr6kvlsiqr3s-aptos-move-zed-extension-e317982",
+    "sha256": "02hlrpiiksfbcx8n1h7wlnyhhx80qdsk75gygwwghjmizajy9330",
+    "hash": "sha256-YIzkpfqxSvg4f/6VM3XDAHUIvaX8wGBRZ8vpGePNFAo=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -20,9 +20,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-psBL1A8j0Q3dxv2ry3UQwEnHhmAyTErLuJHoVMdqlR0=",
-  "cargoLock": {
-    "lockFile": "/generated/extensions/aptos-move.lock",
-    "outputHashes": {}
-  }
+  "cargoHash": "sha256-n/aervlQ5IUDQda//M+Vu6QtGHVZpRePki0VH3ftl8M="
 }

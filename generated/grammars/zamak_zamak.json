@@ -1,0 +1,18 @@
+{
+  "id": "zamak_zamak",
+  "name": "zamak",
+  "version": "ac509a8212b17e5c6f71821093cad83111fc65da",
+  "src": {
+    "url": "https://github.com/VeyraLux/Zamak",
+    "rev": "ac509a8212b17e5c6f71821093cad83111fc65da",
+    "date": "2026-11-10T21:34:54+08:00",
+    "path": "/nix/store/4sc8kwpk6ic1815jrgqcqx4siq1kwn3l-Zamak-ac509a8",
+    "sha256": "1l49ds7b616mvngqivwb3gm8w2wa59nrvj7phn9ir4l3q8smsdh8",
+    "hash": "sha256-CDZdNcKDkhyThffInW0qiguO6huL74if3dUEs45uidA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "editors/zed/grammar"
+}

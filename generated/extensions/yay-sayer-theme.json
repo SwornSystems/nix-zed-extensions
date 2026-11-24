@@ -1,0 +1,19 @@
+{
+  "name": "yay-sayer-theme",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/ednanf/yay-sayer",
+    "rev": "b535729788ae7fdefc6e30a91a3e2d03b91ebfc5",
+    "date": "2026-11-20T13:15:22-03:00",
+    "path": "/nix/store/jysfs0d6miwk3c92rapykp5lzzj44may-yay-sayer-b535729",
+    "sha256": "1zsfi8akjn8gghrgl2lhijjn092hrzww41ldk9pc10z13hrvdixd",
+    "hash": "sha256-rce2Mxzhg8Bumo0GwvnPUCRgpYyQCvoyfA9ZORWKTv8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

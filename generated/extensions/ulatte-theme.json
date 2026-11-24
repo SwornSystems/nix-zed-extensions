@@ -1,0 +1,19 @@
+{
+  "name": "ulatte-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ulatte-theme/zed",
+    "rev": "7e0cccada117102f228112f2fb6adbc30a57a97e",
+    "date": "2026-10-13T01:01:52+02:00",
+    "path": "/nix/store/w2lvfsab5l9xi14b709frg4a7l6hjb0x-zed-7e0ccca",
+    "sha256": "1pfnbi1cv6lby0licwpjj88yhbl549brqq5zx762s4xsr05sp43x",
+    "hash": "sha256-fZCrC8i6Ey3M6b9gnFcihS7oEZLychYp8IuazUJc1t0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

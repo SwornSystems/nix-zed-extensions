@@ -1,0 +1,19 @@
+{
+  "name": "copper-charcoal-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/AntonZavalniuk/copper-charcoal-theme",
+    "rev": "b6dbd6b5396e8d2da1bcda198d042081debe3ed9",
+    "date": "2026-10-20T13:24:33+02:00",
+    "path": "/nix/store/7jdxj397hrl0dy9pcl2pqhjxfljalm9w-copper-charcoal-theme-b6dbd6b",
+    "sha256": "0zm3n6v9bx1lxqw2qykym681zhvmv9wzgpp1gv46kvahn3f0ladv",
+    "hash": "sha256-uykK3LBQ7WnIfuHe93nadcMfkKl+eiw47jT0lbaxo34=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

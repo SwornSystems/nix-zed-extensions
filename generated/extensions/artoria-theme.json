@@ -1,0 +1,19 @@
+{
+  "name": "artoria-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/aaanh/artoria-theme-zed",
+    "rev": "cf92cabf3eaa1e2a37abf0ec3fc282dd6b3d94d8",
+    "date": "2026-11-01T22:31:24-05:00",
+    "path": "/nix/store/z78b6hs2kiwf1vk8k5x0dl6s5bifkvrk-artoria-theme-zed-cf92cab",
+    "sha256": "0zirw20z2iqn29szn6avcvfnk7ji2i6nlpi5cs6q64bsd377pnzj",
+    "hash": "sha256-8tt7zmh6EYONZiVeak0UUZ5p3WZbGft1EhZH8YHgOX4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

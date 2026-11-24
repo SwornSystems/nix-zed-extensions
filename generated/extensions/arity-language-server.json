@@ -1,13 +1,13 @@
 {
   "name": "arity-language-server",
-  "version": "0.1.0",
+  "version": "0.3.1",
   "src": {
     "url": "https://github.com/jolars/arity",
-    "rev": "c5a299ed38328fb790db09ea425bb364c3f5954e",
-    "date": "2026-08-24T13:15:33+02:00",
-    "path": "/nix/store/dhsfcjbacscd742pnhmfly5ylsqxk0ck-arity-c5a299e",
-    "sha256": "0xsx857jj2hbnkqi84c8vbdk8llrl9n3qpkxkc802ri6g2swjs2c",
-    "hash": "sha256-TGjJtXgmZgEQm31ePGyimVI029qIERTxtAsKKU9BXXc=",
+    "rev": "0e0ceffb719b47ba9d124f7a840caab056ee37b1",
+    "date": "2026-11-19T21:32:25+01:00",
+    "path": "/nix/store/mzf1xf6zdwj1zbaw8rvj8az21iq4wblk-arity-0e0ceff",
+    "sha256": "0w6v64d02nhdxf72317lz110ip42ywdmfjvsyylx43dkm0h803zb",
+    "hash": "sha256-6w+AIKizDdKp93pLVxv3gtwIQvj0hCGO6w1aARox23A=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": "editors/zed",
-  "cargoHash": "sha256-o1DQiUA/KNGEFgS/O3wrASn07cP6fPI8w9CKF1FLCQg="
+  "cargoHash": "sha256-8zmmanVwyIzn2UVTWcS/My6fAjDdoBXiuIcpkMPwkT4="
 }

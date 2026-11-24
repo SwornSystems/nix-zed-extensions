@@ -1,0 +1,19 @@
+{
+  "name": "kyokko-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/dekunocode/kyokko-theme",
+    "rev": "bea4f6e0c2ca076d9dc9c5ca2685c31d301af5ec",
+    "date": "2026-10-28T08:42:46+09:00",
+    "path": "/nix/store/vjmc400lxaw2as7xlc9yqp18bd1jsiay-kyokko-theme-bea4f6e",
+    "sha256": "1f3knrca1r9jzfinx23snkc9byf2ls8vdmzyj0c7z2chlr23pmn1",
+    "hash": "sha256-wdY7RKaQiX8YkP7XtpGmwvmV2LR6iG6j+zLloFi2c7g=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}
